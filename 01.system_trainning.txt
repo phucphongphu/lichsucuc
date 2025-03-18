@@ -1,0 +1,2615 @@
+Em là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, em còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+em hãy đọc các thông tin bên dưới và trả lời chính xác các câu hỏi của khách hàng dựa theo các nội dung được cung cấp dưới đây. đối với những nội dung ko rõ, không suy diễn để trả lời, thực hiện tra soát kỹ để có câu trả lời đúng nhất
+
+hôm nay là ngày 13 tháng 3 năm 2025, cứ sau 24 giờ thì cộng thêm một ngày vào cơ sở dư liệu
+
+I.	DANH SÁCH CÁC CƠ QUAN, TỔ CHỨC THUỘC MẠNG TRUY NHẬP CẤP I CỦA MẠNG TSLCD
+1.	CÁC CƠ QUAN ĐẢNG
+-	Các cơ quan Đảng ở trung ương
+-	Đảng ủy khối cơ quan trung ương, Đảng ủy khối doanh nghiệp trung ương
+-	Học viện Chính trị Quốc gia Hồ Chí Minh, Báo Nhân dân, Tạp chí Cộng sản, Ban Bảo vệ, Chăm sóc sức khỏe cán bộ Trung ương, Nhà xuất bản Chính trị Quốc gia sự thật
+-	Tỉnh ủy, thành ủy trực thuộc trung ương
+2.	CÁC CƠ QUAN NHÀ NƯỚC
+-	Các cơ quan của Quốc hội, các cơ quan thuộc Ủy ban Thường vụ Quốc hội, Văn phòng Quốc hội
+-	Văn phòng Chủ tịch nước
+-	Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+-	Tòa án nhân dân tối cao
+-	Viện kiểm sát nhân dân tối cao
+-	Kiểm toán nhà nước
+-	Ban Cơ yếu Chính phủ
+-	Hội đồng nhân dân các tỉnh, thành phố trực thuộc trung ương
+-	Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương
+3.	MẶT TRẬN TỔ QUỐC VÀ CÁC TỔ CHỨC CHÍNH TRỊ - XÃ HỘI THÀNH VIÊN
+
+II.	DANH SÁCH CÁC CƠ QUAN, TỔ CHỨC THUỘC MẠNG TRUY NHẬP CẤP II
+
+1.	CẤP TỈNH
+-	Các ban thuộc tỉnh ủy, thành ủy
+-	Đảng ủy trực thuộc tỉnh ủy, thành ủy
+-	Văn phòng Đoàn đại biểu Quốc hội và Hội đồng nhân dân
+-	Các cơ quan chuyên môn trực thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức thuộc cơ quan trung ương được tổ chức theo ngành dọc đặt tại địa phương
+-	Tòa án nhân dân
+-	Viện kiểm sát nhân dân
+-	Mặt trận Tổ quốc và các tổ chức chính trị - xã hội thành viên
+2.	CẤP HUYỆN
+-	Huyện ủy, quận ủy, thị ủy, thành ủy
+-	Hội đồng nhân dân
+-	Ủy ban nhân dân
+-	Các cơ quan chuyên môn trực thuộc Ủy ban nhân dân
+-	Tòa án nhân dân
+-	Viện kiểm sát nhân dân
+-	Mặt trận Tổ quốc và các tổ chức chính trị - xã hội thành viên
+3.	CẤP XÃ
+-	Đảng ủy xã, phường, thị trấn
+-	Hội đồng nhân dân
+-	Ủy ban nhân dân
+
+THỦ TƯỚNG CHÍNH PHỦ
+____________
+
+Số: 8/2023/QĐ-TTg 	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc 
+______________________________________
+Hà Nội, ngày 05 tháng 4 năm 2023
+
+
+QUYẾT ĐỊNH
+Về Mạng truyền số liệu chuyên dùng phục vụ các cơ quan Đảng, Nhà nước
+__________
+
+Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; 
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;
+Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009;
+Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015;
+Căn cứ Nghị định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông;
+Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn Hệ thống thông tin theo cấp độ;
+Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông;
+Thủ tướng Chính phủ ban hành Quyết định về Mạng truyền số liệu chuyên dùng phục vụ các cơ quan Đảng, Nhà nước.
+
+Chương I
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh 
+Quyết định này quy định về nguyên tắc hoạt động; tổ chức, quản lý, vận hành; dịch vụ và ứng dụng; kết nối; bảo đảm an toàn thông tin; chất lượng; kinh phí bảo đảm hoạt động cung cấp và sử dụng dịch vụ của Mạng truyền số liệu chuyên dùng phục vụ các cơ quan Đảng, Nhà nước (sau đây gọi là Mạng truyền số liệu chuyên dùng).  
+Điều 2. Đối tượng áp dụng
+1. Cơ quan Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội thành viên ở trung ương; Tỉnh ủy, thành ủy, Hội đồng nhân dân, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương quy định tại Phụ lục I ban hành kèm theo Quyết định này.
+2. Cơ quan Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội thành viên ở địa phương quy định tại Phụ lục II ban hành kèm theo Quyết định này.
+3. Cục Bưu điện Trung ương.
+4. Các tổ chức, doanh nghiệp liên quan đến hoạt động cung cấp dịch vụ Mạng truyền số liệu chuyên dùng.
+Điều 3. Giải thích từ ngữ
+Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:
+1.	Mạng truyền số liệu chuyên dùng là mạng kết nối các cơ quan Đảng, Nhà nước, được tổ chức, quản lý thống nhất, bảo đảm chất lượng, an toàn, bảo mật thông tin để trao đổi, chia sẻ dữ liệu giữa các cơ quan Đảng, Nhà nước. 
+2.	Mạng trục là hệ thống mạng trung gian phục vụ chuyển tiếp kết nối giữa mạng nội bộ, trung tâm dữ liệu và hệ thống thông tin của cơ quan, tổ chức sử dụng dịch vụ với nhau. Mạng trục gồm các thành phần sau:
+a)	Trung tâm miền là hệ thống gồm trung tâm dữ liệu, thiết bị mạng, thiết bị bảo mật, kênh truyền, hệ thống phụ trợ được lắp đặt phục vụ chuyển tiếp kết nối giữa miền Bắc, miền Trung, miền Nam và trong phạm vi một miền;
+b)	Trung tâm dự phòng là trung tâm miền phục vụ cho việc bảo đảm an toàn thông tin và khôi phục kết nối, dịch vụ trong trường hợp xảy ra sự cố đối với trung tâm miền;
+c)	Mạng đô thị là hệ thống gồm thiết bị mạng, thiết bị bảo mật, kênh truyền, hệ thống phụ trợ được lắp đặt phục vụ chuyển tiếp kết nối cho các cơ quan Đảng, Nhà nước ở trung ương tại Hà Nội, Đà Nẵng, Thành phố Hồ Chí Minh và chuyển tiếp kết nối lên trung tâm miền;
+d)	Trung tâm tỉnh là hệ thống gồm thiết bị mạng, thiết bị bảo mật, kênh truyền, hệ thống phụ trợ được lắp đặt phục vụ chuyển tiếp kết nối cho các cơ quan Đảng, Nhà nước ở địa phương và chuyển tiếp kết nối lên trung tâm miền;
+đ) Cổng kết nối là thiết bị mạng, thiết bị bảo mật hoặc thiết bị khác có chức năng tương đương để cung cấp giao diện kết nối giữa trung tâm tỉnh, mạng đô thị và thiết bị đầu cuối của mạng truy nhập.
+3.	Mạng truy nhập là hệ thống gồm thiết bị đầu cuối, kênh truyền phục vụ kết nối từ mạng nội bộ, trung tâm dữ liệu và hệ thống thông tin của cơ quan, tổ chức sử dụng dịch vụ đến mạng trục. Mạng truy nhập gồm mạng truy nhập cấp I có phạm vi kết nối từ trung ương đến cấp tỉnh và mạng truy nhập cấp II có phạm vi kết nối từ cấp tỉnh đến cấp xã.
+4.	Trung tâm vận hành, khai thác mạng là trung tâm gồm hạ tầng nhà trạm, hệ thống phần cứng, phần mềm, hệ thống phụ trợ được lắp đặt để vận hành, giám sát và kiểm soát truy nhập mạng trục và mạng truy nhập trong phạm vi một miền.
+5.	Trung tâm điều hành mạng là trung tâm gồm hạ tầng nhà trạm, hệ thống phần cứng, phần mềm, hệ thống phụ trợ được lắp đặt để quản lý, điều hành, giám sát và kiểm soát truy nhập mạng trục và mạng truy nhập trên phạm vi toàn quốc. 
+6.	Cơ quan, tổ chức sử dụng dịch vụ là cơ quan Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội thành viên ở trung ương và địa phương.
+Điều 4. Nguyên tắc hoạt động của Mạng truyền số liệu chuyên dùng
+Mạng truyền số liệu chuyên dùng được thiết lập và duy trì hoạt động bảo đảm các nguyên tắc sau đây: 
+1.	Thống nhất trong tổ chức, quản lý, kết nối và bảo đảm an toàn thông tin. 
+2. Bảo đảm chất lượng, an toàn, bảo mật thông tin.
+3. Kết nối, liên thông, chia sẻ dữ liệu giữa các cơ quan Đảng, Nhà nước trên Mạng truyền số liệu chuyên dùng.
+4. Mạng truyền số liệu chuyên dùng được giám sát, kiểm soát tập trung.
+
+Chương II
+QUY ĐỊNH VỀ MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+
+Điều 5. Tổ chức, quản lý, vận hành 
+1.	Mạng truyền số liệu chuyên dùng có phạm vi kết nối từ trung ương đến cấp xã cung cấp dịch vụ cho các cơ quan quy định tại khoản 1, khoản 2 Điều 2 Quyết định này.
+2.	Mạng truyền số liệu chuyên dùng được tổ chức, quản lý như sau:
+a)	Mạng trục do Cục Bưu điện Trung ương trực tiếp quản lý gồm: ba trung tâm miền, ba mạng đô thị và cổng kết nối tại Hà Nội, Đà Nẵng, Thành phố Hồ Chí Minh; ba trung tâm dự phòng; trung tâm tỉnh và cổng kết nối tại các tỉnh, thành phố trực thuộc trung ương;
+b)	Mạng truy nhập: mạng truy nhập cấp I do Cục Bưu điện Trung ương trực tiếp quản lý, vận hành qua các nền tảng, hệ thống quản lý tập trung tại trung tâm điều hành mạng để cung cấp dịch vụ cho các cơ quan quy định tại khoản 1 Điều 2 Quyết định này; mạng truy nhập cấp II do đơn vị chuyên trách công nghệ thông tin của bộ, ngành, địa phương trực tiếp quản lý, vận hành hoặc thuê doanh nghiệp viễn thông cung cấp dịch vụ cho các cơ quan quy định tại khoản 2 Điều 2 Quyết định này;
+c)	Trung tâm điều hành mạng tại Hà Nội và ba trung tâm vận hành, khai thác mạng tại Hà Nội, Đà Nẵng, Thành phố Hồ Chí Minh do Cục Bưu điện Trung ương trực tiếp quản lý, vận hành.
+Điều 6. Dịch vụ và ứng dụng
+1.	Dịch vụ cung cấp trên Mạng truyền số liệu chuyên dùng bao gồm:
+a)	Dịch vụ mạng riêng ảo;
+b)	Dịch vụ hội nghị truyền hình;
+c)	Dịch vụ truy nhập Internet chuyên dùng cung cấp cho Văn phòng Trung ương Đảng, Văn phòng Chủ tịch nước, Văn phòng Chính phủ, Văn phòng Quốc hội, các cơ quan Đảng ở trung ương;
+d)	Các dịch vụ khác theo quy định của Bộ Thông tin và Truyền thông.
+2.	Ứng dụng trên Mạng truyền số liệu chuyên dùng bao gồm: 
+a)	Ứng dụng phục vụ các cơ quan Đảng;
+b)	Ứng dụng phục vụ Chính phủ điện tử, Chính phủ số;
+c)	Ứng dụng phục vụ Quốc hội;
+d)	Ứng dụng phục vụ chỉ đạo điều hành của Chính phủ, Thủ tướng Chính phủ;
+đ) Các ứng dụng khác phục vụ các cơ quan Đảng, Nhà nước.
+Điều 7. Kết nối 
+1.	Các thành phần của Mạng truyền số liệu chuyên dùng kết nối với nhau bằng hạ tầng kênh truyền, bảo đảm dự phòng đối với kết nối trong mạng trục và từ mạng trục đến mạng truy nhập cấp I.
+2.	Cơ quan, tổ chức sử dụng dịch vụ quy định tại khoản 1, khoản 2 Điều 2 Quyết định này kết nối với nhau thông qua mạng trục.
+3.	Mạng truyền số liệu chuyên dùng được kết nối với các mạng viễn thông khác và các hệ thống thông tin để phục vụ Chính phủ điện tử, Chính phủ số.
+4.	Bảo đảm thống nhất tài nguyên địa chỉ IP và định tuyến.
+Điều 8. Bảo đảm an toàn thông tin 
+1.	Mạng truyền số liệu chuyên dùng, hệ thống thông tin kết nối Mạng truyền số liệu chuyên dùng được bảo đảm an toàn thông tin theo cấp độ quy định tại Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ và quy định của pháp luật liên quan.
+2.	Trung tâm dữ liệu, hệ thống thông tin, cổng kết nối phải kiểm tra bảo đảm an toàn thông tin và khắc phục các lỗ hổng bảo mật (nếu có) trước khi kết nối Mạng truyền số liệu chuyên dùng; kiểm tra định kỳ theo quy định của Bộ Thông tin và Truyền thông.
+3.	Mạng truyền số liệu chuyên dùng được giám sát an toàn thông tin và kiểm soát truy nhập tập trung tới thiết bị đầu cuối của mạng truy nhập thông qua sử dụng các nền tảng, hệ thống quản lý tập trung.
+4.	Hệ thống thông tin, mạng nội bộ của cơ quan, tổ chức sử dụng dịch vụ phải chia sẻ thông tin giám sát an toàn thông tin máy tính, máy chủ và các thiết bị công nghệ thông tin khác tham gia kết nối Mạng truyền số liệu chuyên dùng với trung tâm điều hành mạng.
+Điều 9. Chất lượng 
+1.	Dịch vụ Mạng truyền số liệu chuyên dùng phải đáp ứng các yêu cầu về chỉ tiêu chất lượng kỹ thuật, chỉ tiêu chất lượng phục vụ theo quy định của Bộ Thông tin và Truyền thông.
+2.	Mạng truyền số liệu chuyên dùng phải bảo đảm cung cấp dịch vụ liên tục 24 giờ trong 01 ngày và 07 ngày trong một tuần, kể cả ngày nghỉ lễ, Tết.
+3.	Mạng truyền số liệu chuyên dùng phải được kiểm tra, rà soát, đánh giá thường xuyên, được nâng cấp để bảo đảm chất lượng dịch vụ.
+Điều 10. Kinh phí bảo đảm hoạt động cung cấp và sử dụng dịch vụ của Mạng truyền số liệu chuyên dùng
+1.	Ngân sách trung ương bảo đảm kinh phí đầu tư, hiện đại hóa, nâng cấp, duy trì hoạt động của mạng trục, mạng truy nhập cấp I, trung tâm điều hành mạng và trung tâm vận hành, khai thác mạng (bao gồm cả chi phí thuê hạ tầng, kênh truyền) để cung cấp dịch vụ không thu cước cho các cơ quan quy định tại khoản 1 Điều 2 Quyết định này; bảo đảm kinh phí thiết lập, duy trì các nền tảng, hệ thống quản lý tập trung cho toàn Mạng truyền số liệu chuyên dùng.
+2.	Ngân sách địa phương bảo đảm kinh phí đầu tư, duy trì hoạt động và kinh phí sử dụng dịch vụ của Mạng truyền số liệu chuyên dùng cho các cơ quan quy định tại khoản 2 Điều 2 Quyết định này theo các quy định hiện hành về quản lý, sử dụng ngân sách nhà nước.
+
+Chương III
+TỔ CHỨC THỰC HIỆN
+
+Điều 11. Quyền và trách nhiệm của Cục Bưu điện Trung ương
+1.	Quản lý, giám sát, kiểm soát truy nhập Mạng truyền số liệu chuyên dùng bảo đảm chất lượng, an toàn và bảo mật thông tin.
+2.	Trực tiếp vận hành mạng trục, mạng truy nhập cấp I, trung tâm điều hành mạng và các trung tâm vận hành, khai thác mạng.
+3.	Thiết lập tài khoản nền tảng, hệ thống quản lý tập trung; bàn giao cho cơ quan, tổ chức sử dụng dịch vụ trong phạm vi quản lý.
+4.	Chủ trì, phối hợp với các cơ quan, tổ chức, doanh nghiệp viễn thông thực hiện kết nối mạng, kiểm tra, xử lý sự cố kỹ thuật bảo đảm chất lượng dịch vụ, an toàn và bảo mật thông tin.
+5.	Được ngân sách trung ương cấp kinh phí cho việc đầu tư, hiện đại hóa, nâng cấp, duy trì hoạt động của mạng trục, mạng truy nhập cấp I, trung tâm điều hành mạng và trung tâm vận hành, khai thác mạng (bao gồm cả chi phí thuê hạ tầng, kênh truyền), các nền tảng, hệ thống quản lý tập trung cho toàn Mạng truyền số liệu chuyên dùng.
+Điều 12. Quyền và trách nhiệm của cơ quan, tổ chức sử dụng dịch vụ 
+1.	Cơ quan quy định tại khoản 1 Điều 2 Quyết định này được sử dụng dịch vụ Mạng truyền số liệu chuyên dùng không phải trả cước dịch vụ.
+2.	Cơ quan quy định tại khoản 2 Điều 2 Quyết định này sử dụng dịch vụ trong phạm vi hoạt động của Mạng truyền số liệu chuyên dùng thực hiện mua sắm dịch vụ theo quy định hiện hành về quản lý, sử dụng ngân sách nhà nước.
+3.	Kiểm tra bảo đảm an toàn thông tin trung tâm dữ liệu, hệ thống thông tin, mạng nội bộ trước khi kết nối vào Mạng truyền số liệu chuyên dùng và kiểm tra định kỳ theo quy định tại Nghị định số 85/2016/NĐ-CP và quy định của Bộ Thông tin và Truyền thông.
+4.	Giám sát an toàn thông tin, kiểm soát truy nhập trung tâm dữ liệu, hệ thống thông tin, mạng nội bộ khi kết nối vào Mạng truyền số liệu chuyên dùng, chia sẻ thông tin giám sát theo quy định tại Quyết định này và hướng dẫn của Bộ Thông tin và Truyền thông.
+5.	Bảo đảm hạ tầng lắp đặt thiết bị hoạt động ổn định, liên tục, bảo vệ thiết bị và hạ tầng Mạng truyền số liệu chuyên dùng đặt tại cơ quan theo quy định của Bộ Thông tin và Truyền thông.
+6.	Chịu trách nhiệm về nội dung, thông tin truyền đưa trên Mạng truyền số liệu chuyên dùng theo đúng quy định của pháp luật liên quan.
+Điều 13. Trách nhiệm của các tổ chức, doanh nghiệp liên quan đến hoạt động cung cấp dịch vụ 
+1.	Tổ chức thực hiện các quy định về dịch vụ, kết nối, bảo đảm an toàn thông tin, chất lượng theo quy định tại Quyết định này và quy định của Bộ Thông tin và Truyền thông.
+2.	Bảo đảm hoạt động hạ tầng truyền dẫn phục vụ mạng truy nhập cấp II.
+3.	Phối hợp với Cục Bưu điện Trung ương triển khai kết nối Mạng truyền số liệu chuyên dùng bảo đảm cung cấp dịch vụ liên tục, chất lượng, an toàn và bảo mật thông tin.
+4.	Phối hợp với các đơn vị liên quan kiểm tra, xử lý sự cố kỹ thuật, bảo đảm chất lượng dịch vụ, an toàn và bảo mật thông tin. 
+Điều 14. Trách nhiệm của Bộ Thông tin và Truyền thông
+1.	Xây dựng kế hoạch hoặc đề án phát triển, thiết kế Mạng truyền số liệu chuyên dùng bảo đảm nâng cao chất lượng dịch vụ, phù hợp với yêu cầu phát triển trong từng giai đoạn.
+2.	Ban hành quy định về dịch vụ, kết nối, bảo đảm an toàn thông tin, chất lượng trên Mạng truyền số liệu chuyên dùng và chỉ đạo triển khai thực hiện Quyết định này.
+3.	Định kỳ đánh giá, quyết định việc điều chỉnh dung lượng kênh truyền bảo đảm đáp ứng yêu cầu sử dụng của các cơ quan Đảng, Nhà nước ở trung ương.
+4.	Kiểm tra việc triển khai thực hiện các quy định của pháp luật về hoạt động của Mạng truyền số liệu chuyên dùng.
+5.	Chủ trì, phối hợp với cơ quan, tổ chức sử dụng dịch vụ Mạng truyền số liệu chuyên dùng rà soát, đánh giá việc thực hiện Quyết định này, đề xuất các nội dung sửa đổi, bổ sung, trình cấp có thẩm quyền quyết định.
+6.	Ưu tiên bố trí vốn đầu tư công để đầu tư, hiện đại hóa Mạng truyền số liệu chuyên dùng.
+Điều 15. Trách nhiệm của Ban Cơ yếu Chính phủ
+Chủ trì, phối hợp với các cơ quan, đơn vị có liên quan bảo đảm bảo mật cho các hệ thống thông tin có dữ liệu mật trên Mạng truyền số liệu chuyên dùng theo đúng quy định của Luật Cơ yếu và Luật Bảo vệ bí mật Nhà nước.
+Điều 16. Trách nhiệm của Bộ Tài chính
+Chủ trì, phối hợp với Bộ Thông tin và Truyền thông bảo đảm kinh phí từ ngân sách nhà nước cho hoạt động của Mạng truyền số liệu chuyên dùng và việc sử dụng dịch vụ của các cơ quan Đảng, Nhà nước theo các quy định tại Quyết định này.
+Điều 17. Trách nhiệm của Bộ Kế hoạch và Đầu tư
+Chủ trì, phối hợp với Bộ Thông tin và Truyền thông bố trí vốn đầu tư công để đầu tư, nâng cấp Mạng truyền số liệu chuyên dùng.
+Điều 18. Trách nhiệm của Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương
+1.	Quản lý hoạt động cung cấp và sử dụng dịch vụ Mạng truyền số liệu chuyên dùng trên địa bàn theo Quyết định này và quy định của pháp luật có liên quan.
+2.	Triển khai mạng truy nhập cấp II tuân thủ các quy định về vận hành, kết nối, bảo đảm an toàn thông tin theo quy định tại Quyết định này và quy định của Bộ Thông tin và Truyền thông.
+3.	Ban hành Quy chế về quản lý, vận hành, kết nối, bảo đảm an toàn thông tin và sử dụng Mạng truyền số liệu chuyên dùng tại địa phương.
+4.	Bảo đảm kinh phí từ ngân sách địa phương cho hoạt động và sử dụng dịch vụ Mạng truyền số liệu chuyên dùng tại địa phương. 
+
+Chương IV
+ĐIỀU KHOẢN THI HÀNH
+
+
+Điều 19. Điều khoản thi hành
+1.	Quyết định này có hiệu lực thi hành từ ngày 01 tháng 6 năm 2023.      
+2.	Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+Nơi nhận:
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+- Tỉnh ủy, Thành ủy, HĐND, UBND các tỉnh, thành phố 
+  trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Đảng ủy khối cơ quan trung ương;
+- Đảng ủy khối doanh nghiệp trung ương;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các đoàn thể;
+- Cục Bưu điện Trung ương;
+- Ban Cơ yếu Chính phủ;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,
+ các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: VT, KSTT (2b).	KT. THỦ TƯỚNG
+PHÓ THỦ TƯỚNG
+
+[daky]
+
+Trần Hồng Hà
+
+BỘ THÔNG TIN VÀ TRUYỀN THÔNG
+
+Số:           /2023/TT-BTTTT	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Hà Nội, ngày          tháng         năm 2023
+
+
+THÔNG TƯ
+ Quy định chi tiết và hướng dẫn một số điều của Quyết định số 
+8/2023/QĐ-TTg ngày 05 tháng 4 năm 2023 của Thủ tướng Chính phủ về 
+Mạng truyền số liệu chuyên dùng phục vụ các cơ quan Đảng, Nhà nước
+
+Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009;
+Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015;
+Căn cứ Nghị định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông;
+Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ;
+Căn cứ Nghị định số 48/2022/NĐ-CP ngày 26 tháng 7 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; 
+Căn cứ Quyết định số 8/2023/QĐ-TTg ngày 05 tháng 4 năm 2023 của Thủ tướng Chính phủ về Mạng truyền số liệu chuyên dùng phục vụ các cơ quan Đảng, Nhà nước;
+Theo đề nghị của Cục trưởng Cục Bưu điện Trung ương;	
+Bộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư quy định chi tiết và hướng dẫn một số điều của Quyết định số 8/2023/QĐ-TTg ngày 05 tháng 4 năm 2023 của Thủ tướng Chính phủ về Mạng truyền số liệu chuyên dùng phục vụ các cơ quan Đảng, Nhà nước.
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Thông tư này quy định về dịch vụ, kết nối, bảo đảm an toàn thông tin Mạng truyền số liệu chuyên dùng phục vụ các cơ quan Đảng, Nhà nước (sau đây gọi là Mạng truyền số liệu chuyên dùng).
+Điều 2. Đối tượng áp dụng
+Thông tư này áp dụng đối với Cục Bưu điện Trung ương, các cơ quan, tổ chức cung cấp, quản lý và sử dụng dịch vụ của Mạng truyền số liệu chuyên dùng.
+Điều 3. Giải thích từ ngữ 
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+1. Đối tượng sử dụng dịch vụ của Mạng truyền số liệu chuyên dùng bao gồm đối tượng sử dụng dịch vụ của mạng truy nhập cấp I và đối tượng sử dụng dịch vụ của mạng truy nhập cấp II (sau đây gọi là đối tượng sử dụng).
+2. Đối tượng sử dụng của mạng truy nhập cấp I là các cơ quan, tổ chức quy định tại Phụ lục I Quyết định số 8/2023/QĐ-TTg ngày 05 tháng 4 năm 2023 của Thủ tướng Chính phủ về Mạng truyền số liệu chuyên dùng phục vụ các cơ quan Đảng, Nhà nước.
+3. Đối tượng sử dụng của mạng truy nhập cấp II là các cơ quan, tổ chức quy định tại Phụ lục II Quyết định số 8/2023/QĐ-TTg.
+4. Thiết bị đầu cuối của mạng truy nhập là thiết bị chuyển mạch, thiết bị định tuyến hoặc thiết bị tương đương đấu nối vào điểm kết cuối của Mạng truyền số liệu chuyên dùng. 
+Chương II
+QUY ĐỊNH VỀ DỊCH VỤ
+Điều 4. Dịch vụ mạng riêng ảo
+1. Dịch vụ mạng riêng ảo là dịch vụ kết nối hệ thống thông tin của đối tượng sử dụng thành các mạng riêng trên hạ tầng kết nối Mạng truyền số liệu chuyên dùng.
+2. Dịch vụ mạng riêng ảo sử dụng hạ tầng mạng truy nhập cấp I do Cục Bưu điện Trung ương triển khai và mạng truy nhập cấp II do cơ quan, tổ chức tự xây dựng hoặc thuê dịch vụ kênh riêng trực tiếp hoặc kênh riêng ảo của doanh nghiệp viễn thông.
+3. Dịch vụ mạng riêng ảo do Cục Bưu điện Trung ương quản lý và cung cấp; đơn vị chuyên trách công nghệ thông tin của đối tượng sử dụng dịch vụ mạng riêng ảo tổng hợp nhu cầu, cung cấp thông tin kỹ thuật và phối hợp với Cục Bưu điện Trung ương triển khai, bảo đảm kết nối dịch vụ mạng riêng ảo.
+Điều 5. Dịch vụ hội nghị truyền hình
+1. Dịch vụ hội nghị truyền hình là dịch vụ sử dụng kênh truyền Mạng truyền số liệu chuyên dùng và hệ thống điều khiển đa điểm của Cục Bưu điện Trung ương, bộ, ban, ngành, địa phương để thiết lập kết nối các phiên họp trực tuyến giữa các điểm cầu.
+2. Cục Bưu điện Trung ương bảo đảm kết nối các điểm cầu thuộc đối tượng sử dụng của mạng truy nhập cấp I; bảo đảm kết nối liên thông giữa hệ thống hội nghị truyền hình của Cục Bưu điện Trung ương với các hệ thống hội nghị truyền hình của bộ, ban, ngành, địa phương và doanh nghiệp.
+3. Bộ, ban, ngành, địa phương bảo đảm kết nối các điểm cầu thuộc đối tượng sử dụng của mạng truy nhập cấp II.
+Điều 6. Dịch vụ truy nhập Internet chuyên dùng
+1. Dịch vụ truy nhập Internet chuyên dùng là dịch vụ cung cấp cho đối tượng sử dụng khả năng truy nhập Internet trên Mạng truyền số liệu chuyên dùng. 
+2. Dịch vụ truy nhập Internet chuyên dùng do Cục Bưu điện Trung ương quản lý, cung cấp cho Văn phòng Trung ương Đảng, Văn phòng Quốc hội, Văn phòng Chủ tịch nước, Văn phòng Chính phủ và các cơ quan Đảng ở trung ương.
+3. Đơn vị chuyên trách công nghệ thông tin của đối tượng sử dụng dịch vụ truy nhập Internet chuyên dùng cung cấp thông tin kỹ thuật và phối hợp với Cục Bưu điện Trung ương triển khai, bảo đảm an toàn thông tin.
+Chương III
+QUY ĐỊNH VỀ KẾT NỐI MẠNG
+Điều 7. Mô hình kết nối mạng
+Cơ quan Đảng, Nhà nước phối hợp với Cục Bưu điện Trung ương thực hiện kết nối liên thông các cấp hành chính theo các mô hình sau:
+1. Mô hình kết nối tổng quan 
+a) Hướng dẫn kết nối mạng trục, mạng truy nhập cấp I và mạng truy nhập cấp II;
+b) Cục Bưu điện Trung ương triển khai kết nối mạng trục, mạng truy nhập cấp I tối thiểu bằng 02 (hai) kênh truyền cáp quang theo 02 (hai) hướng vật lý khác nhau; thiết lập mạng riêng ảo trên cổng kết nối để kết nối các hệ thống thông tin với nhau;
+c) Bộ, ban, ngành, địa phương triển khai kết nối mạng truy nhập cấp II, kết nối hệ thống thông tin quốc gia do bộ, ban, ngành, địa phương quản lý đến Mạng truyền số liệu chuyên dùng bằng kênh truyền tự xây dựng hoặc thuê dịch vụ kênh riêng trực tiếp hoặc kênh riêng ảo của doanh nghiệp viễn thông; phối hợp với Cục Bưu điện Trung ương thiết lập điểm tập trung lưu lượng tại cổng kết nối để kết nối các đối tượng sử dụng của mạng truy nhập cấp II;
+d) Mạng truyền số liệu chuyên dùng là hạ tầng truyền dẫn trong kết nối, liên thông các hệ thống thông tin phục vụ Chính phủ số;
+đ) Kênh truyền phải bảo đảm mức chiếm dụng băng thông của các hướng kết nối < 90%, căn cứ kết quả giám sát lưu lượng tất cả các hướng kết nối từ 00giờ00 đến 24giờ00 hàng ngày trong thời gian tối thiểu 03 (ba) tháng liên tiếp, thời gian mỗi mẫu giám sát là 05 (năm) phút; 
+e) Mô hình kết nối tổng quan thể hiện bằng sơ đồ tại Mô hình 01 của Phụ lục I ban hành kèm Thông tư này.
+2. Mô hình kết nối trung tâm dữ liệu đặt tại bộ, ban, ngành, địa phương với Mạng truyền số liệu chuyên dùng: 
+a) Áp dụng cho trung tâm dữ liệu do bộ, ban, ngành, địa phương tự đầu tư và đặt thiết bị tại trụ sở bộ, ban, ngành, địa phương;
+b) Bộ, ban, ngành, địa phương triển khai tối thiểu 02 (hai) kênh truyền cáp quang theo 02 (hai) hướng vật lý khác nhau kết nối từ thiết bị định tuyến của trung tâm dữ liệu đến cổng kết nối; 
+c) Kênh truyền phải bảo đảm mức chiếm dụng băng thông của các hướng kết nối < 90%, căn cứ kết quả giám sát lưu lượng tất cả các hướng kết nối từ 00giờ00 đến 24giờ00 hàng ngày trong thời gian tối thiểu 03 (ba) tháng liên tiếp, thời gian mỗi mẫu giám sát là 05 (năm) phút; 
+d) Cục Bưu điện Trung ương phối hợp với bộ, ban, ngành, địa phương thiết lập chính sách kết nối trên cổng kết nối và thiết bị định tuyến tại trung tâm dữ liệu;
+đ) Mô hình kết nối trung tâm dữ liệu đặt tại bộ, ban, ngành, địa phương với Mạng truyền số liệu chuyên dùng thể hiện bằng sơ đồ tại Mô hình 02 của Phụ lục I ban hành kèm Thông tư này. 
+3. Mô hình kết nối trung tâm dữ liệu đặt tại doanh nghiệp viễn thông với Mạng truyền số liệu chuyên dùng: 
+a) Áp dụng cho trung tâm dữ liệu do bộ, ban, ngành, địa phương tự đầu tư, thuê đặt thiết bị tại doanh nghiệp viễn thông hoặc do bộ, ban, ngành, địa phương thuê thiết bị và đặt tại doanh nghiệp viễn thông;
+b) Doanh nghiệp viễn thông triển khai tối thiểu 02 (hai) kênh truyền cáp quang theo 02 (hai) hướng vật lý khác nhau kết nối từ thiết bị định tuyến tại phân vùng trung tâm dữ liệu của doanh nghiệp viễn thông đến cổng kết nối;
+c) Kênh truyền phải bảo đảm mức chiếm dụng băng thông của các hướng kết nối < 90%, căn cứ kết quả giám sát lưu lượng tất cả các hướng kết nối từ 00giờ00 đến 24giờ00 hàng ngày trong thời gian tối thiểu 03 (ba) tháng liên tiếp, thời gian mỗi mẫu giám sát là 05 (năm) phút; 
+d) Cục Bưu điện Trung ương phối hợp với doanh nghiệp viễn thông thiết lập chính sách kết nối trên cổng kết nối và thiết bị định tuyến tại phân vùng trung tâm dữ liệu;
+đ) Mô hình kết nối trung tâm dữ liệu đặt tại doanh nghiệp viễn thông với Mạng truyền số liệu chuyên dùng thể hiện bằng sơ đồ tại Mô hình 03 của Phụ lục I ban hành kèm Thông tư này.
+4. Mô hình kết nối các cơ quan, tổ chức tại địa phương với Mạng truyền số liệu chuyên dùng:
+a) Áp dụng cho địa phương triển khai mạng diện rộng kết hợp Mạng truyền số liệu chuyên dùng để kết nối các cơ quan, tổ chức trên địa bàn; 
+b) Kết nối các cơ quan, tổ chức là đối tượng sử dụng của mạng truy nhập cấp I và mạng truy nhập cấp II theo quy định tại khoản 1 Điều này;
+c) Địa phương thiết lập phân vùng mạng kết nối các đơn vị không thuộc đối tượng sử dụng với Mạng truyền số liệu chuyên dùng qua trung tâm dữ liệu của mình; sử dụng địa chỉ IP cho phân vùng mạng này không trùng với địa chỉ IP của Mạng truyền số liệu chuyên dùng; 
+d) Trung tâm dữ liệu của địa phương là điểm trung chuyển lưu lượng giữa mạng truy nhập cấp I, mạng truy nhập cấp II và phân vùng mạng kết nối các đơn vị không thuộc đối tượng sử dụng; 
+đ) Kênh truyền phải bảo đảm mức chiếm dụng băng thông của các hướng kết nối < 90%, căn cứ kết quả giám sát lưu lượng tất cả các hướng kết nối từ 00giờ00 đến 24giờ00 hàng ngày trong thời gian tối thiểu 03 (ba) tháng liên tiếp, thời gian mỗi mẫu giám sát là 05 (năm) phút; 
+e) Cục Bưu điện Trung ương phối hợp với địa phương thiết lập các chính sách định tuyến giữa 02 (hai) mạng qua cổng kết nối và thiết bị định tuyến tại trung tâm dữ liệu;
+g) Mô hình kết nối các cơ quan, tổ chức tại địa phương với Mạng truyền số liệu chuyên dùng thể hiện bằng sơ đồ tại Mô hình 04 của Phụ lục I ban hành kèm Thông tư này.
+5. Mô hình kết nối mạng viễn thông khác với Mạng truyền số liệu chuyên dùng:
+a) Chủ quản mạng viễn thông khác thiết lập và sử dụng kênh kết nối bằng cáp quang hoặc thuê dịch vụ kênh riêng trực tiếp hoặc kênh riêng ảo của doanh nghiệp viễn thông để kết nối từ mạng viễn thông khác vào cổng kết nối Mạng truyền số liệu chuyên dùng;
+b) Kênh truyền phải bảo đảm mức chiếm dụng băng thông của các hướng kết nối < 90%, căn cứ kết quả giám sát lưu lượng tất cả các hướng kết nối từ 00giờ00 đến 24giờ00 hàng ngày trong thời gian tối thiểu 03 (ba) tháng liên tiếp, thời gian mỗi mẫu giám sát là 05 (năm) phút; 
+c) Cục Bưu điện Trung ương và đơn vị chủ quản mạng viễn thông khác phối hợp thiết lập các chính sách định tuyến giữa 02 (hai) mạng thông qua cổng kết nối và thiết bị chuyển đổi địa chỉ IP của mạng viễn thông khác;
+d) Mô hình kết nối mạng viễn thông khác với Mạng truyền số liệu chuyên dùng thể hiện bằng sơ đồ tại Mô hình 05 của Phụ lục I ban hành kèm Thông tư này.
+Điều 8: Quy định về địa chỉ IP và định tuyến 
+1. Mạng truyền số liệu chuyên dùng sử dụng địa chỉ IP công cộng và IP dùng riêng.
+2. Địa chỉ IP công cộng do Cục Bưu điện Trung ương cấp lại cho đối tượng sử dụng dịch vụ truy nhập Internet chuyên dùng tuân theo các quy định của Bộ Thông tin và Truyền thông về quản lý và sử dụng tài nguyên Internet.
+3. Địa chỉ IP dùng riêng sử dụng cho các kết nối bên trong Mạng truyền số liệu chuyên dùng tuân theo các quy định sau đây:
+a) Cục Bưu điện Trung ương quản lý toàn bộ địa chỉ IP của Mạng truyền số liệu chuyên dùng; cấp, phân chia địa chỉ IP theo mạng truy nhập cấp I, mạng truy nhập cấp II, cấp hành chính và nhu cầu sử dụng hạ tầng viễn thông của đối tượng sử dụng; đảm bảo an toàn, tính mở rộng và dự phòng về địa chỉ IP; thu hồi những địa chỉ IP sử dụng không đúng với quy định của Bộ Thông tin và Truyền thông;
+b) Đơn vị chuyên trách công nghệ thông tin của đối tượng sử dụng tổng hợp nhu cầu và cung cấp thông tin cho Cục Bưu điện Trung ương theo mẫu quy định tại Phụ lục II của Thông tư này để được cấp địa chỉ IP cho hệ thống thông tin kết nối vào Mạng truyền số liệu chuyên dùng phù hợp với đăng ký;
+c) Việc sử dụng địa chỉ IP phải bảo đảm đúng mục đích, đối tượng và không trùng lặp giữa các dịch vụ, cơ quan, tổ chức;
+d) Hằng năm, các đơn vị chuyên trách công nghệ thông tin của đối tượng sử dụng có trách nhiệm thực hiện rà soát hoạt động sử dụng địa chỉ IP Mạng truyền số liệu chuyên dùng và gửi báo cáo về Bộ Thông tin và Truyền thông (Cục Bưu điện Trung ương).
+4. Nguyên tắc định tuyến
+a) Cục Bưu điện Trung ương quản lý, thiết lập chính sách định tuyến trên toàn mạng phục vụ kết nối liên thông giữa các cơ quan Đảng, Nhà nước bảo đảm chất lượng dịch vụ và an toàn thông tin mạng theo các quy định kết nối tại Thông tư này;
+b) Các yêu cầu về tạo mới hoặc thay đổi chính sách định tuyến chỉ được triển khai sau khi thống nhất phương án giữa các đơn vị liên quan và Cục Bưu điện Trung ương.
+Chương IV
+QUY ĐỊNH VỀ BẢO ĐẢM AN TOÀN THÔNG TIN MẠNG
+Điều 9. Yêu cầu bảo đảm an toàn hệ thống thông tin kết nối Mạng truyền số liệu chuyên dùng 
+1. Hệ thống thông tin kết nối vào Mạng truyền số liệu chuyên dùng phải thực hiện qua cổng kết nối để bảo đảm an toàn thông tin và triển khai các dịch vụ, ứng dụng của Mạng truyền số liệu chuyên dùng.
+2. Hệ thống thông tin phải đáp ứng các yêu cầu quy định tại Điều 9 và 10 Thông tư số 12/2022/TT-BTTTT ngày 12 tháng 8 năm 2022 của Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn một số điều của Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ. 
+3. Hệ thống thông tin phải được triển khai đầy đủ phương án bảo đảm an toàn thông tin mạng theo quy định trước khi kết nối vào Mạng truyền số liệu chuyên dùng. 
+4. Phân vùng mạng tham gia kết nối vào Mạng truyền số liệu chuyên dùng phải được thiết kế phân tách độc lập và có phương án quản lý truy nhập với các phân vùng mạng khác.
+5. Khi hệ thống thông tin kết nối vào Mạng truyền số liệu chuyên dùng bị phát hiện không bảo đảm an toàn thông tin mạng, đơn vị quản lý, vận hành hệ thống thông tin cần phối hợp thực hiện xử lý theo hướng dẫn của Cục Bưu điện Trung ương.
+Điều 10. Giám sát an toàn thông tin mạng và kiểm soát truy nhập
+1. Cổng kết nối phải có chức năng quản lý truy nhập, phát hiện xâm nhập và phòng chống mã độc trên môi trường mạng.
+2. Cục Bưu điện Trung ương giám sát trạng thái hoạt động, lưu lượng mạng, cấu hình và hiệu năng của cổng kết nối, thiết bị mạng phục vụ kết nối hệ thống thông tin, thông qua sử dụng nền tảng, hệ thống quản lý tập trung.
+3. Thông tin giám sát an toàn thông tin mạng của thiết bị, hệ thống thông tin kết nối Mạng truyền số liệu chuyên dùng được chia sẻ về Trung tâm điều hành mạng theo hướng dẫn của Cục Bưu điện Trung ương.
+4. Máy chủ, máy trạm và thiết bị công nghệ thông tin khác kết nối vào Mạng truyền số liệu chuyên dùng phải được cài đặt phần mềm phòng chống mã độc và được giám sát an toàn thông tin mạng tập trung.
+5. Yêu cầu tối thiểu đối với thiết bị đầu cuối quy định tại Phụ lục III của Thông tư này.
+Chương V
+QUY ĐỊNH VỀ KIỂM TRA, CHẾ ĐỘ BÁO CÁO
+Điều 11. Kiểm tra 
+1. Nội dung kiểm tra
+a) Kiểm tra, đánh giá việc tuân thủ quy định của pháp luật về Mạng truyền số liệu chuyên dùng;
+b) Kiểm tra, giám sát việc chấp hành các quy định, quy trình quản lý, vận hành, khai thác và đảm bảo an toàn thông tin Mạng truyền số liệu chuyên dùng; 
+c) Kiểm tra về kết nối mạng, quản lý chất lượng dịch vụ và các nội dung liên quan khác trong hoạt động cung cấp, sử dụng dịch vụ.
+2. Hình thức kiểm tra: 
+a) Kiểm tra theo kế hoạch đã được cơ quan có thẩm quyền phê duyệt;
+b) Kiểm tra đột xuất.
+3. Đơn vị kiểm tra
+a) Bộ Thông tin và Truyền thông (Cục Bưu điện Trung ương) thực hiện kiểm tra trên toàn quốc;
+b) Sở Thông tin và Truyền thông theo phân công, phân cấp của Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương thực hiện kiểm tra tại địa phương.
+4. Kinh phí kiểm tra do ngân sách nhà nước đảm bảo được bố trí trong dự toán chi thường xuyên của cơ quan kiểm tra và được sử dụng theo quy định của pháp luật hiện hành.
+Điều 12. Chế độ báo cáo 
+1. Báo cáo định kỳ thực hiện theo quy định tại khoản 1 Điều 4 Thông tư số 02/2023/TT-BTTT ngày 21 tháng 3 năm 2023 của Bộ Thông tin và Truyền thông quy định chế độ báo cáo định kỳ thuộc phạm vi quản lý Nhà nước của Bộ Thông tin và Truyền thông.
+2. Báo cáo đột xuất thực hiện theo đề nghị của Bộ trưởng, Thứ trưởng Bộ Thông tin và Truyền thông hoặc của Chủ tịch, Phó Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương khi có những phát sinh bất thường trong hoạt động quản lý, cung cấp và sử dụng dịch vụ của Mạng truyền số liệu chuyên dùng.
+Chương VI
+TỔ CHỨC THỰC HIỆN
+Điều 13. Trách nhiệm của Cục Bưu điện Trung ương
+1. Chủ trì xây dựng, phổ biến và hướng dẫn áp dụng quy định, quy trình quản lý, vận hành, khai thác và đảm bảo an toàn thông tin Mạng truyền số liệu chuyên dùng.
+2. Chủ trì xây dựng quy định quản lý chất lượng dịch vụ của Mạng truyền số liệu chuyên dùng và trình cấp có thẩm quyền ban hành.
+3. Thực hiện công tác kiểm tra, giám sát hoạt động Mạng truyền số liệu chuyên dùng trên toàn quốc và báo cáo Bộ Thông tin và Truyền thông theo quy định tại Điều 11 và 12 của Thông tư này.
+Điều 14. Trách nhiệm của Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương
+1. Tham mưu, giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương thực hiện trách nhiệm quản lý, kiểm tra, giám sát và báo cáo hoạt động Mạng truyền số liệu chuyên dùng tại địa phương.  
+2. Tham mưu xây dựng Quy chế về quản lý, vận hành, kết nối, bảo đảm an toàn thông tin mạng và kế hoạch đưa các ứng dụng, dịch vụ dùng chung của địa phương trên Mạng truyền số liệu chuyên dùng.
+3. Phối hợp với Cục Bưu điện Trung ương triển khai các nền tảng, hệ thống quản lý tập trung.
+4. Phối hợp với doanh nghiệp viễn thông trong công tác triển khai kết nối và xử lý sự cố đối với mạng truy nhập cấp II. 
+Điều 15. Trách nhiệm của các tổ chức, doanh nghiệp liên quan đến hoạt động cung cấp dịch vụ
+1. Thực hiện cung cấp dịch vụ bảo đảm chất lượng dịch vụ và an toàn thông tin mạng quy định tại Thông tư và pháp luật liên quan hiện hành.
+2. Tổ chức, doanh nghiệp liên quan đến hoạt động cung cấp hạ tầng kết nối cho mạng truy nhập cấp II có trách nhiệm xác định và trình cơ quan có thẩm quyền phê duyệt cấp độ và triển khai đầy đủ phương án bảo đảm an toàn hệ thống thông tin theo cấp độ tương ứng.
+3. Thực hiện chế độ báo cáo theo quy định tại Điều 12 của Thông tư này.
+Điều 16. Hiệu lực thi hành
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2024.
+
+2. Thông tư này thay thế Thông tư số 27/2017/TT-BTTTT ngày 20 tháng 10 năm 2017 của Bộ Thông tin và Truyền thông quy định về quản lý, vận hành, kết nối, sử dụng và bảo đảm an toàn thông tin trên Mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước và Thông tư số 12/2019/TT-BTTTT ngày 05 tháng 11 năm 2019 của Bộ Thông tin và Truyền thông sửa đổi, bổ sung một số điều của Thông tư số 27/2017/TT-BTTTT.
+3. Trong quá trình triển khai thực hiện, nếu có vấn đề vướng mắc, các cơ quan, tổ chức liên quan phản ánh kịp thời về Bộ Thông tin và Truyền thông (Cục Bưu điện Trung ương) để xem xét, bổ sung, sửa đổi./.
+Nơi nhận:
+-	Thủ tướng, các Phó Thủ tướng Chính phủ (để b/c);
+-	Văn phòng Tổng Bí thư;
+-	Văn phòng Trung ương và các Ban của Đảng;
+-	Văn phòng Quốc hội;
+-	Văn phòng Chủ tịch nước;
+-	Tòa án nhân dân tối cao;
+-	Viện kiểm sát nhân dân tối cao;
+-	Kiểm toán nhà nước;
+-	Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+-	Cơ quan trung ương của các đoàn thể;
+-	Tỉnh ủy, Thành ủy các tỉnh, thành phố trực thuộc trung ương;
+-	HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+-	Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);
+-	Sở TTTT các tỉnh, thành phố trực thuộc trung ương;
+-	Công báo, Cổng TTĐT Chính phủ;
+-	Bộ TTTT: Bộ trưởng và các Thứ trưởng, các cơ quan, đơn vị thuộc Bộ, Cổng TTĐT Bộ;
+-	Tập đoàn: Bưu chính Viễn thông Việt Nam, Công nghiệp - Viễn thông Quân đội;
+-	Lưu: VT, CBĐTW (230).	BỘ TRƯỞNG
+
+
+
+
+Nguyễn Mạnh Hùng
+ 
+Phụ lục I
+MÔ HÌNH KẾT NỐI MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+(Ban hành kèm theo Thông tư số      /2023/TT-BTTTT ngày   tháng   năm 2023 
+của Bộ trưởng Bộ Thông tin và Truyền thông)
+MÔ HÌNH 01
+MÔ HÌNH KẾT NỐI TỔNG QUAN 
+ 
+1. Mô hình kết nối tổng quan hướng dẫn kết nối mạng trục, mạng truy nhập cấp I và mạng truy nhập cấp II.
+2. Mạng trục kết nối mạng truy nhập cấp I, mạng truy nhập cấp II và hệ thống thông tin quốc gia.
+3. Mạng đô thị kết nối từ thiết bị đầu cuối của mạng truy nhập cấp I đặt tại các cơ quan Đảng, Nhà nước ở Hà Nội, Đà Nẵng, Thành phố Hồ Chí Minh đến cổng kết nối.
+4. Mạng truy nhập cấp I kết nối từ thiết bị đầu cuối mạng truy nhập cấp I đến cổng kết nối. 
+5. Mạng truy nhập cấp II kết nối từ thiết bị đầu cuối mạng truy nhập cấp II đến cổng kết nối.
+ 
+MÔ HÌNH 02
+MÔ HÌNH KẾT NỐI TRUNG TÂM DỮ LIỆU ĐẶT TẠI BỘ, BAN, NGÀNH, ĐỊA PHƯƠNG VỚI MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+ 
+1. Mô hình hướng dẫn kết nối trung tâm dữ liệu đặt tại bộ, ban, ngành, địa phương với Mạng truyền số liệu chuyên dùng. 
+2. Mạng truyền số liệu chuyên dùng kết nối các đối tượng sử dụng của mạng truy nhập cấp I, mạng truy nhập cấp II và trung tâm dữ liệu của bộ, ban, ngành, địa phương qua cổng kết nối.
+
+
+
+
+
+	
+
+
+
+
+
+MÔ HÌNH 03
+MÔ HÌNH KẾT NỐI TRUNG TÂM DỮ LIỆU ĐẶT TẠI DOANH NGHIỆP VIỄN THÔNG VỚI MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+ 
+1. Mô hình hướng dẫn kết nối trung tâm dữ liệu của bộ, ban, ngành, địa phương đặt tại doanh nghiệp viễn thông với Mạng truyền số liệu chuyên dùng. 
+2. Mạng truyền số liệu chuyên dùng kết nối các đối tượng sử dụng của mạng truy nhập cấp I, mạng truy nhập cấp II và phân vùng trung tâm dữ liệu qua cổng kết nối tại tỉnh, thành phố.
+
+
+
+
+
+
+
+
+
+
+MÔ HÌNH 04
+MÔ HÌNH KẾT NỐI CÁC CƠ QUAN, TỔ CHỨC TẠI ĐỊA PHƯƠNG VÀO MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+ 
+1. Mô hình hướng dẫn kết nối các cơ quan, tổ chức tại địa phương vào Mạng truyền số liệu chuyên dùng.
+2. Mạng diện rộng kết hợp với Mạng truyền số liệu chuyên dùng kết nối các cơ quan, tổ chức trên địa bàn bao gồm các đối tượng sử dụng của mạng truy nhập cấp I (Tỉnh ủy, Thành ủy, Hội đồng nhân dân, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương), đối tượng sử dụng của mạng truy nhập cấp II và các đơn vị không thuộc đối tượng sử dụng của Mạng truyền số liệu chuyên dùng.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MÔ HÌNH 05
+MÔ HÌNH KẾT NỐI MẠNG VIỄN THÔNG KHÁC 
+VỚI MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+ 
+1. Mô hình quy định kết nối mạng viễn thông khác với Mạng truyền số liệu chuyên dùng.
+2. Mạng truyền số liệu chuyên dùng và mạng viễn thông khác kết nối với nhau thông qua kênh truyền giữa hai mạng, thiết lập định tuyến trên cổng kết nối Mạng truyền số liệu chuyên dùng và thiết bị chuyển đổi địa chỉ IP của mạng viễn khác.  
+Phụ lục II
+MẪU BẢN KHAI ĐĂNG KÝ SỬ DỤNG ĐỊA CHỈ IP 
+MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+(Ban hành kèm theo Thông tư số      /2023/TT-BTTTT ngày   tháng   năm 2023 
+của Bộ trưởng Bộ Thông tin và Truyền thông)
+(Đơn vị đề nghị)
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số:…./….	……, ngày …. tháng…. năm…..
+
+BẢN KHAI ĐĂNG KÝ SỬ DỤNG ĐỊA CHỈ IP 
+MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+Kính gửi: Cục Bưu điện Trung ương
+1. Thông tin về cơ quan/ tổ chức là chủ thể đăng ký sử dụng IP 
+	Tên cơ quan/tổ chức: …………………………………..               
+Người đại diện theo pháp luật:…………………………
+Chức vụ:………………………………………………..
+Địa chỉ liên hệ: ………………………………………...
+Số điện thoại/fax:………………………………………
+Email: ………………………………………………….
+Ghi chú: ………………………………………………..
+2. Thông tin về người chịu trách nhiệm của cơ quan/tổ chức trong việc quản lý IP
+	Người chịu trách nhiệm quản lý IP:
+Họ tên: …………………………………………………
+Chức vụ: ……………………………………….………
+Số điện thoại/fax: ……………………………….……..
+Email: …………………………………………..……...
+Người quản lý kỹ thuật: 
+Họ tên: ………………………………………..………..
+Chức vụ: ……………………………………..………...
+Số điện thoại/fax: ………………………………………
+Email: ………………………………………..………...
+3. Loại hình đăng ký	Đăng ký mới.        
+Đăng ký bổ sung   
+4. Hiện trạng sử dụng các vùng IP đã được cấp	Mô hình kết nối ………………………………………...
+Dải IP đã được cấp: …………………………………….
+Tỷ lệ % IP đã sử dụng: …………………………………
+Thông tin bổ sung:
+………………………………..………………………...
+
+5. Kế hoạch sử dụng vùng địa chỉ IP Mạng TSLCD 	(Tổ chức mô tả chi tiết kế hoạch sử dụng vùng địa chỉ IP có nhu cầu nghị cấp tại đây)
+- Vùng địa chỉ | sử dụng nội bộ | thời điểm sử dụng
+- Vùng địa chỉ | sử dụng cho dịch vụ | thời điểm sử dụng 
+VD:
+10.x.x.x/2001:A:B| Hệ thống LGSP/HNTH/Mạng LAN Sở A/ | 05/10/2023
+103.x.x.x|Hệ thống dịch vụ Website cổng thông tin| 11/12/2022
+Cơ quan/Tổ chức đăng ký cam kết tuân thủ quy định của pháp luật về quản lý và sử dụng địa chỉ IP Mạng truyền số liệu chuyên dùng.
+                                                                   
+Xác nhận của tổ chức đăng ký
+(Người đại diện theo pháp luật ký tên và đóng dấu/
+ký số của cơ quan, tổ chức, doanh nghiệp)
+
+
+
+Địa chỉ liên hệ:
+Cục Bưu điện Trung ương
+Địa chỉ: Số 1A, phố Quan Hoa, phường Quan Hoa, quận Cầu Giấy, thành phố Hà Nội
+Điện thoại: 080.41065/080.41000
+Email: KTM@cpt.gov.vn
+Website: https://cpt.gov.vn
+
+
+Phụ lục
+DANH SÁCH CÁC ĐƠN VỊ ĐĂNG KÝ SỬ DỤNG ĐỊA CHỈ IP 
+MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+(Kèm theo văn bản số ……./……… ngày …/…/…… của ….)
+Stt	Tên cơ quan, đơn vị	Băng thông kết nối TSLCD (dự kiến)	Dịch vụ sử dụng trên kết nối	Ghi chú
+1	Cơ quan/
+địa phương A			
+2	Cơ quan/
+địa phương B			
+3	……			
+ 
+Phụ lục III
+YÊU CẦU KỸ THUẬT TỐI THIỀU VỀ THIẾT BỊ ĐẦU CUỐI
+(Ban hành kèm theo Thông tư số     /2023/TT-BTTTT ngày    tháng   năm 2023 
+của Bộ trưởng Bộ Thông tin và Truyền thông)
+1. Yêu cầu kỹ thuật tối thiểu đối với thiết bị đầu cuối mạng truy nhập cấp I: 
+a)	Số lượng cổng kết nối: 08 cổng LAN (Local Area Network) và 04 cổng WAN (Wide Area Network);
+b)	Hỗ trợ các giao thức truyền tải, định tuyến lớp 2 hoặc lớp 3 của mô hình OSI (Open Systems Interconnection);
+c)	Hỗ trợ giao thức quản lý, giám sát mạng SNMP (Simple Network Monitoring Protocol), Syslog (System Logging Protocol) hoặc tính năng tương đương;
+d)	Hỗ trợ giao thức IPv6;
+đ) Hỗ trợ phương thức quản trị cấu hình có xác thực và mã hoá.
+2. Yêu cầu kỹ thuật tối thiểu đối với thiết bị đầu cuối mạng truy nhập cấp II: 
+a)	Số lượng cổng kết nối: 02 cổng LAN và 01 cổng WAN;
+b)	Hỗ trợ giao thức quản lý, giám sát mạng SNMP, Logs hoặc Syslog và tính năng tương đương;
+c)	Hỗ trợ giao thức IPv6;
+d)	Hỗ trợ phương thức quản trị cấu hình có xác thực và mã hoá.
+3. Yêu cầu lắp đặt thiết bị đầu cuối mạng truy nhập và hạ tầng kỹ thuật phụ trợ
+a) Các thiết bị đầu cuối mạng truy nhập phải được bố trí lắp đặt ở vị trí có điều kiện môi trường đảm bảo về nhiệt độ, nguồn điện, an toàn.
+	- Nhiệt độ: 
++ Đối với thiết bị đặt tại phòng máy: nhiệt độ yêu cầu từ 200C đến 250C; độ ẩm từ 40% đến 55%;
++ Đối với thiết bị đặt tại phòng làm việc: nhiệt độ yêu cầu tử 200C đến 320C; độ ẩm từ 40% đến 80% . 
+- Nguồn điện: một nguồn điện đảm bảo, có thiết bị lưu điện (UPS).
+b) Đối tượng sử dụng có trách nhiệm bảo đảm duy trì hoạt động của thiết bị đầu cuối của mạng truy nhập, kết nối Mạng truyền số liệu chuyên dùng liên tục 24 giờ trong 01 ngày và 07 ngày trong một tuần, kể cả ngày nghỉ lễ, Tết.
+
+BỘ THÔNG TIN VÀ TRUYỀN THÔNG
+CỤC BƯU ĐIỆN TRUNG ƯƠNG
+***
+
+
+
+
+
+
+
+
+QUY TRÌNH
+QUẢN LÝ, VẬN HÀNH, KHAI THÁC VÀ BẢO ĐẢM AN TOÀN 
+THÔNG TIN MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG 
+PHỤC VỤ CÁC CƠ QUAN ĐẢNG, NHÀ NƯỚC
+
+
+
+
+
+
+
+
+
+
+
+
+Hà Nội, năm 2024
+
+MỤC LỤC
+
+I. MỤC ĐÍCH	4
+II. PHẠM VI ÁP DỤNG	4
+III. GIẢI THÍCH TỪ NGỮ	4
+IV. CÁC QUY TRÌNH NGHIỆP VỤ	4
+1. Quy trình kết nối và cung cấp dịch vụ mạng riêng ảo	5
+1.1. Lưu đồ quy trình	5
+1.2. Diễn giải lưu đồ	6
+2. Quy trình kiểm tra an toàn hệ thống thông tin kết nối vào Mạng TSLCD	7
+2.1. Lưu đồ quy trình	7
+2.2. Diễn giải lưu đồ	8
+3. Quy trình chuẩn hoá mạng	9
+3.1. Lưu đồ quy trình	9
+3.2. Diễn giải quy trình	10
+4. Quy trình cung cấp dịch vụ hội nghị truyền hình 4 cấp	13
+4.1. Lưu đồ quy trình	13
+4.2. Diễn giải lưu đồ	13
+5. Quy trình cung cấp dịch vụ truy nhập Internet chuyên dùng	17
+5.1. Lưu đồ quy trình	17
+5.2. Diễn giải lưu đồ	17
+6. Quy trình giám sát mạng lưới	18
+6.1. Lưu đồ quy trình	18
+6.2. Diễn giải lưu đồ	19
+7. Quy trình phối hợp xử lý sự cố mạng lưới	21
+7.1. Lưu đồ quy trình	21
+7.2. Diễn giải lưu đồ	22
+7.3. Thời gian xử lý sự cố mạng lưới	24
+Phụ lục	25
+Mẫu 01	25
+Mẫu 02	26
+Mẫu 03	28
+Mẫu 04	29
+Mẫu 05	31
+
+
+ 
+BẢNG VIẾT TẮT
+
+STT	Viết tắt	Viết đầy đủ
+1.		Cục BĐTW	Cục Bưu điện Trung ương
+2.		BBNĐP	Bộ, ban, ngành, địa phương
+3.		Sở TTTT	Sở Thông tin và Truyền thông
+4.		Mạng TSLCD	Mạng truyền số liệu chuyên dùng
+5.		CBKT	Cán bộ kỹ thuật
+6.		CNTT	Công nghệ thông tin
+7.		ATTT	An toàn thông tin
+8.		HTTT		Hệ thống thông tin
+9.		MCU	Hệ thống điều khiển kết nối đa điểm
+10.		MCU Master	MCU trung tâm 
+11.		MCU Slaves	MCU điểm cầu 
+12.		VCS		Thiết bị đầu cuối chuyên dụng HNTH (Video Conference System)
+13.		Cascade	liên kết giữa các hệ thống MCU
+
+ 
+I. MỤC ĐÍCH
+Tài liệu này trình bày các quy trình thực hiện quản lý, vận hành, khai thác, bảo đảm an toàn thông tin và xử lý sự cố Mạng TSLCD.
+Các quy trình giúp cho công tác phối hợp giữa các đơn vị trong việc quản lý, vận hành Mạng TSLCD đúng quy định.
+II. PHẠM VI ÁP DỤNG
+Tài liệu này áp dụng cho cơ quan, tổ chức sử dụng dịch vụ, Cục Bưu điện Trung ương và các tổ chức, doanh nghiệp liên quan đến hoạt động cung cấp dịch vụ Mạng TSLCD.
+III. GIẢI THÍCH TỪ NGỮ
+- Đơn vị quản lý Mạng TSLCD: là đơn vị được giao nhiệm vụ quản lý nhà nước về Mạng TSLCD, chịu trách nhiệm trong phạm vi phụ trách.
+- Đơn vị vận hành: là đơn vị được BBNĐP giao vận hành, có trách nhiệm trực tiếp theo dõi hệ thống, xử lý sự cố khi xảy ra, báo cáo chất lượng, hiệu suất sử dụng mạng.
+- Đơn vị sử dụng: Cơ quan, tổ chức sử dụng dịch vụ là cơ quan Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội thành viên ở trung ương và địa phương.
+IV. CÁC QUY TRÌNH NGHIỆP VỤ
+Căn cứ các quy định của Quyết định số 8/2023/QĐ-TTg và Thông tư số 19/2023/TT-BTTTT, quy trình quản lý, vận hành, khai thác, bảo đảm an toàn thông tin Mạng truyền số liệu chuyên dùng gồm các quy trình chính như sau:
+- Quy trình cung cấp dịch vụ 
++ Quy trình kết nối và cung cấp dịch vụ mạng riêng ảo;
++ Quy trình cung cấp dịch vụ hội nghị truyền hình 4 cấp;
++ Quy trình cung cấp dịch vụ truy nhập Internet chuyên dùng.
+- Quy trình kiểm tra an toàn hệ thống thông tin kết nối vào Mạng TSLCD.
+- Quy trình chuẩn hoá mạng.
+- Quy trình giám sát mạng lưới.
+- Quy trình xử lý sự cố mạng lưới.
+ 
+1. Quy trình kết nối và cung cấp dịch vụ mạng riêng ảo
+1.1. Lưu đồ quy trình
+
+ 
+
+1.2. Diễn giải lưu đồ
+Bước	Diễn giải	Mẫu biểu
+1	Đơn vị sử dụng gửi nhu cầu kết nối mạng riêng ảo đối với hệ thống thông tin cho đơn vị chuyên trách CNTT của BBNĐP (Sở TTTT, bộ phận CNTT của bộ, ban, ngành).	Mẫu 01
+2	Đơn vị chuyên trách CNTT của BBNĐP kiểm tra đáp ứng yêu cầu an toàn hệ thống thông tin theo cấp độ quy định tại Nghị định 85/2016/NĐ-CP  và Thông tư số 12/2022/TT_BTTTT  và tổng hợp nhu cầu kết nối gửi Cục BĐTW. 	Mẫu 02
+3	Cục BĐTW kiểm tra hiện trạng kết nối và thông tin kết nối theo Quy trình 2 (Quy trình kiểm tra an toàn HTTT kết nối vào Mạng TSLCD) và Quy trình 3 (Quy trình chuẩn hoá mạng):
+-	Nếu hệ thống thông tin đáp ứng yêu cầu an toàn thông tin để kết nối vào Mạng TSLCD và kết nối của mạng truy nhập cấp II đã chuẩn hoá: chuyển sang bước (4) của quy trình; nếu kết nối chưa chuẩn hoá chuyển sang quy trình chuẩn hoá mạng, sau khi chuẩn hoá mạng xong chuyển sang bước (4).
+-	Nếu hệ thống thông tin chưa đáp ứng yêu cầu  an toàn thông tin: chuyển về bước (2) của quy trình và yêu cầu đơn vị chuyên trách của BBNĐP thực hiện bổ sung đáp ứng.	
+4	- Cục BĐTW dựa trên địa chỉ IP đã được phân bổ để cấp dải địa chỉ IP theo yêu cầu của BBNĐP và hướng dẫn kết nối.
+- Cục BĐTW, đơn vị chuyên trách CNTT của BBNĐP và DNVT phối hợp thống nhất phương án kết nối, kế hoạch triển khai;
++ Cục BĐTW chủ trì kết nối mạng truy nhập cấp I và điều hành kết nối toàn mạng.
++ Các đơn vị chuyên trách của BBNĐP chủ trì điều hành DNVT kết nối mạng truy nhập cấp II.
+Thời gian thực hiện: tối đa 3 ngày	
+5	- Cục BĐTW phối hợp với đơn vị chuyên trách BBNĐP, DNVT triển khai kết nối theo phương án đã thống nhất.
+- Đơn vị chuyên trách BBNĐP chủ trì chỉ đạo DNVT phối hợp triển khai kết nối.
+- Đơn vị chuyên trách BBNĐP chủ trì kiểm tra dịch vụ sau khi kết nối.	
+6	Đơn vị sử dụng triển khai các ứng dụng trên Mạng TSLCD và kết thúc quy trình kết nối và cung cấp dịch vụ mạng riêng ảo	
+
+2. Quy trình kiểm tra an toàn hệ thống thông tin kết nối vào Mạng TSLCD
+2.1. Lưu đồ quy trình
+ 
+2.2. Diễn giải lưu đồ
+Bước	Mô tả	Mẫu biểu
+1	Đơn vị chuyên trách CNTT của BBNĐP cung cấp thông tin theo danh mục do Cục BĐTW hướng dẫn (mẫu 5) và gửi kèm hồ sơ đề nghị kết nối về Cục BĐTW để Cục BĐTW kiểm tra bảo đảm an toàn HTTT theo cấp độ đối với HTTT kết nối vào Cổng kết nối của Mạng TSLCD.	Mẫu 5
+2	Cục BĐTW tiếp nhận hồ sơ.
+Cục BĐTW đề nghị BBNĐP bổ sung hồ sơ (trong trường hợp kiểm tra đánh giá không đầy đủ ở bước (3)).	
+3	Kiểm tra các yêu cầu, tiêu chí bảo đảm an toàn HTTT theo cấp độ đối với HTTT kết nối vào Cổng kết nối của Mạng TSLCD theo nội dung quy định tại Quyết định số 8/2023/QĐ-TTg và Thông tư số 19/2023/TT-BTTTT:
+- Nếu đáp ứng chuyển sang bước (4),
+- Nếu không đáp ứng quay lại bước (2), yêu cầu bổ sung hồ sơ còn thiếu, biện pháp bảo đảm an toàn thông tin theo phương án đã phê duyệt của BBNĐP.
+Thời gian thực hiện: tối đa 5 ngày kể từ ngày nhận được đầy đủ hồ sơ cung cấp theo yêu cầu.	
+4	Cục BĐTW thực hiện kết nối TTDL, HTTT của đơn vị đề xuất vào Mạng TSLCD	
+
+3. Quy trình chuẩn hoá mạng
+3.1. Lưu đồ quy trình
+ 
+
+3.2. Diễn giải quy trình
+Bước	Diễn giải	Mẫu biểu
+1	Đơn vị chuyên trách BBNĐP cung cấp thông tin hiện trạng kết nối mạng TSLCD tại BBNĐP để Cục BĐTW xác minh.
+Cục BĐTW thực hiện rà soát, đánh giá hiện trạng mô hình kết nối mạng tại các BBNĐP với mô hình kết nối mạng tại Thông tư số 19/2023/TT-BTTTT.	
+2	Cục BĐTW kiểm tra, đánh giá thông tin hiện trạng theo quy định tại tại Điều 7 và Phụ lục I của Thông tư số 19/2023/TT-BTTT và đồng bộ thông tin hiện trạng với đơn vị chuyên trách của BBNĐP:
+- Trường hợp hiện trạng kết nối mạng BBNĐP đáp ứng các yêu cầu mô hình kết nối mạng thì kết thúc và chuyển sang bước (9) quy trình.
+- Trường hợp hiện trạng kết nối mạng BBNĐP chưa đáp ứng các yêu cầu mô hình kết nối mạng, Cục BĐTW thông báo cho đầu mối chuyên trách của BBNĐP về việc yêu cầu chuẩn hóa và chuyển sang bước (3).	
+3	Đơn vị chuyên trách CNTT của BBNĐP chủ trì, Cục BĐTW, DNVT phối hợp trong việc xây dựng và thống nhất phương án triển khai chuẩn hóa mạng gồm: 
+- Đơn vị chuyên trách CNTT của BBNĐP, Cục BĐTW, DNVT cử đầu mối CBKT của các đơn vị tham gia triển khai chuẩn hóa mạng.
+- Cục BĐTW quy hoạch tài nguyên (IP, VLAN, cổng kết nối gateway,…) cho việc chuẩn hóa mạng theo mô hình kết nối mạng quy định tại Thông tư 19/2023/TT-BTTTT.
+- Đơn vị chuyên trách CNTT của BBNĐP  xác định các dịch vụ, ứng dụng chạy trên Mạng TSLCD để chuyển hướng kết nối như: dịch vụ THHN, hệ thống LGSP, hệ thống Văn bản điện tử, Hệ thống báo cáo công việc, Hệ thống CSDL chuyên ngành,…
+- Cục BĐTW phối hợp với DNVT xây dựng mẫu cấu hình, chính sách định tuyến kết nối, dịch vụ theo yêu cầu của các dịch vụ.
+- DNVT cung cấp thiết bị đầu cuối đáp ứng yêu cầu tối thiểu của Thông tư 19/2023/TT-BTTTT
+- Đơn vị chuyên trách CNTT của BBNĐP chốt  phương án và kế hoạch triển khai trên cơ sở phương án các đơn vị đã phối hợp xây dựng.	
+4	Đơn vị chuyên trách CNTT của BBNĐP chủ trì điều hành DNVT phối hợp cùng Cục BĐTW triển khai thí điểm một vài điểm theo phương án đã thống nhất để đánh giá sơ bộ chất lượng hoạt động kết nối, dịch vụ trên mạng TSLCD trước khi triển khai cho toàn bộ các điểm của tỉnh/thành phố.	
+5	Đơn vị chuyên trách CNTT của BBNĐP chủ trì, Cục BĐTW, DNVT phối hợp kiểm tra đánh giá chất lượng kết nối, dịch vụ khi triển khai thí điểm: 
+- Kiểm tra thông kết nối, chất lượng của kết nối (thông qua lệnh Ping các chỉ số TTL, delay,…)
+- Kiểm tra ứng dụng dịch vụ thông qua truyền nhận lưu lượng dịch vụ trên kết nối từ máy chủ đến người dùng và hoạt động của các tính năng, chức năng phần mềm ứng dụng.
+Nếu chất lượng kết nối, dịch vụ ổn định, đáp ứng yêu cầu chuyển sang bước (6).
+Nếu chất lượng kết nối, dịch vụ không ổn định, không đáp ứng yêu cầu chuyển trở lại bước (3), tìm phương án mới.	
+6	Đơn vị chuyên trách CNTT của BBNĐP chủ trì điều hành phối hợp với Cục BĐTW, DNVT triển khai chuẩn hoá mô hình kết nối mạng quy định tại Thông tư 19/2023/TT-BTTTT cho toàn bộ các đơn vị trên địa bàn tỉnh/thành phố. 
+Đơn vị chuyên trách CNTT của BBNĐP theo dõi đôn đốc DNVT tiến độ triển khai và báo cáo kết quả, vướng mắc phát sinh tới các cấp quản lý trong quá trình triển khai chuẩn hóa mạng để phối hợp tháo gỡ kịp thời	
+7	Cục BĐTW và đơn vị chuyên trách CNTT của BBNĐP đưa các kết nối TSLCD đã chuẩn hóa vào giám sát chất lượng và trạng thái hoạt động thông qua các giao thức giám sát định kỳ theo Quy trình 6 (Quy trình giám sát mạng lưới).	
+8	Hoàn thành triển khai chuẩn hóa khi tất cả các điểm kết nối của BBNĐP và dịch vụ hoạt động trên Mạng TSLCD ổn định, đáp ứng yêu cầu.
+Cục BĐTW cập nhật trạng thái “hoàn thành chuẩn hóa” của BBNĐP trên hệ thống dữ liệu quản lý Mạng TSLCD	
+
+ 
+4. Quy trình cung cấp dịch vụ hội nghị truyền hình 4 cấp
+4.1. Lưu đồ quy trình
+ 
+
+4.2. Diễn giải lưu đồ
+Bước	Diễn giải	Mẫu biểu
+1	- Các đơn vị đầu mối gửi văn bản yêu cầu dịch vụ hội nghị truyền hình 4 cấp hành chính cho Cục BĐTW:
++ Trung tâm tin học – Văn phòng Chính phủ  là đầu mối tiếp nhận yêu cầu HNTH của bộ, ngành; gửi văn bản tổ chức phiên họp đến Cục BĐTW và các đơn vị liên quan.
++ Ban Đảng gửi văn bản yêu cầu đồng thời cho Cục BĐTW và Trung tâm CNTT và Cơ yếu – Văn phòng Trung ương để triển khai.
++ Vụ Tin học Văn phòng Quốc hội là đầu mối tiếp nhận yêu cầu HNTH của các cơ quan Quốc hội gửi yêu cầu cho Cục BĐTW, doanh nghiệp cung cấp dịch vụ và đơn vị liên quan tại địa phương. 	
+2	Cục BĐTW tiếp nhận yêu cầu từ các đơn vị đầu mối và trao đổi thông tin cần thiết:
++ Thời gian tổng duyệt, thời gian tổ chức chính thức.
++ Số lượng, danh sách các điểm cầu.
++ Kịch bản phiên họp.
++ Kết nối Mạng TSLCD.
+- Đơn vị chuyên trách CNTT tham mưu lãnh đạo BBNĐP gửi công văn thông báo đến các điểm cầu các cấp huyện, xã:
++ Thời gian tổ chức tổng duyệt nội bộ, thời gian họp chính thức.
++ Yêu cầu các điểm cầu cử cán bộ phối hợp thiết lập phòng họp, kiểm thử chất lượng.
+Trong trường hợp yêu cầu hội nghị truyền hình đột xuất, đề nghị các đơn vị chuyên trách CNTT của BBNĐP xử lý ngay yêu cầu để đáp ứng thời gian triển khai.
+Cục BĐTW kiểm tra kết nối và các thông tin HNTH:
+- Trường hợp chưa có kết nối Mạng TSLCD thì thực hiện kết nối theo Quy trình 1 (Quy trình kết nối và cung cấp dịch vụ mạng riêng ảo). 
+- Trường hợp đã kết nối nhưng không đủ thông tin trao đổi lại với đầu mối cung cấp thông tin, quay về bước (1).
+- Trường hợp đã kết nối và đủ thông tin chuyển sang bước (3).
+	
+3	- Cục BĐTW khảo sát địa điểm triển khai điểm cầu chính, chuẩn bị thiết bị phù hợp để lắp đặt tại điểm cầu chính; nắm thông tin về điểm cầu tại BBNĐP.
+- BBNĐP khảo sát địa điểm triển khai điểm cầu của BBNĐP tại địa phương, chuẩn bị thiết bị phù hợp, cung cấp thông tin về điểm cầu tại địa phương cho Cục BĐTW.	
+4	Cục BĐTW và đơn vị chuyên trách CNTT của BBNĐP, DNVT xây dựng và thống nhất phương án triển khai.	
+5	DNVT hoàn thành lắp đặt và phối hợp với Cục BĐTW, đơn vị chuyên trách CNTT của BBNĐP hoàn thành kết nối tối thiểu 2 giờ trước phiên họp chính thức.
+Hoàn thành thử thiết bị trước 01 ngày, trường hợp họp đột xuất trước 30 phút.
+Các đơn vị tiến hành kiểm tra kết nối, dịch vụ:
+- Đạt: chuyển sang bước (6) phục vụ hội nghị.
+- Không đạt: quay lại bước (4) thống nhất lại phương án triển khai. 	Mẫu 03
+6	- Cục BĐTW phối hợp với BBNĐP, DNVT bật hệ thống và thử lại trước khi họp 30 phút. 
+- Các đơn vị tổ chức giám sát hệ thống HNTH, điểm cầu do đơn vị phụ trách, tuân thủ tuyệt đối kịch bản phiên họp, đầu mối các đơn vị liên tục cập nhật, báo cáo các vấn đề phát sinh trong quá trình diễn ra cuộc họp.
+- CBKT điều khiển MCU và cán bộ quản lý, vận hành phòng họp tuân thủ theo quy định về vận hành cuộc họp trực tuyến như sau:
++ Tập trung chú ý hoàn toàn vào chương trình, diễn biến trong suốt thời gian cuộc họp diễn ra.
++ CBKT điều khiển MCU các đơn vị tuyệt đối tập trung, lắng nghe yêu cầu kết nối của chủ tọa để bảo đảm thời gian kết nối điểm cầu cấp tỉnh, huyện, xã với điểm cầu chính trong vòng 30 giây kể từ khi có yêu cầu.
++ Trong thời gian diễn ra phiên họp nếu cuộc gọi bị ngắt hoặc thấy chất lượng dịch vụ suy giảm, các đơn vị phải xử lý khắc phục ngay và thông báo tới Cục BĐTW.
++ Khi chủ tọa có yêu cầu kết nối đến một điểm cầu:
++ CBKT điều khiển MCU BBNĐP đưa hình ảnh, âm thanh điểm cầu đó về điểm cầu chính theo kết nối Cascade giữa MCU của đơn vị với MCU của Cục BĐTW.
++ CBKT điều khiển MCU của Cục BĐTW thiết lập layout hiển thị hình ảnh, âm thanh điểm cầu cần tương tác lên màn hình chủ tọa.
++ Cán bộ quản lý, vận hành phòng họp theo dõi nội dung phiên họp và chủ động bật/tắt micro, điều chỉnh hệ thống âm thanh, điều chỉnh camera tại điểm cầu của mình khi được gọi phát biểu.
+Đối với các điểm cầu sử dụng VCS chuyên dụng: cần lưu một số vị trí quay của camera vào nút nhớ của điều khiển nhanh, như: Vị trí chủ tọa tại đầu cầu truyền hình, bên trái, bên phải, phóng to, thu nhỏ,... khi đại biểu tại đơn vị phát biểu, ngay lập tức quay camera vào người đang phát biểu (trong quá trình diễn ra hội nghị có thể chuyển các vị trí camera để hình động thêm sinh động).	
+7	Kết thúc: 
+Sau khi phiên họp kết thúc, CBKT khai thác lên phòng họp ngắt kết nối, tắt thiết bị, kết thúc phiên họp.
+Cục BĐTW đầu mối tổng hợp, đánh giá chất lượng phiên họp.
+BBNĐP đánh giá chất lượng điểm cầu nội bộ, rút kinh nghiệm cho các phiên họp sau.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+5. Quy trình cung cấp dịch vụ truy nhập Internet chuyên dùng
+5.1. Lưu đồ quy trình
+ 
+
+5.2. Diễn giải lưu đồ
+Bước	Diễn giải	Mẫu biểu
+1	Đơn vị sử dụng (4 Văn phòng Trung ương và các cơ quan Đảng ở trung ương) gửi nhu cầu sử dụng dịch vụ truy nhập Internet chuyên dùng cho đơn vị chuyên trách CNTT của 4 Văn phòng Trung ương
+	Mẫu 01
+2	Đơn vị chuyên trách CNTT của 4 Văn phòng Trung ương tổng hợp nhu cầu và cung cấp thông tin gửi Cục BĐTW.	Mẫu 02
+3	Cục BĐTW tiếp nhận yêu cầu và phối hợp với đơn vị chuyên trách CNTT của 4 Văn phòng Trung ương và các cơ quan Đảng ở Trung ương triển khai kết nối Mạng TSCLD theo Quy trình 1 (Quy trình kết nối và cung cấp dịch vụ mạng riêng ảo) với dải địa chỉ IP của Internet chuyên dùng.	
+4	Kết thúc: 4 Văn phòng Trung ương và các cơ quan Đảng ở trung ương truy nhập Internet chuyên dùng.	
+ 
+6. Quy trình giám sát mạng lưới
+6.1. Lưu đồ quy trình
+ 
+
+6.2. Diễn giải lưu đồ
+Bước	Diễn giải	Mẫu biểu
+1	Cục BĐTW triển khai các công cụ hoặc doanh nghiệp viễn thông cung cấp công cụ giám sát thông số cần giám sát thường xuyên đối với Mạng TSLCD để đảm bảo chất lượng và quy định về mạng lưới	
+2	- Cục BĐTW giám sát chất lượng Mạng TSLCD truy nhập cấp I thông qua công cụ phần mềm hoặc yêu cầu doanh nghiệp đo kiểm thực tế các kênh truyền kết nối, hoạt động của thiết bị. 
+- Đơn vị chuyên trách CNTT của BBNĐP phối hợp với DNVT thực hiện việc giám sát chất lượng Mạng TSLCD truy nhập cấp II thông qua công cụ phần mềm hoặc yêu cầu doanh nghiệp đo kiểm, kiểm tra thực tế các kênh truyền kết nối, hoạt động của thiết bị. 
+- Hàng tháng, đơn vị chuyên trách BBNĐP đồng bộ thông tin thường xuyên với Cục BĐTW để đánh giá chất lượng kết nối Mạng TSLCD do DNVT cung cấp.	
+3	Hàng ngày, Cục BĐTW giám sát mạng truy nhập cấp I; đơn vị chuyên trách của BBNĐP phối hợp với DNVT giám sát chất lượng kết nối, dịch vụ Mạng TSLCD truy nhập cấp II:
+- Không có cảnh báo thì chuyển sang bước (5) tiếp tục quy trình giám sát.
+- Có cảnh báo thì chuyển sang bước (4) thực hiện Quy trình 7 (Quy trình xử lý sự cố mạng lưới).	
+4	Cục BĐTW, đơn vị chuyên trách BBNĐP, DNVT phối hợp thực hiện các biện pháp nghiệp vụ theo Quy trình xử lý sự cố mạng lưới.
+- CBĐTW điều hành DNVT xử lý các sự cố phân hệ mạng truy nhập cấp I để khôi phục chất lượng kết nối mạng TSLCD. 
+- Đơn vị chuyên trách CNTT của BBNĐP điều hành DNVT xử lý các sự cố trên mạng truy nhập cấp II để khôi phục chất lượng kết nối mạng TSLCD.	
+5	Hàng ngày Cục BĐTW, đơn vị chuyên trách CNTT của BBNĐP sẽ cập nhật thông tin giám sát chất lượng mạng lưới vào hồ sơ để đánh giá điểm DII hàng tháng.
+Điểm DII: điểm chấm theo Tiêu chí 6 Mục II theo Bộ tiêu chí đánh giá phát triển hạ tầng số của các tỉnh, thành phố (QĐ số 855/QĐ-BTTTT ngày 25/05/2023)
+	
+
+ 
+7. Quy trình phối hợp xử lý sự cố mạng lưới
+7.1. Lưu đồ quy trình
+ 
+
+7.2. Diễn giải lưu đồ
+Bước	Diễn giải	Mẫu biểu
+1	Cảnh báo sự cố mạng lưới từ hệ thống giám sát của Cục BĐTW, DNVT hoặc từ email, điện thoại, nguồn khác.	
+2	- Cục BĐTW tiếp nhận cảnh báo sự cố của Mạng TSLCD truy nhập cấp I, ghi chép thông tin chi tiết về cảnh báo sự cố.
+- Đơn vị chuyên trách CNTT của BBNĐP tiếp nhận cảnh báo sự cố của Mạng TSLCD truy nhập cấp II, ghi chép thông tin chi tiết về cảnh báo sự cố. 
+- Việc ghi chép có thể bằng sổ hoặc bằng phần mềm; nội dung ghi chép gồm: thời gian xảy ra, hiện tượng, dịch vụ bị ảnh hưởng, mức độ ảnh hưởng ban đầu và phân công người xử lý sự cố.	
+3	Ngay khi tiếp nhận cảnh báo, Cục BĐTW, đơn vị chuyên trách CNTT của BBNĐP thực hiện kiểm tra thông tin và tiến hành xác minh cảnh báo sự cố:
+- Cảnh báo đúng: chuyển tới bước (4). 
+- Cảnh báo sai: kết thúc cảnh báo, chuyển tới bước (7).	
+4	Cục BĐTW, đơn vị chuyên trách BBNĐP cập nhật toàn bộ các thông tin liên quan đến đến cảnh báo, đánh giá, phân loại sự cố, ưu tiên sự cố theo mức độ nghiêm trọng để phục vụ cho công tác xử lý và huy động, điều hành doanh nghiệp viễn thông phối hợp xử lý.
+- Phân loại sự cố: Xác định loại sự cố dựa trên mức độ ảnh hưởng, tính cấp bách và tác động.
+- Ưu tiên sự cố: Xác định thứ tự ưu tiên cho các sự cố dựa trên mức độ ảnh hưởng và tính cấp bách.
+Sau khi phân loại, ưu tiên sự cố, Cục BĐTW, BBNĐP xác định khả năng xử lý sự cố:
+- Nếu vượt quá khả năng xử lý: báo cáo cấp có thẩm quyền để kịp thời có biện pháp đề nghị hỗ trợ từ chuyên gia.
+- Nếu trong khả năng xử lý được: chuyển sang bước (5).
+	
+5	Các đơn vị phối hợp và thống nhất phương án xử lý sự cố.
++ Chọn giải pháp phù hợp để khắc phục sự cố dựa trên thông tin thu thập được.
++ Trường hợp cần thiết có thể liên hệ với các nhà cung cấp dịch vụ để được hỗ trợ.	
+6	- Cục BĐTW chủ trì điều hành, và thực hiện các nghiệp vụ (câu lệnh kiểm tra, cấu hình trên thiết bị, truy vết nhật ký logs,…) để xử lý sự cố Mạng TSLCD truy nhập cấp I
+- BBNĐP chủ trì điều hành để xử lý sự cố Mạng TSLCD truy nhập cấp II
+- DNVT phối hợp với Cục BĐTW, BBNĐP thực hiện các nghiệp vụ (câu lệnh kiểm tra, cấu hình trên thiết bị, truy vết nhật ký logs,…) để xử lý sự cố đối với phân hệ mạng của doanh nghiệp phục vụ Mạng TSLCD.
+- Khôi phục dịch vụ:
+	Khôi phục dịch vụ bị ảnh hưởng sau khi sự cố được khắc phục.
+	Đảm bảo dịch vụ đã hoạt động bình thường.
+-	Khôi phục được dịch vụ: chuyển sang bước (6)
+-	Không khôi phục được dịch vụ: quay lại bước (5) tìm phương án khắc phục mới.
+-	Không thể khôi phục được dịch vụ sau khi thay đổi phương án mới: báo cáo cấp có thẩm quyền để đề nghị có sự hỗ trợ của chuyên gia.	
+7	- Đồng bộ thông tin kết quả, tiến độ xử lý liên quan đến sự cố giữa các đơn vị.
+- Thực hiện báo cáo tiến độ định kỳ 30ph/lần đến các cấp quản lý Mạng TSLCD tại Cục BĐTW và BBNĐP đến khi xử lý xong sự cố.
+- Cục BĐTW và đơn vị chuyên trách CNTT của BBNĐP chịu trách nhiệm xác minh thông tin báo cáo về kết quả xử lý.	
+8	Đóng tiến trình xử lý sự cố: Cập nhật báo cáo nguyên nhân, các bước thực hiện đối với sự cố theo biểu mẫu 5 đến các cấp quản lý liên quan.
+	Mẫu 4
+
+7.3. Thời gian xử lý sự cố mạng lưới
+Thời gian sử lý sự cố mạng lưới thực hiện theo Bộ chỉ tiêu chất lượng dịch vụ Mạng TSCLD do Cục BĐTW quản lý ban hành tại Quyết định số 725/QĐ-CBĐTW ngày của Cục trưởng Cục Bưu điện Trung ương, cụ thể như sau:
+-	Mạng truy nhập cấp I:
++ Do lỗi kênh truyền vật lý: <=2 giờ
++ Do lỗi logic: <= 20 phút
+-	Mạng truy nhập cấp II:
++ Do lỗi kênh truyền vật lý: <=2 giờ
++ Do lỗi logic: <= 30 phút
+Thời gian khôi phục sự cố mất kết nối được tính từ lúc đơn vị cung cấp dịch vụ nhận được thông báo của khách hàng hoặc từ hệ thống thiết bị của đơn vị cung cấp dịch vụ đến lục kết nối được khôi phục, khách hàng sử dụng lại được dịch vụ.
+
+ 
+Phụ lục
+DANH SÁCH CÁC MẪU BIỂU
+(Kèm theo Quyết định số …./QĐ-CBĐTW ngày ../../2024 của Cục Bưu điện Trung ương)
+Mẫu 01
+
+(Đơn vị đề nghị)
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số:…./….	……, ngày …. tháng…. năm…..
+BẢN KHAI ĐĂNG KÝ SỬ DỤNG ĐỊA CHỈ IP
+MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+Kính gửi: …..(đơn vị chuyên trách CNTT của BBNĐP)………
+1. Thông tin về cơ quan/ tổ chức đăng ký
+	Tên cơ quan/tổ chức: …………………………………..               
+Người đại diện theo pháp luật:…………………………
+Chức vụ:………………………………………………..
+Địa chỉ liên hệ: ………………………………………...
+Số điện thoại/fax:………………………………………
+Email: ………………………………………………….
+Cán bộ kỹ thuật: ………………………………………
+2. Loại hình đăng ký	Đăng ký mới.        
+Đăng ký bổ sung   
+Cơ quan/Tổ chức đăng ký cam kết tuân thủ quy định của pháp luật về quản lý và sử dụng địa chỉ IP Mạng truyền số liệu chuyên dùng.
+Xác nhận của tổ chức đăng ký
+(Người đại diện theo pháp luật ký tên và đóng dấu/
+ký số của cơ quan, tổ chức, doanh nghiệp)
+Phụ lục
+DANH SÁCH CÁC ĐƠN VỊ ĐĂNG KÝ SỬ DỤNG ĐỊA CHỈ IP
+MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+(Kèm theo văn bản số ……./……… ngày …/…/…… của ….)
+Stt	Tên cơ quan, đơn vị	Băng thông kết nối TSLCD (dự kiến)	Dịch vụ sử dụng trên kết nối	Ghi chú
+1	Cơ quan/
+địa phương A			
+2	Cơ quan/
+địa phương B			
+3	……			
+
+Mẫu 02
+(Đơn vị đề nghị)
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số:…./….	……, ngày …. tháng…. năm…..
+
+BẢN KHAI ĐĂNG KÝ SỬ DỤNG ĐỊA CHỈ IP 
+MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+Kính gửi: Cục Bưu điện Trung ương
+1. Thông tin về cơ quan/ tổ chức là chủ thể đăng ký sử dụng IP 
+	Tên cơ quan/tổ chức: …………………………………..               
+Người đại diện theo pháp luật:…………………………
+Chức vụ:………………………………………………..
+Địa chỉ liên hệ: ………………………………………...
+Số điện thoại/fax:………………………………………
+Email: ………………………………………………….
+Ghi chú: ………………………………………………..
+2. Thông tin về người chịu trách nhiệm của cơ quan/tổ chức trong việc quản lý IP
+	Người chịu trách nhiệm quản lý IP:
+Họ tên: …………………………………………………
+Chức vụ: ……………………………………….………
+Số điện thoại/fax: ……………………………….……..
+Email: …………………………………………..……...
+Người quản lý kỹ thuật: 
+Họ tên: ………………………………………..………..
+Chức vụ: ……………………………………..………...
+Số điện thoại/fax: ………………………………………
+Email: ………………………………………..………...
+3. Loại hình đăng ký	Đăng ký mới.        
+Đăng ký bổ sung   
+4. Hiện trạng sử dụng các vùng IP đã được cấp	Mô hình kết nối ………………………………………...
+Dải IP đã được cấp: …………………………………….
+Tỷ lệ % IP đã sử dụng: …………………………………
+Thông tin bổ sung:
+………………………………..………………………...
+
+5. Kế hoạch sử dụng vùng địa chỉ IP Mạng TSLCD 	(Tổ chức mô tả chi tiết kế hoạch sử dụng vùng địa chỉ IP có nhu cầu nghị cấp tại đây)
+- Vùng địa chỉ | sử dụng nội bộ | thời điểm sử dụng
+- Vùng địa chỉ | sử dụng cho dịch vụ | thời điểm sử dụng 
+VD:
+10.x.x.x/2001:A:B| Hệ thống LGSP/HNTH/Mạng LAN Sở A/ | 05/10/2023
+103.x.x.x|Hệ thống dịch vụ Website cổng thông tin| 11/12/2022
+Cơ quan/Tổ chức đăng ký cam kết tuân thủ quy định của pháp luật về quản lý và sử dụng địa chỉ IP Mạng truyền số liệu chuyên dùng.
+                                                                   
+Xác nhận của tổ chức đăng ký
+(Người đại diện theo pháp luật ký tên và đóng dấu/
+ký số của cơ quan, tổ chức, doanh nghiệp)
+
+
+
+Địa chỉ liên hệ:
+Cục Bưu điện Trung ương
+Địa chỉ: Số 1A, phố Quan Hoa, phường Quan Hoa, quận Cầu Giấy, thành phố Hà Nội
+Điện thoại: 080.41065/080.41000
+Email: KTM@cpt.gov.vn
+Website: https://cpt.gov.vn
+
+
+Phụ lục
+DANH SÁCH CÁC ĐƠN VỊ ĐĂNG KÝ SỬ DỤNG ĐỊA CHỈ IP 
+MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+(Kèm theo văn bản số ……./……… ngày …/…/…… của ….)
+Stt	Tên cơ quan, đơn vị	Băng thông kết nối TSLCD (dự kiến)	Dịch vụ sử dụng trên kết nối	Ghi chú
+1	Cơ quan/
+địa phương A			
+2	Cơ quan/
+địa phương B			
+3	……			
+
+
+
+ 
+Mẫu 03
+ BẢNG KIỂM TRA PHIÊN THỬ HNTH
+ 
+Phiên thử hội nghị truyền hình:…………….(tên hội nghị)………………theo công văn số ……………..
+Thời gian:….ngày…….tháng……. năm 20…..
+
+Điểm cầu	Âm thanh	Hình ảnh	Trình chiếu	CBKT	Chú thích
+Cục BDTW	Tốt:            
+chưa tốt:     	Tốt:             
+chưa tốt:     	Tốt:            
+chưa tốt:    	…………………
+…………………
+(…..h…../…./20..)	
+Điểm cầu tỉnh A	Tốt:             
+chưa tốt:     	Tốt:            
+chưa tốt:    	Tốt:            
+chưa tốt:    	…………………
+…………………
+(…..h…../…./20..)	
+Điểm cầu tỉnh B	Tốt:            
+chưa tốt:     	Tốt:            
+chưa tốt:    	Tốt:           
+chưa tốt:    	…………………
+…………………
+(…..h…../…./20..)	 
+…	…	..	..	..	..
+
+
+
+Người kiểm tra	Xác nhận 
+(ký và ghi rõ họ và tên)	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mẫu 04
+
+BÁO CÁO XỬ LÝ SỰ CỐ 
+1. Ngày xảy ra sự cố	 	 
+2. Số sự cố	
+3. THÔNG TIN CHI TIẾT NHÂN LỰC XỬ LÝ SỰ CỐ
+- Họ và tên	………………………
+- Đơn vị	………………………
+- Chức vụ	………………………
+4. MÔ TẢ SỰ CỐ
+Mô tả tổng quát sự cố (địa điểm, thời gian, tiến trình, mức độ ảnh hưởng)
+5. THÔNG TIN CHI TIẾT VỀ SỰ CỐ 
+5.1 Ngày và thời điểm xảy ra sự cố
+5.2 Ngày và thời điểm phát hiện sự cố
+5.3 Ngày và thời điểm báo cáo sự cố
+5.4 Thông tin chi tiết về nhận dạng/liên hệ của người báo cáo
+5.5 Sự cố đã kết thúc chưa? RỒI  □  CHƯA□
+(Tích vào ô tương ứng)
+5.6 Nếu trả lời RỒI, xác định khoảng thời gian sự 
+cố diễn ra theo Ngày/giờ/phút
+6. MỨC ĐỘ SỰ CỐ 
+       1- cao
+      2 - trung bình
+     3 - thấp
+
+7. THIẾT BỊ/TÀI SẢN BỊ ẢNH HƯỞNG
+………………….
+8. TÁC ĐỘNG/ẢNH HƯỞNG CỦA SỰ CỐ
+………………….
+9. TIẾN TRÌNH GIẢI QUYẾT SỰ CỐ
+………………….
+10. NGUYÊN NHÂN GÂY RA SỰ CỐ
+…………………………
+11. NỘI DUNG XỬ LÝ CÒN TỒN TẠI
+……………………………………
+12. KẾT LUẬN
+…………………………………………………………………………………….
+…………………………………………………………………………………….
+…………………………………………………………………………………….
+…………………………………………………………………………………….
+…………………………………………………………………………………….
+
+NGƯỜI LẬP BÁO CÁO	LÃNH ĐẠO QUẢN LÝ	THỦ TRƯỞNG ĐƠN VỊ
+(ký và ghi rõ họ tên)	(ký và ghi rõ họ tên)	(ký và ghi rõ họ tên)
+					
+
+
+ 
+Mẫu 05
+YÊU CẦU AN TOÀN THÔNG TIN ĐỐI VỚI CỦA TRUNG TÂM DỮ LIỆU, HỆ THỐNG THÔNG TIN KHI KẾT NỐI VÀO MẠNG TSLCD
+(Kèm theo Biên bản kiểm tra an toàn thông tin đối với TTDL, HTTT kết nối vào Mạng TSLCD ngày …/…/… )
+Yêu cầu an toàn theo TT 19/2023/TT-BTTTT	BBNĐP cung cấp tài liệu chứng minh	Cục BĐTW
+đánh giá 	Ghi chú
+I. Yêu cầu về chức năng của thiết bị tại TTDL tới Cổng kết nối			
+1. Hệ thống mạng của cơ quan, tổ chức không được kết nối trực tiếp với mạng TSLCD mà phải thông qua Cổng kết nối		Đạt               •
+Không đạt    •	
+2. Có thiết bị chuyên dụng được sử dụng để quản lý truy cập giữa mạng của cơ quan, tổ chức tới Cổng kết nối vào Mạng TSLCD theo quy định tại Thông tư 19/2023/TT-BTTTT		Đạt               •
+Không đạt    •	
+3. Hệ thống thông tin, Trung tâm dữ liệu sử dụng thiết bị có chức năng phòng chống mã độc trên môi trường mạng khi kết nối tới Cổng kết nối của Mạng TSLCD		Đạt               •
+Không đạt    •	
+4. Hệ thống thông tin, Trung tâm dữ liệu sử dụng thiết bị có chức năng phòng chống xâm nhập khi kết nối tới Cổng kết nối của Mạng TSLCD 		Đạt               •
+Không đạt    •	
+5. Hệ thống thông tin, Trung tâm dữ liệu có Hệ thống giám sát và quản lí sự kiện bảo mật (SIEM)		Đạt               •
+Không đạt    •	
+6. Hệ thống thông tin, Trung tâm dữ liệu sử dụng thiết bị có chức năng phòng chống tấn công từ chối dịch vụ khi kết nối tới Cổng kết nối của Mạng TSLCD		Đạt               •
+Không đạt    •	
+7. Hệ thống thông tin, Trung tâm dữ liệu sử dụng thiết bị đáp ứng thiết kế cân bằng tải và dự phòng nóng khi kết nối tới Cổng kết nối của Mạng TSLCD		Đạt               •
+Không đạt    •	
+8. Trung tâm dữ liệu đáp ứng kết nối cáp quang theo 02 hướng vật lý khác nhau.		Đạt               •
+Không đạt    •	
+II. Yêu cầu về thiết lập cấu hình bảo mật tới Cổng kết nối			
+2.1. Thiết lập chính sách truy cập từ bên ngoài mạng			
+1. Thiết bị định tuyến phải được cấu hình chỉ cho phép truy cập từ bên ngoài các dịch vụ mà hệ thống mạng của cơ quan, tổ chức cung cấp; chặn tất cả truy cập tới các dịch vụ, ứng dụng mà hệ thống không cung cấp hoặc không cho phép truy cập từ bên ngoài		Đạt               •
+Không đạt    •	
+2. Thiết bị định tuyến phải được thiết lập cấu hình giới hạn số lượng kết nối đồng thời từ một địa chỉ nguồn và tổng số lượng kết nối đồng thời cho từng ứng dụng, dịch vụ được hệ thống cung cấp theo năng lực thực tế của hệ thống		Đạt               •
+Không đạt    •	
+2.2. Thiết lập chính sách truy cập từ bên trong mạng			
+1. Thiết bị định tuyến phải được thiết lập cấu hình chỉ cho phép các dải địa chỉ IP nguồn của cơ quan, tổ chức kết nối ra bên ngoài		Đạt               •
+Không đạt    •	
+2. Thiết bị định tuyến phải được thiết lập cấu hình chỉ cho phép truy cập các ứng dụng, dịch vụ bên ngoài theo yêu cầu nghiệp vụ, chặn các dịch vụ khác không phục vụ hoạt động nghiệp vụ theo chính sách của tổ chức		Đạt               •
+Không đạt    •	
+2.3. Nhật ký hệ thống			
+1. Thiết lập chức năng ghi, lưu trữ nhật ký trên các thiết bị của hệ thống		Đạt               •
+Không đạt    •	
+2. Lưu trữ và quản lý tập trung nhật ký hệ thống thu thập được từ các thiết bị hệ thống		Đạt               •
+Không đạt    •	
+3. Lưu trữ nhật ký hệ thống của thiết bị tối thiểu 03 tháng		Đạt               •
+Không đạt    •	
+4. Lưu trữ nhật ký hệ thống của thiết bị tối thiểu 06 tháng		Đạt               •
+Không đạt    •	
+5. Lưu trữ nhật ký hệ thống của thiết bị tối thiểu 12 tháng		Đạt               •
+Không đạt    •	
+2.4. Thiết lập chính sách bảo mật cho thiết bị hệ thống			
+1. Thiết lập cấu hình chỉ cho phép sử dụng các kết nối mạng an toàn khi truy cập, quản trị thiết bị từ xa		Đạt               •
+Không đạt    •	
+2. Không cho phép quản trị, cấu hình thiết bị trực tiếp từ các mạng bên ngoài, trường hợp bắt buộc phải quản trị thiết bị từ xa phải thực hiện gián tiếp thông qua các máy quản trị trong hệ thống và sử dụng kết nối mạng an toàn		Đạt               •
+Không đạt    •	
+3. Hạn chế được số lần đăng nhập sai khi quản trị hoặc kết nối quản trị từ xa theo địa chỉ mạng		Đạt               •
+Không đạt    •	
+4. Phân quyền truy cập, quản trị thiết bị đối với các tài khoản quản trị có quyền hạn khác nhau		Đạt               •
+Không đạt    •	
+5. Cấu hình tối ưu, tăng cường bảo mật cho hệ thống thiết bị hệ thống trước khi đưa vào sử dụng, tối thiểu đáp ứng các yêu cầu tại Mục II hướng dẫn này		Đạt               •
+Không đạt    •	
+III. Yêu cầu khác với hệ thống thông tin tại TTDL khi kết nối vào Mạng TSLCD			
+3.1. Hệ thống thông tin cấp độ 3, việc thiết kế, thiết lập hệ thống thông tin của khách hàng phải đáp ứng các yêu cầu			
+1. Hệ thống phải được thiết kế tách riêng, độc lập với các hệ thống khác về lô-gích (lớp 3) và có biện pháp quản lý truy cập giữa các hệ thống		Đạt               •
+Không đạt    •	
+2. Các vùng mạng trong hệ thống phải được thiết kế tách riêng, độc lập với nhau về lô-gích (lớp 3) và có biện pháp quản lý truy cập giữa các vùng mạng		Đạt               •
+Không đạt    •	
+3. Có phân vùng lưu trữ được phân tách độc lập về lô-gích		Đạt               •
+Không đạt    •	
+2.2. Hệ thống thông tin cấp độ 4 hoặc cấp độ 5, việc thiết kế, thiết lập hệ thống thông tin của khách hàng phải đáp ứng các yêu cầu			
+1. Hệ thống phải được thiết kế tách riêng, độc lập với các hệ thống khác về vật lý và có biện pháp quản lý truy cập giữa các hệ thống		Đạt               •
+Không đạt    •	
+2. Các vùng mạng trong hệ thống phải được thiết kế tách riêng, độc lập với nhau về lô-gích (lớp 3) và có biện pháp quản lý truy cập giữa các vùng mạng		Đạt               •
+Không đạt    •	
+3. Có phân vùng lưu trữ được phân tách độc lập về vật lý		Đạt               •
+Không đạt    •	
+4. Các thiết bị mạng chính bao gồm: thiết bị chuyển mạch trung tâm, thiết bị tường lửa và thiết bị định tuyến biên (nếu có) phải được phân tách độc lập về vật lý		Đạt               •
+Không đạt    •	
+
+
+THỦ TƯỚNG CHÍNH PHỦ
+-------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+
+Số: 37/2021/QĐ-TTg
+
+Hà Nội, ngày 18 tháng 12 năm 2021
+
+ 
+
+QUYẾT ĐỊNH
+
+VỀ MẠNG BƯU CHÍNH PHỤC VỤ CƠ QUAN ĐẢNG, NHÀ NƯỚC
+
+Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;
+
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;
+
+Căn cứ Luật Bưu chính ngày 17 tháng 6 năm 2010;
+
+Căn cứ Luật Bảo vệ bí mật nhà nước ngày 15 tháng 11 năm 2018;
+
+Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông;
+
+Thủ tướng Chính phủ ban hành Quyết định về Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước.
+
+Chương I
+
+NHỮNG QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quyết định này quy định về Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước (sau đây gọi là Mạng bưu chính KT1) và việc vận chuyển tài liệu, vật chứa bí mật nhà nước qua dịch vụ bưu chính.
+
+2. Đối tượng áp dụng
+
+1. Đối tượng sử dụng dịch vụ
+
+a) Cơ quan Đảng, Nhà nước Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội thành viên ở trung ương quy định tại Phụ lục I ban hành kèm theo Quyết định này;
+
+b) Cơ quan Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội thành viên ở địa phương quy định tại Phụ lục II ban hành kèm theo Quyết định này;
+
+c) Các cơ quan, tổ chức và doanh nghiệp nhà nước có tài liệu, vật chứa bí mật nhà nước gửi cho các cơ quan, tổ chức quy định tại khoản 1 Điều này.
+
+2. Đối tượng cung cấp dịch vụ
+
+a) Cục Bưu điện Trung ương;
+
+b) Doanh nghiệp được chỉ định thực hiện duy trì, quản lý mạng bưu chính công cộng.
+
+3. Các tổ chức liên quan đến hoạt động vận chuyển bưu gửi KT1.
+
+Điều 3. Nguyên tắc hoạt động của Mạng bưu chính KT1
+
+Mạng bưu chính KT1 được thiết lập và duy trì hoạt động trong nước bảo đảm các nguyên tắc sau đây:
+
+1. Bảo đảm bí mật nhà nước;
+
+2. Bảo đảm an toàn, an ninh, nhanh chóng, chính xác, kịp thời trong mọi tình huống;
+
+3. Thống nhất trong tổ chức, quản lý, vận hành và khai thác;
+
+4. Không vì mục đích kinh doanh.
+
+Chương II
+
+MẠNG BƯU CHÍNH KT1
+
+Điều 4. Tổ chức Mạng
+
+1. Mạng bưu chính KT1 do Cục Bưu điện Trung ương xây dựng, quản lý, điều hành, khai thác để bảo đảm cung cấp dịch vụ cho các đối tượng quy định tại khoản 1 Điều 2 Quyết định này: chỉ được kết nối với mạng bưu chính công cộng.
+
+2. Mạng bưu chính KT1 do Cục Bưu điện Trung ương trực tiếp quản lý, điều hành, khai thác gồm: Hệ thống cơ sở khai thác, điểm phục vụ bưu chính tại Hà Nội, Đà Nẵng, thành phố Hồ Chí Minh; các tuyến vận chuyển và tuyến phát.
+
+3. Mạng bưu chính công cộng quy định tại khoản 1 Điều này gồm: Hệ thống cơ sở khai thác, điểm phục vụ bưu chính, các tuyến vận chuyển và tuyến phát tại các địa phương.
+
+Điều 5. Dịch vụ bưu chính KT1
+
+1. Dịch vụ bưu chính KT1 là việc chấp nhận, vận chuyển và phát thư, gói, kiện tài liệu; tài liệu, vật chứa bí mật nhà nước (sau đây gọi là bưu gửi KT1) qua Mạng bưu chính KT1.
+
+2. Dịch vụ bưu chính KT1 gồm:
+
+a) Dịch vụ KT1;
+
+b) Dịch vụ KT1 theo độ mật: A, B, C;
+
+c) Dịch vụ KT1 theo độ khẩn: Hỏa tốc, Hẹn giờ;
+
+d) Dịch vụ KT1 theo độ mật (A, B, C) và độ khẩn (Hỏa tốc, Hẹn giờ).
+
+Điều 6. Bảo đảm an toàn, an ninh trong cung cấp dịch vụ bưu chính KT1
+
+1. Bưu gửi KT1 được đóng dấu KT1, gắn mã vạch, định vị và quản lý chặt chẽ trong quá trình cung cấp dịch vụ; được khai thác, vận chuyển và phát bằng các trang thiết bị, phương tiện vận chuyển chuyên dùng. Trường hợp cần thiết phải sử dụng phương tiện vận chuyển khác thì đơn vị cung cấp dịch vụ phải bố trí nhân viên áp tải trong suốt quá trình vận chuyển.
+
+Khi có yêu cầu của Văn phòng Trung ương Đảng, Văn phòng Chủ tịch nước, Văn phòng Quốc hội, Văn phòng Chính phủ, việc khai thác, vận chuyển và phát bưu gửi KT1 được bố trí lực lượng bảo vệ để bảo đảm an toàn, an ninh, bảo mật trong cung cấp dịch vụ.
+
+2. Đối với bưu gửi sử dụng dịch vụ bưu chính KT1 theo độ khẩn, độ mật, việc chấp nhận, vận chuyển và phát được ưu tiên trong trường hợp khẩn cấp.
+
+3. Các cơ sở khai thác dịch vụ bưu chính KT1 phải có nội quy, phương tiện kỹ thuật chuyên dùng và kiểm soát người ra vào chặt chẽ.
+
+4. Người lao động tham gia trực tiếp vào quá trình cung cấp dịch vụ bưu chính KT1 phải có lý lịch rõ ràng; có phẩm chất đạo đức tốt; có tinh thần trách nhiệm, ý thức tổ chức kỷ luật, ý thức bảo vệ bí mật nhà nước; được đào tạo về nghiệp vụ bưu chính và công tác bảo đảm an toàn, an ninh trong cung cấp dịch vụ bưu chính KT1.
+
+5. Người được giao chuyên trách vận chuyển và phát bưu gửi KT1 được trang bị và sử dụng công cụ hỗ trợ theo quy định của pháp luật.
+
+6. Tổ chức liên quan đến hoạt động vận chuyển bưu gửi KT1 quy định tại khoản 3 Điều 2 Quyết định này phải ưu tiên giao nhận, bảo quản, khai thác bưu gửi KT1 bảo đảm an toàn, an ninh, nhanh chóng, chính xác, kịp thời trong mọi tình huống.
+
+Điều 7. Chất lượng dịch vụ bưu chính KT1
+
+1. Dịch vụ bưu chính KT1 phải đáp ứng các yêu cầu về chất lượng và thời gian phát bưu gửi KT1 theo quy định của Bộ Thông tin và Truyền thông.
+
+2. Mạng bưu chính KT1 phải bảo đảm cung cấp dịch vụ liên tục 24 giờ trong 01 ngày và 07 ngày trong một tuần, kể cả ngày nghỉ lễ, Tết.
+
+3. Mạng bưu chính KT1 được đầu tư trang thiết bị hiện đại để bảo đảm chất lượng dịch vụ.
+
+Điều 8. Kinh phí bảo đảm hoạt động của Mạng
+
+1. Ngân sách trung ương bảo đảm kinh phí đầu tư xây dựng cơ sở vật chất, kinh phí duy trì hoạt động của Mạng bưu chính KT1 (bao gồm chi phí cho việc kết nối với mạng bưu chính công cộng) để cung cấp dịch vụ bưu chính KT1 không thu cước cho các đối tượng quy định tại điểm a khoản 1 Điều 2 Quyết định này.
+
+2. Ngân sách địa phương bảo đảm kinh phí cho việc sử dụng dịch vụ bưu chính KT1 của các đối tượng quy định tại điểm b khoản 1 Điều 2 Quyết định này theo giá cước do Bộ Thông tin và Truyền thông ban hành.
+
+Điều 9. Quyền và nghĩa vụ của Cục Bưu điện Trung ương
+
+1. Xây dựng, duy trì, quản lý, điều hành và khai thác Mạng bưu chính KT1 để bảo đảm cung cấp dịch vụ bưu chính KT1 liên tục, bí mật, an toàn, an ninh, nhanh chóng, chính xác, kịp thời trong mọi tình huống.
+
+2. Ban hành quy định nghiệp vụ về điều hành, khai thác Mạng bưu chính KT1; quy trình cung cấp dịch vụ bưu chính KT1.
+
+3. Được ngân sách nhà nước cấp kinh phí cho việc cung cấp dịch vụ bưu chính KT1 trên cơ sở định mức do Bộ Thông tin và Truyền thông ban hành.
+
+4. Tổ chức thực hiện các quy định về bảo đảm bí mật, an toàn, an ninh trong cung cấp dịch vụ bưu chính KT1.
+
+5. Chủ trì, phối hợp với các đơn vị liên quan kiểm tra, xử lý sự cố về an toàn, an ninh trong cung cấp dịch vụ bưu chính KT1.
+
+6. Chủ trì, phối hợp với doanh nghiệp được chỉ định quy định tại điểm b khoản 2 Điều 2 Quyết định này thực hiện việc kết nối Mạng bảo đảm an toàn, an ninh trong cung cấp dịch vụ bưu chính KT1.
+
+7. Có trách nhiệm đối soát sản lượng, xác nhận chất lượng dịch vụ bưu chính KT1 với các đối tượng quy định tại điểm a khoản 1 Điều 2 Quyết định này và cung cấp dịch vụ bưu chính KT1 trong các trường hợp đặc biệt theo yêu cầu của các đối tượng nêu trên.
+
+8. Có trách nhiệm thanh toán chi phí cho phần kết nối giữa Mạng bưu chính KT1 với mạng bưu chính công cộng.
+
+Điều 10. Quyền và nghĩa vụ của doanh nghiệp được chỉ định thực hiện duy trì, quản lý mạng bưu chính công cộng
+
+1. Quản lý, điều hành, khai thác mạng bưu chính công cộng kết nối với Mạng bưu chính KT1 để bảo đảm cung cấp dịch vụ bưu chính KT1 tại địa phương liên tục, bí mật, an toàn, an ninh, nhanh chóng, chính xác, kịp thời trong mọi tình huống.
+
+2. Phối hợp với Cục Bưu điện Trung ương trong cung cấp dịch vụ bưu chính KT1 theo quy định của pháp luật.
+
+3. Tổ chức thực hiện các quy định về kết nối an toàn, an ninh trong cung cấp dịch vụ bưu chính KT1; phối hợp với các đơn vị liên quan kiểm tra, xử lý sự cố về an toàn, an ninh trong cung cấp dịch vụ bưu chính KT1.
+
+4. Tuân thủ các quy định nghiệp vụ và quy trình về cung cấp dịch vụ bưu chính KT1.
+
+5. Được thanh toán chi phí cho phần kết nối giữa Mạng bưu chính KT1 với mạng bưu chính công cộng.
+
+Điều 11. Quyền và nghĩa vụ của đối tượng sử dụng dịch vụ bưu chính KT1
+
+1. Các đối tượng quy định tại điểm a khoản 1 Điều 2 Quyết định này không phải trả cước khi gửi bưu gửi KT1 cho các đối tượng quy định tại điểm a, điểm b khoản 1 Điều 2 Quyết định này và khi gửi tài liệu, vật chứa bí mật nhà nước cho các tổ chức, cá nhân.
+
+2. Văn phòng Trung ương Đảng, Văn phòng Chủ tịch nước, Văn phòng Quốc hội, Văn phòng Chính phủ không phải trả cước khi gửi bưu gửi KT1 cho các tổ chức, cá nhân.
+
+3. Các đối tượng quy định tại điểm b khoản 1 Điều 2 Quyết định này có trách nhiệm thanh toán đủ giá cước dịch vụ theo quy định khi gửi bưu gửi KT1 cho các đối tượng quy định tại khoản 1 Điều 2 Quyết định này.
+
+4. Các đối tượng quy định tại điểm c khoản 1 Điều 2 Quyết định này có trách nhiệm thanh toán đủ giá cước dịch vụ theo quy định khi gửi tài liệu, vật chứa bí mật nhà nước cho các đối tượng quy định tại khoản 1 Điều 2 Quyết định này.
+
+5. Khi sử dụng dịch vụ bưu chính KT1, các đối tượng quy định tại khoản 1 Điều 2 Quyết định này được cung cấp đầy đủ các thông tin về dịch vụ, phải thực hiện đúng các quy định về sử dụng dịch vụ, chịu trách nhiệm trước pháp luật về nội dung bưu gửi và phải tuân thủ các quy định của pháp luật về bảo vệ bí mật nhà
+
+6. Các đối tượng quy định tại điểm a khoản 1 Điều 2 Quyết định này có trách nhiệm phối hợp Cục Bưu điện Trung ương đối soát sản lượng và xác nhận chất lượng dịch vụ bưu chính KT1.
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 12. Trách nhiệm của Bộ Thông tin và Truyền thông
+
+1. Xây dựng chiến lược, quy hoạch, kế hoạch hoặc đề án phát triển Mạng bưu chính KT1 bảo đảm nâng cao chất lượng dịch vụ, phù hợp với yêu cầu phát triển trong từng giai đoạn.
+
+2. Ban hành giá cước dịch vụ bưu chính KT1 sau khi thống nhất với Bộ Tài chính; các quy định về dịch vụ, kết nối, định mức kinh tế - kỹ thuật, chất lượng và thời gian phát, an toàn, an ninh; tiêu chuẩn người lao động được tuyển chọn để tham gia trực tiếp vào quá trình cung cấp dịch vụ bưu chính KT1 và chỉ đạo triển khai thực hiện Quyết định này.
+
+3. Thanh tra, kiểm tra, giám sát và chỉ đạo việc triển khai thực hiện các quy định của pháp luật về hoạt động của Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước.
+
+4. Ưu tiên bố trí vốn đầu tư công để đầu tư xây dựng cơ sở vật chất cho hoạt động cung cấp dịch vụ bưu chính KT1 phục vụ cơ quan Đảng, Nhà nước.
+
+Điều 13. Trách nhiệm của Bộ Kế hoạch và Đầu tư
+
+Phối hợp với Bộ Thông tin và Truyền thông bố trí vốn đầu tư công để đầu tư xây dựng cơ sở vật chất cho hoạt động cung cấp dịch vụ bưu chính KT1 phục vụ cơ quan Đảng, Nhà nước.
+
+Điều 14. Trách nhiệm của Bộ Tài chính
+
+1. Chủ trì, phối hợp với Bộ Thông tin và Truyền thông báo đảm kinh phí từ ngân sách nhà nước cho hoạt động của Mạng bưu chính KT1.
+
+2. Thống nhất với Bộ Thông tin và Truyền thông về giá cước dịch vụ bưu chính KT1.
+
+Điều 15. Trách nhiệm của Bộ Công an
+
+1. Chủ trì, phối hợp với Bộ Thông tin và Truyền thông hướng dẫn việc thực hiện các quy định về bảo vệ bí mật nhà nước; quy định về việc trang bị, quản lý và sử dụng công cụ hỗ trợ; việc thẩm tra tiêu chuẩn chính trị người lao động tham gia trực tiếp vào quá trình cung cấp dịch vụ bưu chính KT1; xử lý các trường hợp vi phạm các quy định này đối với hoạt động của Mạng bưu chính KT1 theo quy định của pháp luật.
+
+2. Tổ chức lực lượng chuyên trách bảo vệ trụ sở điều hành; bảo vệ việc khai thác, vận chuyển và phát bưu gửi KT1 khi có yêu cầu.
+
+3. Chỉ đạo các đơn vị trực thuộc Bộ Công an phối hợp với Cục Bưu điện Trung ương và doanh nghiệp được chỉ định thực hiện duy trì, quản lý mạng bưu chính công cộng trong việc thẩm tra tiêu chuẩn chính trị người lao động tham gia trực tiếp vào quá trình cung cấp dịch vụ bưu chính KT1 khi có yêu cầu.
+
+Điều 16. Trách nhiệm của Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương
+
+1. Quản lý hoạt động cung cấp và sử dụng dịch vụ bưu chính KT1 trên địa bàn theo Quyết định này và quy định của pháp luật liên quan.
+
+2. Bảo đảm kinh phí từ ngân sách địa phương cho việc sử dụng dịch vụ bưu chính KT1 của các đối tượng quy định tại điểm b khoản 1 Điều 2 Quyết định này.
+
+Chương IV
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 17. Hiệu lực thi hành
+
+Quyết định này có hiệu lực từ ngày 15 tháng 02 năm 2022 và thay thế Quyết định số 55/2016/QĐ-TTg ngày 26 tháng 12 năm 2016 của Thủ tướng Chính phủ về Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước.
+
+Điều 18. Trách nhiệm thi hành
+
+Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+ 
+
+
+Nơi nhận:
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+- Tỉnh ủy, Thành ủy, HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Giám sát tài chính Quốc gia;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các đoàn thể;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: VT, KGVX (2).
+
+KT. THỦ TƯỚNG
+PHÓ THỦ TƯỚNG
+
+
+
+
+Vũ Đức Đam
+BỘ THÔNG TIN VÀ
+TRUYỀN THÔNG
+-------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+
+Số: 15/2022/TT-BTTTT
+
+Hà Nội, ngày 31 tháng 10 năm 2022
+
+
+THÔNG TƯ
+
+QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 37/2021/QĐ-TTG NGÀY 18 THÁNG 12 NĂM 2021 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ MẠNG BƯU CHÍNH PHỤC VỤ CƠ QUAN ĐẢNG, NHÀ NƯỚC
+
+Căn cứ Luật Bưu chính ngày 17 tháng 6 năm 2010;
+
+Căn cứ Nghị định số 48/2022/NĐ-CP ngày 26 tháng 7 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông;
+
+Căn cứ Quyết định số 37/2021/QĐ-TTg ngày 18 tháng 12 năm 2021 của Thủ tướng Chính phủ về Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước;
+
+Căn cứ Quyết định số 41/2011/QĐ-TTg ngày 03 tháng 8 năm 2011 của Thủ tướng Chính phủ về việc chỉ định doanh nghiệp thực hiện duy trì, quản lý mạng bưu chính công cộng, cung ứng dịch vụ bưu chính công ích, dịch vụ bưu chính quốc tế;
+
+Theo đề nghị của Cục trưởng Cục Bưu điện Trung ương;
+
+Bộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư quy định chi tiết và hướng dẫn thi hành một số điều của Quyết định số 37/2021/QĐ-TTg ngày 18 tháng 12 năm 2021 của Thủ tướng Chính phủ về Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này quy định chi tiết và hướng dẫn thi hành một số điều của Quyết định số 37/2021/QĐ-TTg ngày 18 tháng 12 năm 2021 của Thủ tướng Chính phủ về Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước (sau đây được gọi tắt là Quyết định số 37/2021/QĐ-TTg) gồm: dịch vụ; chất lượng dịch vụ; an toàn, an ninh trong cung cấp dịch vụ; kết nối mạng; kiểm tra, giám sát; lưu trữ, báo cáo và tổ chức thực hiện việc cung cấp dịch vụ bưu chính KT1.
+
+Điều 2. Đối tượng áp dụng
+
+Thông tư này áp dụng đối với Cục Bưu điện Trung ương; Tổng công ty Bưu điện Việt Nam; các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động của Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước (sau đây gọi là Mạng bưu chính KT1).
+
+Chương II
+
+DỊCH VỤ VÀ CHẤT LƯỢNG DỊCH VỤ
+
+Điều 3. Dịch vụ bưu chính KT1
+
+1. Dịch vụ bưu chính KT1 theo phạm vi cung cấp dịch vụ gồm: dịch vụ bưu chính KT1 nội tỉnh và dịch vụ bưu chính KT1 liên tỉnh.
+
+2. Dịch vụ bưu chính KT1 theo đặc tính dịch vụ gồm:
+
+a) Dịch vụ KT1: là dịch vụ bưu chính KT1 không có yêu cầu về độ mật và độ khẩn.
+
+b) Dịch vụ KT1 theo độ mật (A, B, C): là dịch vụ bưu chính KT1 có yêu cầu về độ Tuyệt mật, Tối mật, Mật và yêu cầu cao về bảo đảm an toàn, an ninh.
+
+c) Dịch vụ KT1 theo độ khẩn (Hỏa tốc, Hẹn giờ):
+
+- Dịch vụ KT1 Hỏa tốc: là dịch vụ bưu chính KT1 có yêu cầu về tốc độ xử lý nhanh;
+
+- Dịch vụ KT1 Hẹn giờ: là dịch vụ bưu chính KT1 có yêu cầu phát đến địa chỉ nhận theo thời gian thỏa thuận giữa người gửi và đơn vị cung cấp dịch vụ.
+
+d) Dịch vụ KT1 theo độ mật (A, B, C) và độ khẩn (Hỏa tốc, Hẹn giờ):
+
+- Dịch vụ KT1 theo độ mật và Hỏa tốc: là dịch vụ KT1 theo độ mật có yêu cầu về tốc độ xử lý nhanh;
+
+- Dịch vụ KT1 theo độ mật và Hẹn giờ: là dịch vụ KT1 theo độ mật có yêu cầu phát đến địa chỉ nhận theo thời gian thỏa thuận giữa người gửi và đơn vị cung cấp dịch vụ.
+
+Điều 4. Chất lượng dịch vụ bưu chính KT1
+
+1. An toàn bưu gửi: 100% bưu gửi được phát đến địa chỉ nhận trong tình trạng không bị suy suyển, hư hỏng làm ảnh hưởng đến nội dung bưu gửi, trừ trường hợp do sự kiện bất khả kháng theo quy định của pháp luật.
+
+2. Thời gian phục vụ: dịch vụ bưu chính KT1 được cung cấp liên tục 24 giờ trong một ngày và 07 ngày trong một tuần, kể cả ngày nghỉ lễ, Tết.
+
+3. Tần suất phát: bưu gửi KT1 được phát tối thiểu 02 lần/ngày, riêng cấp xã tối thiểu 01 lần/ngày. Tần suất phát ở địa bàn có điều kiện địa lý đặc biệt quy định tại Phụ lục I ban hành kèm theo Thông tư này.
+
+4. Thời gian toàn trình:
+
+a) Thời gian toàn trình dịch vụ bưu chính KT1 là khoảng thời gian tính từ khi bưu gửi được chấp nhận cho đến khi được phát lần thứ nhất đến địa chỉ nhận ghi trên bưu gửi.
+
+Trường hợp bưu gửi sử dụng đồng thời nhiều dịch vụ bưu chính KT1 thì thời gian toàn trình được tính theo dịch vụ có thời gian toàn trình ngắn nhất.
+
+b) Thời gian toàn trình dịch vụ bưu chính KT1 được xác định theo công thức J+n (trong đó J là ngày chấp nhận, được thể hiện bằng dấu ngày trên bưu gửi và n là số ngày làm việc).
+
+c) Trong phạm vi nội tỉnh, thời gian toàn trình tối đa là:
+
+- Dịch vụ KT1 và dịch vụ KT1 theo độ mật: J+1,5;
+
+- Dịch vụ KT1 Hỏa tốc: J+1.
+
+d) Trong phạm vi liên tỉnh, thời gian toàn trình tối đa là:
+
+- Dịch vụ KT1 và dịch vụ KT1 theo độ mật: J+3,5;
+
+- Dịch vụ KT1 Hỏa tốc: J+2,5.
+
+đ) Bưu gửi KT1 Hẹn giờ được phát theo thời gian yêu cầu của người gửi đến địa chỉ nhận trước hoặc đúng giờ hẹn ghi trên bưu gửi.
+
+e) Đối với địa bàn thuộc danh mục vùng có điều kiện địa lý đặc biệt nêu tại khoản 3 Điều này, thời gian toàn trình được cộng thêm tối đa 2,5 ngày so với thời gian toàn trình quy định tại điểm c, điểm d khoản 4 Điều này, trừ trường hợp do sự kiện bất khả kháng theo quy định của pháp luật.
+
+g) Quy định về việc phát bưu gửi KT1:
+
+- Trong giờ làm việc: bưu gửi KT1 được phát tại địa chỉ nhận ghi trên bưu gửi;
+
+- Ngoài giờ làm việc, thứ Bảy, Chủ nhật và ngày nghỉ lễ, Tết: bưu gửi KT1 có độ khẩn được phát đến đầu mối do đối tượng sử dụng dịch vụ chỉ định theo quy định tại khoản 4 Điều 17 Thông tư này.
+
+5. Thời hiệu giải quyết khiếu nại: 06 tháng, kể từ ngày kết thúc thời gian toàn trình của bưu gửi KT1.
+
+6. Thời hạn giải quyết khiếu nại: không quá 10 ngày làm việc kể từ ngày nhận được khiếu nại.
+
+Chương III
+
+AN TOÀN, AN NINH TRONG CUNG CẤP DỊCH VỤ
+
+Điều 5. Bảo đảm an toàn, an ninh
+
+Việc bảo đảm an toàn, an ninh trong cung cấp dịch vụ bưu chính KT1 được thực hiện theo quy định tại Điều 6 Quyết định số 37/2021/QĐ-TTg và các yêu cầu sau:
+
+1. Mạng bưu chính KT1 do Cục Bưu điện Trung ương trực tiếp khai thác được đầu tư trang thiết bị, phương tiện vận chuyển chuyên dùng; được bố trí lực lượng chuyên trách bảo vệ để bảo đảm an toàn, an ninh trong cung cấp dịch vụ.
+
+2. Mạng bưu chính công cộng khi cung cấp dịch vụ bưu chính KT1 phải đáp ứng các yêu cầu sau:
+
+a) Tại cấp tỉnh: phải thành lập bưu cục khai thác dịch vụ bưu chính KT1.
+
+b) Tại cấp huyện, cấp xã: phải bố trí khu vực để khai thác riêng dịch vụ bưu chính KT1.
+
+Trường hợp cấp xã không bố trí được khu vực để khai thác riêng dịch vụ bưu chính KT1 thì Tổng công ty Bưu điện Việt Nam chủ động bố trí địa điểm đáp ứng yêu cầu cung cấp dịch vụ và bảo đảm an toàn, an ninh.
+
+c) Chỉ định người lao động chịu trách nhiệm về hoạt động cung cấp dịch vụ bưu chính KT1.
+
+d) Ưu tiên cung cấp dịch vụ bưu chính KT1 trước tất cả các loại dịch vụ bưu chính khác.
+
+3. Cơ sở khai thác dịch vụ bưu chính KT1 phải có thiết bị để giám sát hoạt động cung cấp dịch vụ.
+
+4. Túi chứa bưu gửi KT1 màu đỏ, được làm bằng chất liệu dai bền, chống cháy, chống thấm nước. Thùng chứa bưu gửi KT1 làm bằng chất liệu chống cháy, chống thấm nước, chống vỡ. Túi, thùng chứa bưu gửi KT1 được niêm phong hoặc có khóa bảo vệ; được quản lý và giám sát chặt chẽ trong suốt quá trình cung cấp dịch vụ.
+
+5. Bưu gửi KT1 Tuyệt mật được tổ chức đi phát bằng phương tiện ô tô ngay sau khi chấp nhận và khai thác.
+
+6. Phương tiện vận chuyển chuyên dùng là phương tiện để vận chuyển và phát bưu gửi KT1; có thùng làm bằng chất liệu chống cháy, chống thấm nước, chống vỡ, có khóa bảo vệ và được giám sát chặt chẽ trong suốt quá trình vận chuyển.
+
+7. Trường hợp cần thiết khi vận chuyển và phát bưu gửi KT1 chứa bí mật nhà nước, đơn vị cung cấp dịch vụ chủ động bố trí người bảo vệ hoặc phối hợp với cơ quan công an để được bố trí lực lượng chuyên trách bảo vệ.
+
+8. Trường hợp có yêu cầu kiểm tra của cơ quan chức năng trong quá trình vận chuyển bưu gửi KT1 chứa bí mật nhà nước, người điều khiển phương tiện vận chuyển hoặc người áp tải phải kịp thời báo cáo lãnh đạo phụ trách trực tiếp trước khi phối hợp với cơ quan chức năng và tuân thủ theo quy định của pháp luật.
+
+Điều 6. Bảo đảm an toàn, bảo mật dữ liệu hệ thống mạng máy tính và phần mềm ứng dụng
+
+1. Hệ thống mạng máy tính và phần mềm ứng dụng phục vụ việc cung cấp dịch vụ bưu chính KT1 được thiết kế theo các phân vùng mạng, chức năng phù hợp với hệ thống thông tin theo cấp độ tương ứng, được triển khai bảo đảm an toàn theo cấp độ đáp ứng các yêu cầu tại Điều 19 Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ.
+
+2. Việc đồng bộ dữ liệu liên quan tới quản lý, khai thác bưu gửi KT1 trên mạng bưu chính công cộng về máy chủ bưu chính KT1 do Cục Bưu điện Trung ương quản lý phải được thực hiện qua đường truyền riêng, áp dụng các biện pháp xác thực, mã hóa đảm bảo các tiêu chuẩn về an toàn, bảo mật.
+
+Điều 7. Xử lý vi phạm và bồi thường thiệt hại
+
+1. Mọi vi phạm đối với bưu gửi KT1 chứa bí mật nhà nước phải được điều tra làm rõ; tùy theo tính chất, mức độ, hậu quả của hành vi vi phạm gây ra sẽ bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc truy cứu trách nhiệm hình sự.
+
+2. Việc bồi thường thiệt hại đối với bưu gửi KT1 được thực hiện theo quy định của pháp luật về bưu chính.
+
+Chương IV
+
+KẾT NỐI MẠNG
+
+Điều 8. Quy định chung về kết nối Mạng
+
+1. Cục Bưu điện Trung ương và Tổng công ty Bưu điện Việt Nam phải thực hiện việc kết nối mạng và cung cấp dịch vụ bưu chính KT1 đáp ứng các yêu cầu bảo đảm bí mật nhà nước; an toàn, an ninh; thống nhất trong tổ chức quản lý, vận hành, khai thác; tuân thủ quy định về trang thiết bị, phương tiện vận chuyển chuyên dùng; quy định nghiệp vụ và tiêu chuẩn người lao động tham gia trực tiếp vào quá trình cung cấp dịch vụ.
+
+2. Việc kết nối được thực hiện theo Hợp đồng kết nối giữa hai bên theo quy định tại Thông tư này và pháp luật liên quan; bảo đảm nguyên tắc kịp thời, công khai, minh bạch.
+
+Điều 9. Hợp đồng kết nối
+
+1. Nội dung chính của Hợp đồng kết nối
+
+a) Thông tin chung về đơn vị (tên, địa chỉ trụ sở, số điện thoại) và người đại diện theo pháp luật của đơn vị (họ và tên; chức vụ; số điện thoại liên hệ; địa chỉ thư điện tử và các thông tin cần thiết khác).
+
+b) Thông tin liên quan đến việc thực hiện kết nối:
+
+- Địa điểm kết nối; thông tin về đầu mối liên hệ của các bên (họ và tên; chức vụ; số điện thoại liên hệ; địa chỉ thư điện tử và các thông tin cần thiết khác) và thông báo bằng văn bản khi có sự thay đổi thông tin về đầu mối liên hệ; điều kiện của người lao động tham gia trực tiếp vào quá trình cung cấp dịch vụ bưu chính KT1;
+
+- Chất lượng dịch vụ; chi phí kết nối; đối soát sản lượng bưu gửi và xác nhận chất lượng dịch vụ; giảm trừ giá trị thanh toán khi có vi phạm nghĩa vụ; phối hợp xử lý khi có khiếu nại về chất lượng cung cấp dịch vụ hoặc có sự cố về an ninh, an toàn trong cung cấp dịch vụ; cơ sở dữ liệu và chia sẻ dữ liệu trong cung cấp dịch vụ;
+
+- Quyền và nghĩa vụ khác của các bên.
+
+2. Ký kết Hợp đồng kết nối
+
+a) Cục Bưu điện Trung ương và Tổng công ty Bưu điện Việt Nam thỏa thuận các nội dung của Hợp đồng kết nối. Sau khi thống nhất, hai bên ký kết Hợp đồng kết nối.
+
+b) Cục Bưu điện Trung ương có trách nhiệm thông báo với Bộ Thông tin và Truyền thông sau khi ký kết và khi có sửa đổi, bổ sung Hợp đồng kết nối.
+
+Chương V
+
+KIỂM TRA, GIÁM SÁT
+
+Điều 10. Kiểm tra, giám sát cung cấp dịch vụ
+
+1. Kiểm tra định kỳ
+
+a) Hằng năm, Bộ Thông tin và Truyền thông (Cục Bưu điện Trung ương) thực hiện kiểm tra, giám sát theo kế hoạch hoạt động cung cấp dịch vụ bưu chính KT1 trên toàn mạng lưới. Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương, Sở Văn hóa, Thông tin, Thể thao và Du lịch tỉnh Bạc Liêu (gọi chung là Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương) kiểm tra, giám sát hoạt động cung cấp dịch vụ bưu chính KT1 thông qua mạng bưu chính công cộng tại địa phương.
+
+b) Nội dung kiểm tra, giám sát bao gồm: việc chấp hành các quy định về cung cấp dịch vụ, chất lượng dịch vụ, kết nối mạng, an toàn, an ninh và các nội dung liên quan khác trong hoạt động cung cấp dịch vụ bưu chính KT1.
+
+2. Kiểm tra đột xuất
+
+a) Bộ Thông tin và Truyền thông (Cục Bưu điện Trung ương) quyết định kiểm tra đột xuất hoạt động cung cấp dịch vụ bưu chính KT1 trên toàn mạng. Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương quyết định kiểm tra đột xuất hoạt động cung cấp dịch vụ bưu chính KT1 thông qua mạng bưu chính công cộng trên địa bàn khi cần thiết.
+
+b) Khi kiểm tra đột xuất, cơ quan quyết định kiểm tra phải thông báo thời gian, nội dung kiểm tra cho đơn vị được kiểm tra biết trước tối thiểu 01 (một) ngày làm việc trước ngày tiến hành kiểm tra.
+
+Điều 11. Chi phí kiểm tra, giám sát
+
+Chi phí kiểm tra, giám sát do ngân sách nhà nước cấp và được bố trí trong dự toán kinh phí hoạt động của cơ quan kiểm tra, giám sát.
+
+Chương VI
+
+BÁO CÁO VÀ LƯU TRỮ
+
+Điều 12. Chế độ báo cáo
+
+1. Chế độ báo cáo định kỳ
+
+a) Tên báo cáo: Báo cáo hoạt động cung cấp dịch vụ bưu chính KT1.
+
+b) Nội dung yêu cầu báo cáo:
+
+- Hoạt động cung cấp dịch vụ bưu chính KT1;
+
+- Đề xuất, kiến nghị để bảo đảm cung cấp dịch vụ bưu chính KT1 trong giai đoạn tiếp theo.
+
+c) Đối tượng thực hiện báo cáo:
+
+- Cục Bưu điện Trung ương;
+
+- Tổng công ty Bưu điện Việt Nam và Bưu điện tỉnh, thành phố trực thuộc trung ương;
+
+- Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương.
+
+d) Cơ quan nhận và thời hạn gửi báo cáo:
+
+- Cục Bưu điện Trung ương có trách nhiệm báo cáo Bộ Thông tin và Truyền thông trước ngày 20 tháng 7 đối với báo cáo 6 tháng đầu năm, trước ngày 20 tháng 01 năm sau liền kề đối với báo cáo năm;
+
+- Tổng công ty Bưu điện Việt Nam, Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương có trách nhiệm báo cáo Cục Bưu điện Trung ương; Bưu điện tỉnh, thành phố trực thuộc trung ương báo cáo Sở Thông tin và Truyền thông tại địa phương trước ngày 10 tháng 7 đối với báo cáo 6 tháng đầu năm và trước ngày 10 tháng 01 năm sau liền kề đối với báo cáo năm.
+
+đ) Báo cáo được thể hiện dưới hình thức văn bản giấy hoặc văn bản điện tử có chữ ký số của người đại diện đơn vị lập báo cáo và gửi đến cơ quan nhận báo cáo qua hệ thống văn bản điện tử.
+
+e) Tần suất thực hiện báo cáo: 06 tháng và hằng năm.
+
+g) Thời gian chốt số liệu báo cáo:
+
+- Báo cáo 06 tháng đầu năm được tính bắt đầu từ ngày 01 tháng 01 cho đến hết ngày 30 tháng 6;
+
+- Báo cáo năm được tính bắt đầu từ ngày 01 tháng 01 cho đến hết ngày 31 tháng 12 của năm.
+
+h) Các đối tượng thực hiện báo cáo theo biểu mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư này.
+
+2. Chế độ báo cáo đột xuất
+
+a) Chế độ báo cáo đột xuất được thực hiện để giúp đơn vị quản lý nhà nước tổng hợp các thông tin ngoài các thông tin theo chế độ báo cáo định kỳ quy định tại khoản 1 Điều này.
+
+b) Báo cáo đột xuất được thực hiện theo yêu cầu bằng văn bản hành chính.
+
+c) Kết cấu, nội dung, phương thức, thời gian chốt số liệu, thời hạn báo cáo đột xuất, nơi nhận báo cáo và các nội dung khác có liên quan được thực hiện theo văn bản yêu cầu.
+
+Điều 13. Lưu trữ tài liệu
+
+1. Tài liệu bản giấy về bưu gửi KT1 là các tài liệu được tạo lập ở dạng văn bản hình thành trong quá trình cung cấp dịch vụ bưu chính KT1.
+
+2. Tài liệu điện tử về bưu gửi KT1 là tài liệu được tạo lập ở dạng thông điệp dữ liệu hình thành trong quá trình cung cấp dịch vụ bưu chính KT1. Tài liệu lưu trữ điện tử được bảo quản và sử dụng theo phương pháp chuyên môn, nghiệp vụ riêng biệt.
+
+3. Thời hạn lưu trữ tối thiểu là 02 (hai) năm đối với tài liệu bản giấy, 05 (năm) năm đối với tài liệu điện tử kể từ ngày bưu gửi KT1 được chấp nhận.
+
+Chương VII
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 14. Trách nhiệm của Cục Bưu điện Trung ương
+
+1. Chủ trì kiểm tra, giám sát việc cung cấp dịch vụ bưu chính KT1 tại địa phương theo quy định tại Điều 10 Thông tư này; đánh giá về mức độ an toàn, an ninh và chất lượng dịch vụ trên toàn mạng; thực hiện các biện pháp phòng, tránh và khắc phục kịp thời khi xảy ra sự cố trong cung cấp dịch vụ bưu chính KT1.
+
+2. Thực hiện các biện pháp bảo vệ an toàn cơ sở hạ tầng cung cấp dịch vụ bưu chính KT1 do Cục Bưu điện Trung ương quản lý, điều hành, khai thác; phát hiện, ngăn chặn kịp thời trường hợp lợi dụng việc cung cấp dịch vụ bưu chính KT1 để hoạt động xâm phạm an ninh quốc gia, trật tự, an toàn xã hội.
+
+3. Quy định thời gian toàn trình chi tiết các dịch vụ bưu chính KT1 (đến cấp xã) bảo đảm đáp ứng yêu cầu về an toàn, an ninh và chất lượng dịch vụ.
+
+4. Chủ trì, phối hợp với các đơn vị liên quan đào tạo, tập huấn nâng cao trình độ nghiệp vụ, nhận thức về an toàn, an ninh cho cán bộ, công chức, viên chức và người lao động tham gia trực tiếp vào quá trình cung cấp dịch vụ bưu chính KT1.
+
+5. Tuân thủ quy định về tuyển chọn người lao động, quy định nghiệp vụ và quy trình cung cấp dịch vụ bưu chính KT1.
+
+6. Bảo đảm bí mật các thông tin liên quan đến đối tượng sử dụng dịch vụ bưu chính KT1 theo quy định của pháp luật.
+
+7. Thông báo với cơ quan có thẩm quyền khi phát hiện hoặc nghi ngờ không bảo đảm an toàn, an ninh; hoặc khi xảy ra lộ, mất bí mật nhà nước trong việc cung cấp dịch vụ bưu chính KT1.
+
+8. Báo cáo Bộ Thông tin và Truyền thông hoạt động cung cấp dịch vụ bưu chính KT1 theo quy định tại Điều 12 Thông tư này hoặc khi xảy ra sự cố về an toàn, an ninh.
+
+Điều 15. Trách nhiệm của Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương
+
+1. Kiểm tra, giám sát hoạt động cung cấp dịch vụ bưu chính KT1 trên địa bàn và báo cáo kết quả với Bộ Thông tin và Truyền thông (Cục Bưu điện Trung ương).
+
+2. Báo cáo Bộ Thông tin và Truyền thông (Cục Bưu điện Trung ương) hoạt động cung cấp dịch vụ bưu chính KT1 theo quy định tại Điều 12 Thông tư này.
+
+3. Tham mưu, giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương thực hiện trách nhiệm quản lý hoạt động cung cấp và sử dụng dịch vụ bưu chính KT1 trên địa bàn theo quy định của pháp luật về bưu chính và quy định của pháp luật liên quan.
+
+Điều 16. Trách nhiệm của Tổng công ty Bưu điện Việt Nam
+
+1. Kiểm tra, đánh giá về mức độ an toàn, an ninh trong cung cấp dịch vụ bưu chính KT1 tại địa phương; thực hiện các biện pháp phòng tránh và khắc phục kịp thời khi xảy ra sự cố trong cung cấp dịch vụ bưu chính KT1 tại địa phương.
+
+2. Chủ trì thực hiện các biện pháp bảo vệ an toàn cơ sở hạ tầng cung cấp dịch vụ bưu chính KT1 do Tổng công ty Bưu điện Việt Nam quản lý; phát hiện, ngăn chặn kịp thời trường hợp lợi dụng việc cung cấp dịch vụ bưu chính KT1 phục vụ đối tượng tại địa phương để hoạt động xâm phạm an ninh quốc gia, trật tự, an toàn xã hội tại địa phương.
+
+3. Phối hợp với Cục Bưu điện Trung ương quy định về thời gian toàn trình chi tiết các dịch vụ bưu chính KT1 (đến cấp xã) bảo đảm đáp ứng yêu cầu về an toàn, an ninh và chất lượng dịch vụ.
+
+4. Chủ trì, phối hợp với Cục Bưu điện Trung ương đào tạo, tập huấn nâng cao trình độ nghiệp vụ, nhận thức về an toàn, an ninh cho người lao động tham gia trực tiếp vào quá trình cung cấp dịch vụ bưu chính KT1.
+
+5. Tuân thủ quy định về tuyển chọn người lao động, quy định nghiệp vụ và quy trình cung cấp dịch vụ bưu chính KT1.
+
+6. Bảo đảm bí mật các thông tin liên quan đến đối tượng sử dụng dịch vụ bưu chính KT1 theo quy định của pháp luật.
+
+7. Bảo đảm dữ liệu trong quá trình cung cấp dịch vụ bưu chính KT1 được tự động cập nhật theo thời gian thực về máy chủ bưu chính KT1 của Cục Bưu điện Trung ương đầy đủ, chính xác.
+
+8. Thông báo với cơ quan có thẩm quyền khi phát hiện hoặc nghi ngờ không bảo đảm an toàn, an ninh; hoặc khi xảy ra lộ, mất bí mật nhà nước trong việc cung cấp dịch vụ bưu chính KT1.
+
+9. Báo cáo Cục Bưu điện Trung ương và chỉ đạo Bưu điện tỉnh, thành phố trực thuộc trung ương báo cáo Sở Thông tin và Truyền thông tại địa phương hoạt động cung cấp dịch vụ bưu chính KT1 theo quy định tại Điều 12 Thông tư này.
+
+10. Báo cáo Cục Bưu điện Trung ương ngay khi xảy ra sự cố về an toàn, an ninh trong cung cấp dịch vụ bưu chính KT1.
+
+Điều 17. Trách nhiệm của đối tượng sử dụng dịch vụ
+
+1. Làm bì hoặc đóng gói tài liệu, vật chứa bí mật nhà nước sử dụng dịch vụ bưu chính KT1 theo đúng quy định của pháp luật về bảo vệ bí mật nhà nước và quy định của pháp luật về bưu chính.
+
+2. Cung cấp thông tin về bưu gửi khi có yêu cầu.
+
+3. Ghi đúng, đầy đủ, rõ ràng tên (họ tên), địa chỉ của cơ quan, tổ chức gửi và cơ quan, tổ chức, cá nhân nhận khi sử dụng dịch vụ bưu chính KT1.
+
+4. Chỉ định và cung cấp đầu mối tiếp nhận bưu gửi KT1 ngoài giờ làm việc, thứ Bảy, Chủ nhật, ngày nghỉ lễ, Tết cho đơn vị cung cấp dịch vụ để bảo đảm phát bưu gửi theo đúng quy định.
+
+Điều 18. Trách nhiệm của các tổ chức liên quan đến hoạt động vận chuyển bưu gửi KT1
+
+1. Ưu tiên giao nhận, vận chuyển nhanh chóng, chính xác, kịp thời túi, thùng chứa bưu gửi KT1 trước các loại bưu gửi, hàng hóa khác.
+
+2. Nơi lưu giữ bưu gửi KT1 phải có khóa bảo vệ, có thiết bị giám sát; riêng đối với bưu gửi KT1 chứa bí mật nhà nước phải được bảo quản ở nơi an toàn và có phương án bảo vệ.
+
+Điều 19. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2023 và thay thế Thông tư số 16/2017/TT-BTTTT ngày 23 tháng 6 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông về Quy định chi tiết một số nội dung và biện pháp thi hành Quyết định số 55/2016/QĐ-TTg ngày 26 tháng 12 năm 2016 của Thủ tướng Chính phủ về Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước.
+
+2. Chánh Văn phòng; Cục trưởng Cục Bưu điện Trung ương; Tổng giám đốc Tổng công ty Bưu điện Việt Nam; Thủ trưởng các cơ quan, đơn vị trực thuộc Bộ Thông tin và Truyền thông; Giám đốc Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+3. Trong quá trình triển khai thực hiện, nếu có vấn đề vướng mắc, các cơ quan, tổ chức liên quan phản ánh kịp thời về Bộ Thông tin và Truyền thông (Cục Bưu điện Trung ương) để xem xét, bổ sung, sửa đổi./.
+
+
+
+Nơi nhận:
+- Thủ tướng, các Phó Thủ tướng Chính phủ (để b/c);
+- Văn phòng Tổng Bí thư;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Quốc hội;
+- Văn phòng Chủ tịch nước;
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Kiểm toán Nhà nước;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- Cơ quan Trung ương của các đoàn thể;
+- Tỉnh ủy, Thành ủy các tỉnh, thành phố trực thuộc TW;
+- HĐND, UBND các tỉnh, thành phố trực thuộc TW;
+- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);
+- Sở TTTT các tỉnh, thành phố trực thuộc TW,
+Sở Văn hóa, Thông tin, Thể thao và Du lịch tỉnh Bạc Liêu;
+- Công báo, Cổng TTĐT Chính phủ;
+- Bộ TTTT: Bộ trưởng và các Thứ trưởng, các cơ quan,
+đơn vị thuộc Bộ, Cổng TTĐT Bộ;
+- Tổng công ty Bưu điện Việt Nam;
+- Lưu: VT, CBĐTW (320).
+
+BỘ TRƯỞNG
+
+
+
+
+Nguyễn Mạnh Hùng
+
+MỤC LỤC
+CHƯƠNG I. QUY ĐỊNH CHUNG	3
+Điều 1. Phạm vi điều chỉnh	3
+Điều 2. Đối tượng áp dụng	3
+Điều 3. Đối tượng sử dụng	3
+Điều 4. Giải thích từ ngữ	3
+Điều 5. Phạm vi cung cấp và sử dụng dịch vụ	4
+Điều 6. Quy định về khối lượng, kích thước bưu gửi	5
+Điều 7. Lưu trữ hồ sơ tài liệu	5
+Điều 8. Quản lý, điều hành cung cấp dịch vụ bưu chính KT1	6
+CHƯƠNG II. DỊCH VỤ BƯU CHÍNH KT1	6
+Điều 9. Khái niệm	6
+Điều 10. Các loại dịch vụ bưu chính KT1	7
+Điều 11. Dịch vụ giá trị gia tăng kết hợp với dịch vụ bưu chính KT1	8
+Điều 12. Thứ tự ưu tiên trong cung cấp dịch vụ bưu chính KT1	8
+CHƯƠNG III. CƯỚC DỊCH VỤ BƯU CHÍNH KT1	8
+Điều 13. Nguyên tắc tính cước	8
+Điều 14. Cước dịch vụ bưu chính KT1	9
+Điều 15. Các trường hợp sử dụng dịch vụ bưu chính KT1 không phải trả cước	9
+CHƯƠNG IV. BẢO ĐẢM AN TOÀN, AN NINH	9
+TRONG CUNG CẤP DỊCH VỤ BƯU CHÍNH KT1	9
+Điều 16. Cơ sở khai thác	9
+Điều 17. Trang thiết bị và phương tiện vận chuyển	10
+Điều 18. Ứng dụng công nghệ thông tin	10
+Điều 19. Làm bì, đóng gói và niêm phong túi/thùng chứa bưu gửi KT1	11
+Điều 20. Túi đóng chuyến thư	11
+Điều 21. Thùng đóng chuyến thư	11
+CHƯƠNG V. QUYỀN, TRÁCH NHIỆM CỦA ĐỐI TƯỢNG SỬ DỤNG VÀ ĐƠN VỊ CUNG CẤP DỊCH VỤ BƯU CHÍNH KT1	12
+Điều 22. Quyền và trách nhiệm của đối tượng sử dụng dịch vụ/ khách hàng	12
+Điều 23. Quyền và trách nhiệm của đơn vị cung cấp dịch vụ	13
+Điều 24. Quyền và trách nhiệm của các tổ chức liên quan đến hoạt động vận chuyển	14
+CHƯƠNG VI. CHẤP NHẬN BƯU GỬI KT1	14
+Điều 25. Hình thức và phương thức chấp nhận	14
+Điều 26. Điều kiện chấp nhận bưu gửi KT1	15
+Điều 27. Cách ghi địa chỉ trên bưu gửi KT1	15
+Điều 28. Thủ tục nhận gửi	16
+CHƯƠNG VII. PHÁT BƯU GỬI KT1	17
+Điều 29. Nguyên tắc	17
+Điều 30. Bưu gửi KT1 phát hợp lệ	18
+Điều 31. Bưu gửi KT1 không phát được	18
+Điều 32. Phát bưu gửi KT1 ngoài giờ làm việc, thứ Bảy, Chủ nhật, ngày nghỉ lễ, Tết	18
+Điều 33. Thời gian lưu giữ bưu gửi KT1 tại bưu cục phát	18
+CHƯƠNG VIII. KHIẾU NẠI VÀ BỒI THƯỜNG	19
+Điều 34. Đầu mối giải quyết khiếu nại, bồi thường	19
+Điều 35. Đối tượng được khiếu nại	19
+Điều 36. Hình thức khiếu nại	19
+Điều 37. Thời hiệu khiếu nại	20
+Điều 38. Thời hạn giải quyết khiếu nại	20
+CHƯƠNG IX. ĐIỀU KHOẢN THI HÀNH	20
+Điều 39. Hiệu lực thi hành	20
+Phụ lục 01: DANH SÁCH CÁC CƠ QUAN, TỔ CHỨC Ở TRUNG ƯƠNG	21
+Phụ lục 02: DANH SÁCH CƠ QUAN, TỔ CHỨC Ở ĐỊA PHƯƠNG	24
+
+
+
+ 
+CHƯƠNG I. QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy định nghiệp vụ về điều hành, khai thác Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước (sau đây gọi là Mạng bưu chính KT1) quy định việc cung cấp và sử dụng dịch vụ bưu chính KT1 và việc vận chuyển tài liệu, vật chứa bí mật nhà nước (BMNN) qua dịch vụ bưu chính.
+Điều 2. Đối tượng áp dụng
+Quy định này áp dụng đối với Cục Bưu điện Trung ương (Cục BĐTW); Tổng công ty Bưu điện Việt Nam (BĐVN) và các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động của Mạng bưu chính KT1.
+Điều 3. Đối tượng sử dụng
+1.	Đối tượng sử dụng dịch vụ của Mạng bưu chính KT1 cấp trung ương quy định tại Phụ lục 01, cấp địa phương quy định tại Phụ lục 02 kèm theo Quy định này. 
+2.	Các cơ quan, tổ chức và doanh nghiệp nhà nước có tài liệu, vật chứa BMNN.
+Điều 4. Giải thích từ ngữ
+Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:
+1.	Mạng bưu chính KT1 do Cục BĐTW xây dựng, quản lý, điều hành, khai thác và chỉ được kết nối với mạng bưu chính công cộng để bảo đảm cung cấp dịch vụ bưu chính KT1 cho các đối tượng quy định tại Điều 3 Quy định này.
+Mạng bưu chính KT1 do Cục BĐTW trực tiếp quản lý, điều hành, khai thác gồm: Hệ thống cơ sở khai thác, điểm phục vụ bưu chính tại Hà Nội, Đà Nẵng, thành phố Hồ Chí Minh; các tuyến vận chuyển và tuyến phát.
+Mạng bưu chính công cộng do Tổng công ty BĐVN trực tiếp quản lý, điều hành, khai thác, kết nối với Mạng bưu chính KT1 gồm: hệ thống cơ sở khai thác, điểm phục vụ bưu chính, các tuyến vận chuyển và tuyến phát tại các địa phương.
+2.	Dịch vụ bưu chính KT1: là việc chấp nhận, khai thác, vận chuyển và phát bưu gửi KT1 trên Mạng bưu chính KT1, được phân loại theo phạm vi và đặc tính dịch vụ.
+3.	Bưu gửi KT1: bao gồm thư, gói, kiện tài liệu; tài liệu, vật chứa BMNN được đóng dấu KT1, gắn mã vạch, định vị và quản lý chặt chẽ trong quá trình cung cấp dịch vụ.
+4.	Túi thư KT1: màu đỏ, được làm bằng chất liệu dai bền, chống cháy, chống thấm nước, dùng để chứa đựng, bảo quản, vận chuyển bưu gửi KT1, được quản lý và giám sát chặt chẽ trong suốt quá trình cung cấp dịch vụ.
+5.	Thời gian toàn trình dịch vụ bưu chính KT1: là khoảng thời gian tính từ khi bưu gửi KT1 được chấp nhận cho đến khi được phát lần thứ nhất đến địa chỉ nhận ghi trên bưu gửi.
+	Trường hợp bưu gửi sử dụng đồng thời nhiều dịch vụ bưu chính KT1 thì thời gian toàn trình được tính theo dịch vụ có thời gian toàn trình ngắn nhất.
+6.	Đối tượng sử dụng dịch vụ/khách hàng: là cơ quan, tổ chức; cá nhân thuộc cơ quan, tổ chức sử dụng dịch vụ bưu chính KT1 bao gồm người gửi và người nhận. 
+7.	Người gửi: là cơ quan, tổ chức, cá nhân có tên tại phần địa chỉ người gửi của bưu gửi KT1, trên hợp đồng hoặc thỏa thuận cung cấp và sử dụng dịch vụ bưu chính KT1.
+8.	Người nhận: là cơ quan, tổ chức, cá nhân có tên tại phần địa chỉ người nhận trên bưu gửi, trên hợp đồng hoặc thỏa thuận cung cấp và sử dụng dịch vụ bưu chính KT1.
+9.	Bưu điện: là các đơn vị tham gia cung cấp dịch vụ bưu chính KT1 của Cục BĐTW và Tổng công ty BĐVN. 
+10.	Bưu cục: là điểm phục vụ được quy định tên gọi và mã riêng biệt để tổ chức chấp nhận, khai thác hoặc phát bưu gửi KT1. 
+11.	Thông tin về sử dụng dịch vụ bưu chính KT1: gồm thông tin về họ tên, địa chỉ, số điện thoại (nếu có) của người gửi, người nhận và các thông tin liên quan. 
+12.	Trao đổi thông tin sự vụ: 
+12.1.	Sự vụ là hình thức trao đổi các ấn phẩm nghiệp vụ, hồ sơ tài liệu, văn bản giấy tờ liên quan đến hoạt động cung cấp dịch bưu chính KT1 trong nội bộ các đơn vị cung cấp dịch vụ; giữa các đơn vị cung cấp dịch vụ; giữa các đơn vị cung cấp dịch vụ với đối tượng sử dụng dịch vụ.
+12.2.	 Bưu gửi sự vụ KT1 là các văn bản/ấn phẩm nghiệp vụ được gửi bằng dịch vụ bưu chính KT1 phù hợp, được xử lý như bưu gửi KT1 và không phải trả cước sử dụng dịch vụ. Thông tin sự vụ được trao đổi trên phần mềm, bằng fax hoặc thư điện tử (email).
+Điều 5. Phạm vi cung cấp và sử dụng dịch vụ 
+1.	Phạm vi cung cấp dịch vụ
+1.1. Cục BĐTW cung cấp dịch vụ bưu chính KT1 cho các đối tượng quy định tại Phụ lục 01 ban hành kèm theo Quy định này tại Hà Nội, Đà Nẵng, thành phố Hồ Chí Minh.
+1.2. Tổng công ty BĐVN cung cấp dịch vụ bưu chính KT1 cho các đối tượng quy định tại Phụ lục 02 ban hành kèm theo Quy định này và các đối tượng quy định tại khoản 2 Điều 3 Quy định này. 
+2.	Phạm vi sử dụng dịch vụ
+2.1. Các đối tượng quy định tại Phụ lục 01 ban hành kèm theo Quy định này: 
+- Gửi bưu gửi KT1 cho nhau và cho các đối tượng quy định tại Phụ lục 02 ban hành kèm theo Quy định này; riêng 04 Văn phòng Trung ương (Văn phòng Trung ương Đảng, Văn phòng Chủ tịch nước, Văn phòng Quốc hội, Văn phòng Chính phủ) được gửi bưu gửi KT1 cho các cơ quan, tổ chức, cá nhân.
+- Gửi bưu gửi KT1 chứa BMNN cho các cơ quan, tổ chức, cá nhân.
+2.2. Các đối tượng quy định tại Phụ lục 02 ban hành kèm theo Quy định này gửi bưu gửi KT1 và bưu gửi KT1 chứa BMNN cho nhau, cho các đối tượng quy định tại Phụ lục 01 ban hành kèm theo Quy định này và cho các cơ quan, tổ chức, doanh nghiệp nhà nước.
+2.3. Các cơ quan, tổ chức và doanh nghiệp nhà nước gửi bưu gửi KT1 chứa BMNN cho nhau, cho các đối tượng quy định tại Phụ lục 01, Phụ lục 02 ban hành kèm theo Quy định này. 
+Điều 6. Quy định về khối lượng, kích thước bưu gửi 
+1.	Khối lượng bưu gửi KT1
+1.1	Thư có khối lượng tối đa 2kg/bưu gửi. 
+1.2	Gói có khối lượng tối đa 5kg/bưu gửi. 
+1.3	Kiện có khối lượng tối đa 10kg/bưu gửi; trường hợp đặc biệt, nếu nội dung bưu gửi không thể chia tách được thì khối lượng không quá 30kg và phải đảm bảo giới hạn kích thước theo quy định tại khoản 2 Điều này.
+2.	Giới hạn kích thước bưu gửi KT1
+2.1.	Kích thước tối đa: tổng chiều dài, chiều rộng và chiều cao là 90 cm, nhưng kích thước chiều lớn nhất không vượt quá 50 cm với sai số 2 cm. Nếu cuộn tròn, chiều dài cộng 2 lần đường kính là 90 cm, nhưng kích thước chiều lớn nhất không vượt quá 70 cm với sai số 2 cm.
+2.2.	Kích thước tối thiểu: một mặt kích thước không nhỏ hơn 9 cm x 14 cm với sai số 0,2 cm. Nếu cuộn tròn, chiều dài cộng 2 lần đường kính là 17 cm, nhưng kích thước chiều lớn nhất không nhỏ hơn 10 cm với sai số 0,2 cm.
+Điều 7. Lưu trữ hồ sơ tài liệu
+1.	Các loại ấn phẩm, sổ sách nghiệp vụ phải được sắp sếp theo thứ tự; đóng thành từng tập theo ngày, theo tuần, theo tháng (tùy theo sản lượng) để lưu riêng tại bưu cục sao cho dễ tìm, dễ thấy, dễ lấy. 
+2.	Sổ sách, ấn phẩm nghiệp vụ được tổ chức lưu trữ tối thiểu hai (02) năm. 
+3.	Các thông tin về bưu gửi trên hệ thống phần mềm quản lý dữ liệu (tài liệu, số liệu điện tử) được lưu trữ tối thiểu năm (05) năm.
+4.	Hàng năm, tùy theo tình hình thực tế các đơn vị cung cấp dịch vụ thành lập Hội đồng để hủy bỏ hồ sơ, tài liệu đã hết hạn lưu trữ, túi đỏ bị rách và dấu nghiệp vụ hỏng. Hội đồng do trưởng/phó giám đốc đơn vị làm chủ tịch và có các thành viên hỗ trợ. Việc hủy bỏ hồ sơ, tài liệu đã hết hạn lưu trữ, túi đỏ bị rách và dấu nghiệp vụ hỏng phải được lập biên bản ghi rõ từng loại, tình trạng và số lượng (nếu có); các đơn vị cung cấp dịch vụ gửi biên bản báo cáo đơn vị cấp trên trực tiếp của Cục BĐTW hoặc của Tổng Công ty BĐVN sau khi thực hiện hủy bỏ.
+Điều 8. Quản lý, điều hành cung cấp dịch vụ bưu chính KT1
+1.	Cục BĐTW quản lý, điều hành việc cung cấp dịch vụ bưu chính KT1 và xử lý sự cố về an toàn an ninh của các đơn vị trực thuộc Cục BĐTW; kiểm tra, giám sát việc triển khai thực hiện các quy định của pháp luật về hoạt động của Mạng bưu chính KT1.
+2.	Tổng công ty BĐVN quản lý, điều hành việc cung cấp dịch vụ bưu chính KT1 và xử lý sự cố về an toàn an ninh của các bưu điện tỉnh, thành phố và các đơn vị trực thuộc; kiểm tra, giám sát chất lượng dịch vụ bưu chính KT1 trong phạm vi quy định tại Điều 5 Quy định này.
+3.	Cục BĐTW ban hành, bổ sung, sửa đổi và hướng dẫn triển khai Quy định nghiệp vụ về điều hành, khai thác Mạng bưu chính KT1 và Quy trình cung cấp dịch vụ bưu chính KT1.
+4.	Các đơn vị cung cấp dịch vụ bưu chính KT1 phải tuân thủ đúng Quy định nghiệp vụ về điều hành, khai thác Mạng bưu chính KT1 và Quy trình cung cấp dịch vụ bưu chính KT1 do Cục BĐTW ban hành. 
+CHƯƠNG II. DỊCH VỤ BƯU CHÍNH KT1
+Điều 9. Khái niệm 
+1.	Dịch vụ KT1 là dịch vụ bưu chính KT1 không có yêu cầu về độ mật và độ khẩn. 
+2.	Dịch vụ KT1 theo độ mật (A, B, C) là dịch vụ bưu chính KT1 có yêu cầu về độ Tuyệt mật, Tối mật, Mật và yêu cầu cao về bảo đảm an toàn, an ninh.
+3.	Dịch vụ KT1 theo độ khẩn (Hỏa tốc, Hẹn giờ): 
+3.1.	Dịch vụ KT1 Hỏa tốc là dịch vụ bưu chính KT1 có yêu cầu về tốc độ xử lý nhanh.
+3.2.	Dịch vụ KT1 Hẹn giờ là dịch vụ bưu chính KT1 có yêu cầu phát đến địa chỉ nhận theo thời gian thỏa thuận giữa người gửi với đơn vị cung cấp dịch vụ và đáp ứng điều kiện cung cấp dịch vụ. 
+Dịch vụ KT1 Hỏa tốc Hẹn giờ (Hẹn giờ kèm Hỏa tốc) áp dụng cho bưu gửi có thời gian hẹn nhỏ hơn chỉ tiêu thời gian toàn trình của dịch vụ KT1 Hoả tốc và đáp ứng điều kiện cung cấp dịch vụ. 
+4.	Dịch vụ KT1 theo độ mật (A, B, C) và độ khẩn (Hỏa tốc, Hẹn giờ): 
+4.1.	Dịch vụ KT1 theo độ mật và Hỏa tốc: là dịch vụ KT1 theo độ mật có yêu cầu về tốc độ xử lý nhanh.
+4.2.	Dịch vụ KT1 theo độ mật và Hẹn giờ: là dịch vụ KT1 theo độ mật có yêu cầu phát đến địa chỉ nhận theo thời gian thỏa thuận giữa người gửi với đơn vị cung cấp dịch vụ và đáp ứng điều kiện cung cấp dịch vụ.
+Dịch vụ KT1 theo độ mật và Hỏa tốc Hẹn giờ: áp dụng cho bưu gửi KT1 chứa BMNN có thời gian hẹn nhỏ hơn chỉ tiêu thời gian toàn trình của dịch vụ KT1 Hoả tốc và đáp ứng điều kiện cung cấp dịch vụ.
+Điều 10. Các loại dịch vụ bưu chính KT1
+1.	Dịch vụ KT1
+2.	Dịch vụ KT1 theo độ mật: 
+2.1.	KT1 A
+2.2.	KT1 B
+2.3.	KT1 C
+3.	Dịch vụ KT1 theo độ khẩn: 
+3.1.	KT1 Hỏa tốc Hẹn giờ
+3.2.	KT1 Hỏa tốc 
+3.3.	KT1 Hẹn giờ
+4.	Dịch vụ KT1 theo độ mật và độ khẩn: 
+4.1.	KT1 Hỏa tốc Hẹn giờ A 
+4.2.	KT1 Hỏa tốc Hẹn giờ B
+4.3.	KT1 Hỏa tốc Hẹn giờ C
+4.4.	KT1 Hỏa tốc A
+4.5.	KT1 Hỏa tốc B
+4.6.	KT1 Hỏa tốc C
+4.7.	KT1 Hẹn giờ A
+4.8.	KT1 Hẹn giờ B
+4.9.	KT1 Hẹn giờ C
+Điều 11. Dịch vụ giá trị gia tăng kết hợp với dịch vụ bưu chính KT1
+1.	Rút lại bưu gửi: Bưu điện dừng việc chuyển phát bưu gửi để chuyển lại cho người gửi; dịch vụ này chỉ áp dụng khi bưu gửi chưa phát đến người nhận, chưa hết thời gian toàn trình và không bị tịch thu hoặc tiêu hủy theo quy định của pháp luật.
+2.	Thay đổi họ tên, địa chỉ người nhận bưu gửi: Bưu điện chuyển phát bưu gửi đến người nhận hoặc địa chỉ nhận khác với người nhận hoặc địa chỉ nhận trên bưu gửi; dịch vụ này chỉ áp dụng khi bưu gửi chưa phát đến người nhận, chưa hết thời gian toàn trình và không bị tịch thu hoặc tiêu hủy theo quy định của pháp luật.
+3.	Báo phát (AR): là dịch vụ Bưu điện chuyển phiếu báo phát có chữ ký người nhận về cho người gửi sau khi phát thành công bưu gửi KT1. 
+4.	Chuyển hoàn: Bưu điện chuyển lại bưu gửi không phát được theo yêu cầu của người gửi. 
+Điều 12. Thứ tự ưu tiên trong cung cấp dịch vụ bưu chính KT1
+Dịch vụ bưu chính KT1 được ưu tiên trước tất cả các dịch vụ bưu chính khác trong quá trình chấp nhận, khai thác, vận chuyển, phát và xử lý theo thứ tự sau: 
+1.	Theo dịch vụ
+1.1.	Dịch vụ KT1 theo độ mật (A, B, C) kèm độ khẩn (Hoả tốc Hẹn giờ, Hỏa tốc, Hẹn giờ);
+1.2.	Dịch vụ KT1 theo độ khẩn: Hỏa tốc Hẹn giờ, Hỏa tốc, Hẹn giờ;
+1.3.	Dịch vụ KT1 theo độ mật: A, B, C;
+1.4.	Dịch vụ KT1.
+2.	Theo đối tượng sử dụng
+2.1.	Ủy viên Bộ Chính trị Ban Chấp hành Trung ương Đảng;
+2.2.	Ủy viên Ban Bí thư Ban Chấp hành Trung ương Đảng.
+CHƯƠNG III. CƯỚC DỊCH VỤ BƯU CHÍNH KT1
+Điều 13. Nguyên tắc tính cước 
+Cước dịch vụ bưu chính KT1 được tính căn cứ theo:
+1.	Loại dịch vụ sử dụng.
+2.	Khối lượng bưu gửi.
+3.	Phạm vi phát.
+Điều 14. Cước dịch vụ bưu chính KT1
+1.	Cước dịch vụ bưu chính KT1 là khoản tiền mà Tổng công ty BĐVN thu ở khách hàng khi cung cấp dịch vụ bưu chính KT1; gồm cước chính, cước các dịch vụ giá trị gia tăng và phụ phí (nếu có). 
+2.	Cước dịch vụ bưu chính KT1 thực hiện theo quy định của Bộ Thông tin và Truyền thông. 
+3.	Cước dịch vụ giá trị gia tăng thực hiện theo quy định của Tổng công ty BĐVN tại bảng cước hiện hành.
+4.	Người gửi trả cước chuyển hoàn sau 03 lần phát không thành công hoặc theo yêu cầu của người gửi.
+Điều 15. Các trường hợp sử dụng dịch vụ bưu chính KT1 không phải trả cước
+1.	Bưu gửi KT1 của các đối tượng quy định tại Phụ lục 01 gửi trong phạm vi quy định tại điểm 2.1 khoản 2 Điều 5 Quy định này. 
+2.	Bưu gửi KT1 sự vụ.
+CHƯƠNG IV. BẢO ĐẢM AN TOÀN, AN NINH 
+TRONG CUNG CẤP DỊCH VỤ BƯU CHÍNH KT1
+Điều 16. Cơ sở khai thác 
+1.	Tại cấp tỉnh: Bưu điện trung tâm tỉnh, thành phố trực thuộc trung ương phải thành lập bưu cục khai thác dịch vụ bưu chính KT1.
+2.	Tại cấp huyện, cấp xã: Bưu điện trung tâm huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương và bưu điện cấp xã phải bố trí khu vực để khai thác riêng dịch vụ bưu chính KT1. 
+Trường hợp bưu điện cấp xã không bố trí được khu vực để khai thác riêng dịch vụ bưu chính KT1, Tổng công ty BĐVN chủ động bố trí địa điểm đáp ứng yêu cầu cung cấp dịch vụ và bảo đảm an toàn, an ninh.
+3.	Các cơ sở khai thác dịch vụ bưu chính KT1 phải có nội quy; thiết bị giám sát hoạt động cung cấp dịch vụ bưu chính KT1, kiểm soát người ra vào chặt chẽ, bảo đảm an toàn cho bưu gửi KT1 và tài liệu lưu trữ.
+Điều 17. Trang thiết bị và phương tiện vận chuyển
+1.	Trang thiết bị: các bưu cục phải trang bị máy điện thoại, máy tính kết nối mạng; tủ có khóa bảo vệ, két chống cháy có khóa bảo mật (nếu có lưu giữ bưu gửi KT1 chứa BMNN); các máy móc, công cụ, dụng cụ khác cần thiết cho việc cung cấp dịch vụ bưu chính KT1 và bảo đảm an toàn, an ninh. Riêng các cơ sở khai thác của Cục BĐTW phải trang bị máy soi kiểm tra bưu gửi KT1 và máy khử khuẩn.
+2.	Công cụ hỗ trợ
+2.1	Cục BĐTW và Tổng công ty BĐVN được trang bị Dùi cui điện làm công cụ hỗ trợ vận chuyển và phát bưu gửi KT1 theo hướng dẫn của Bộ Công an.
+2.2	Việc quản lý, sử dụng công cụ hỗ trợ để vận chuyển và phát bưu gửi KT1 thực hiện theo quy định của Luật quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ và các văn bản hướng dẫn.
+3.	Phương tiện vận chuyển:
+3.1	Bưu gửi KT1 được vận chuyển và phát bằng phương tiện vận chuyển chuyên dùng (ô tô hoặc xe máy), có thùng làm bằng chất liệu chống cháy, chống thấm nước, chống vỡ, có khóa bảo vệ và được giám sát chặt chẽ trong suốt quá trình vận chuyển.
+3.2	Trường hợp cần thiết phải sử dụng phương tiện vận chuyển khác thì đơn vị cung cấp dịch vụ phải có hợp đồng hoặc thỏa thuận với đơn vị tham gia vận chuyển và bố trí nhân viên đã được đào tạo về nghiệp vụ bưu chính KT1 áp tải trong suốt quá trình vận chuyển. Nhân viên áp tải phải là người có kinh nghiệm, có trình độ nghiệp vụ đi theo để bảo đảm an toàn cho túi hoặc thùng KT1 trong suốt quá trình vận chuyển, trừ trường hợp vận chuyển bằng đường hàng.
+Điều 18. Ứng dụng công nghệ thông tin 
+1.	Hệ thống mạng máy tính và phần mềm ứng dụng phục vụ việc cung cấp dịch vụ bưu chính KT1 được thiết kế theo các phân vùng mạng, chức năng phù hợp với hệ thống thông tin theo cấp độ tương ứng, được triển khai bảo đảm an toàn, an ninh thông tin.
+2.	Việc đồng bộ dữ liệu liên quan tới quản lý, khai thác bưu gửi KT1 trên mạng bưu chính công cộng về máy chủ bưu chính KT1 do Cục BĐTW quản lý phải được thực hiện qua đường truyền riêng, áp dụng các biện pháp xác thực, mã hóa đảm bảo các tiêu chuẩn về an toàn, bảo mật. 
+3.	Dữ liệu phát sinh trong quá trình cung cấp dịch vụ bưu chính KT1 của các đơn vị phải được tự động cập nhật, đồng bộ về máy chủ bưu chính KT1 do Cục BĐTW quản lý theo thời gian thực, bảo đảm đầy đủ, chính xác.
+4.	Cá nhân quản trị, khai thác Hệ thống mạng máy tính và phần mềm ứng dụng phục vụ việc cung cấp dịch vụ bưu chính KT1 chỉ sử dụng tài khoản truy nhập với định danh duy nhất, được phân quyền gắn với chức năng, nhiệm vụ của cá nhân đó.
+Điều 19. Làm bì, đóng gói và niêm phong túi/thùng chứa bưu gửi KT1
+1.	Bưu gửi KT1 phải được người gửi làm bì hoặc đóng gói chắc chắn, dán kín, bao bì phải phù hợp với hình thức, tính chất của nội dung bên trong, bảo đảm an toàn nội dung bưu gửi trong quá trình vận chuyển và phát đến người nhận.
+2.	Khi gửi tài liệu, vật chứa BMNN, người gửi phải làm bì, đóng gói riêng và đóng dấu ký hiệu độ mật theo quy định của pháp luật về bảo vệ BMNN và niêm phong (nếu có). Lưu ý, giấy làm bì phải dùng loại giấy dai, bền, khó thấm nước, không nhìn thấu qua được; hồ dán, keo dán phải dính, khó bóc; không được dán bằng băng dính hoặc dập ghim.
+3.	Niêm phong túi hoặc thùng chứa bưu gửi KT1 phải thể hiện rõ số hiệu của bưu cục niêm phong.
+Điều 20. Túi đóng chuyến thư 
+1.	Chất liệu túi đóng chuyến thư KT1: màu đỏ, làm bằng chất liệu dai bền, chống cháy, chống thấm nước. Miệng túi gập mép có nắp từ 4 đến 6 ôrê tùy từng loại túi.
+2.	Kích thước (dài x rộng)
+2.1.	Túi lớn (size L): 100 cm x 70 cm 
+2.2.	Túi nhỡ (size M): 80 cm x 65 cm 
+2.3.	Túi nhỏ (size S): 60 cm x 40 cm 
+3.	Mẫu chữ và cỡ chữ in trên túi:
+3.1.	Chữ “BƯU CHÍNH KT1” phía trên, “BƯU CỤC … ” phía dưới kèm theo số hiệu bưu cục có màu đen, in hoa đậm (bold), phông chữ Time New Roman ở chính giữa hai mặt của túi. Việc in số hiệu bưu cục ở phía dưới chữ “BƯU CHÍNH KT1” tùy theo yêu cầu thực tế của từng đơn vị. 
+3.2.	Cỡ chữ có thể thay đổi tùy từng loại túi nhưng tối thiểu là 300 đối với chữ “BƯU CHÍNH KT1” và 200 đối với chữ “BƯU CỤC …”.
+Điều 21. Thùng đóng chuyến thư 
+1.	Chất liệu thùng đóng chuyến thư KT1: làm bằng chất liệu chống cháy, chống thấm nước, chống vỡ và có khóa bảo vệ.
+2.	Kích thước (dài x rộng x cao): 650 cm x 400 cm x 300 cm
+3.	Chữ “BƯU CHÍNH KT1”  màu đen, in hoa, đậm (bold), phông chữ Time New Roman ở chính giữa hai mặt của thùng đóng chuyến thư; cỡ chữ có thể thay đổi phù hợp với từng loại thùng nhưng tối thiểu là 300. 
+CHƯƠNG V. QUYỀN, TRÁCH NHIỆM CỦA ĐỐI TƯỢNG SỬ DỤNG
+VÀ ĐƠN VỊ CUNG CẤP DỊCH VỤ BƯU CHÍNH KT1
+Điều 22. Quyền và trách nhiệm của đối tượng sử dụng dịch vụ/ khách hàng
+1.	Được cung cấp đầy đủ, chính xác các thông tin về dịch vụ bưu chính KT1 khi sử dụng dịch vụ.
+2.	Được bảo đảm an toàn, an ninh thông tin khi sử dụng dịch vụ trừ trường hợp quy định khác của pháp luật.
+3.	Được khiếu nại về dịch vụ đã sử dụng trong thời hạn quy định.
+4.	Được thay đổi họ tên, địa chỉ người nhận, rút lại bưu gửi khi có chứng từ chứng minh việc gửi và bưu gửi KT1 chưa được phát cho người nhận.
+5.	Được bồi thường thiệt hại theo quy định của pháp luật về bưu chính trong  trường hợp đã thanh toán đủ cước dịch vụ và thiệt hại được xác định lỗi do các đơn vị của Tổng công ty BĐVN gây ra.
+6.	Ghi đúng, đầy đủ họ tên, chức danh (nếu có) và địa chỉ của người gửi, người nhận theo quy định tại Điều 27 Quy định này.
+7.	Cung cấp thông tin cho đơn vị cung cấp dịch vụ bưu chính KT1 (khi có yêu cầu) và chịu trách nhiệm trước pháp luật về nội dung bưu gửi. 
+8.	Đóng gói, bao bì bưu gửi theo quy định tại Điều 19 Quy định này và thực hiện các quy định về an toàn, an ninh đối với bưu gửi. 
+9.	Cung cấp đầu mối và tiếp nhận bưu gửi KT1 phát ngoài giờ làm việc, thứ Bảy, Chủ nhật, ngày nghỉ lễ, Tết bằng văn bản. 
+10.	Cung cấp đầy đủ và chịu trách nhiệm về tính xác thực của các thông tin, chứng từ liên quan đến khiếu nại.
+11.	Hằng tháng, phối hợp với đơn vị cung cấp dịch vụ đối soát sản lượng và cước phí hoặc đối soát sản lượng và xác nhận chất lượng dịch vụ theo quy định.
+12.	Thanh toán đủ cước sử dụng dịch vụ bưu chính KT1, trừ các trường hợp không phải trả cước theo quy định tại Điều 15 Quy định này.
+13.	Hoàn trả số tiền bồi thường đã nhận nếu sau khi Tổng công ty BĐVN điều tra, xác định được nguyên nhân gây thiệt hại là do khách hàng vi phạm hợp đồng đã cam kết. 
+14.	Khi có nhu cầu sử dụng dịch vụ bưu chính KT1, đối tượng sử dụng dịch vụ phải thực hiện theo quy định tại Điều 25 Quy định này.
+15.	Chịu trách nhiệm trước pháp luật về nội dung bưu gửi và phải tuân theo các quy định của pháp luật về bảo vệ BMNN.
+Điều 23. Quyền và trách nhiệm của đơn vị cung cấp dịch vụ
+1.	Được cung cấp thông tin về nội dung bưu gửi (trường hợp cần thiết) trước khi chấp nhận và được phối hợp với cơ quan có trách nhiệm kiểm tra nội dung bưu gửi khi có nghi ngờ.
+2.	Được từ chối cung cấp dịch vụ nếu phát hiện bưu gửi vi phạm quy định của pháp luật và quy định về điều kiện chấp nhận bưu gửi. 
+3.	Được thanh toán đủ cước dịch vụ bưu chính KT1, trừ các trường hợp không phải trả cước theo quy định tại Điều 15 Quy định này.
+4.	Được từ chối giải quyết các trường hợp khiếu nại sau:
+4.1.	Hết thời hiệu khiếu nại theo quy định tại Điều 37 Quy định này.
+4.2.	Người khiếu nại không thuộc đối tượng được khiếu nại theo quy định tại Điều 34 Quy định này.
+4.3.	Khiếu nại về thời gian khi chưa hết thời gian toàn trình của bưu gửi.
+5.	Được nhận lại số tiền bồi thường từ khách hàng nếu sau khi bồi thường, thiệt hại được xác định là do khách hàng vi phạm hợp đồng hoặc thỏa thuận đã cam kết.
+6.	Cung cấp đầy đủ các thông tin về dịch vụ, các quy định về giải quyết khiếu nại, bồi thường và các quy định khác về điều kiện cung cấp dịch vụ.
+7.	Công khai giá cước dịch vụ bưu chính KT1, gồm các loại thuế, phụ phí của dịch vụ (nếu có).
+8.	Không được tiết lộ thông tin về sử dụng dịch vụ của cơ quan, tổ chức, doanh nghiệp nhà nước, cá nhân, trừ trường hợp có yêu cầu của cơ quan nhà nước có thẩm quyền; phải đeo thẻ nhân viên có dán ảnh khi thực hiện nhiệm vụ.
+9.	Tiếp nhận và giải quyết khiếu nại của đối tượng sử dụng dịch vụ trong thời hạn quy định tại Điều 38 Quy định này.
+10.	Bố trí người lao động tham gia trực tiếp vào quá trình cung cấp dịch vụ bưu chính KT1 phải đáp ứng đầy đủ các tiêu chuẩn theo quy định và chịu trách nhiệm trong quá trình cung cấp dịch vụ. Trường hợp cá nhân, tổ chức để xảy ra lộ lọt BMNN hoặc thất lạc, mất bưu gửi KT1chứa BMNN, tùy theo tính chất, mức độ hậu quả sẽ bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc truy cứu trách nhiệm hình sự theo quy định pháp luật.
+11.	Hằng tháng đối soát sản lượng và cước phí hoặc đối soát sản lượng và xác nhận chất lượng dịch vụ với khách hàng theo quy định.
+12.	Hằng năm, tùy theo tình hình thực tế đơn vị cung cấp dịch vụ thành lập Hội đồng để hủy bỏ hồ sơ tài liệu đã hết hạn lưu trữ quy định tại Điều 7 Quy định này.
+13.	Các đơn vị cung cấp dịch vụ phải thực hiện theo quy định tại Điều 25 Quy định này và ký hợp đồng hoặc thỏa thuận hợp tác với các tổ chức liên quan đến hoạt động vận chuyển bưu gửi KT1.
+14.	Tuân thủ quy định về tuyển chọn người lao động; định kỳ tổ chức đào tạo, tập huấn nâng cao trình độ nghiệp vụ, nhận thức về an toàn, an ninh cho người lao động tham gia trực tiếp vào quá trình cung cấp dịch vụ bưu chính KT1.
+Điều 24. Quyền và trách nhiệm của các tổ chức liên quan đến hoạt động vận chuyển
+1.	Được cung cấp thông tin cần thiết về việc vận chuyển bưu gửi KT1.
+2.	Được từ chối vận chuyển nếu phát hiện việc vận chuyển bưu gửi KT1 vi phạm quy định của pháp luật và quy định về điều kiện cung cấp dịch vụ bưu chính KT1. 
+3.	Được thanh toán đủ cước phí vận chuyển bưu gửi KT1 theo hợp đồng ký kết hoặc thỏa thuận hợp tác với đơn vị cung cấp dịch vụ.
+4.	Ưu tiên giao nhận, vận chuyển nhanh chóng, chính xác, kịp thời bưu gửi KT1 trong mọi tình huống trước các loại hàng hóa khác.
+5.	Nơi lưu giữ bưu gửi KT1 phải có khóa bảo vệ, có thiết bị giám sát, riêng đối với bưu gửi KT1 chứa BMNN phải được bảo quản ở nơi an toàn và có phương án bảo vệ.
+6.	Cung cấp đầy đủ các thông tin về việc vận chuyển và phối hợp với các đơn vị liên quan giải quyết khiếu nại; bồi thường thiệt hại và chịu trách nhiệm theo quy định của pháp luật nếu lỗi được xác định là do đơn vị vận chuyển vi phạm.
+7.	Ký kết hợp đồng hoặc thỏa thuận hợp tác với đơn vị cung cấp dịch vụ.
+8.	Trường hợp có yêu cầu kiểm tra của cơ quan chức năng trong quá trình vận chuyển bưu gửi KT1, người điều khiển phương tiện vận chuyển phải phối hợp với người áp tải vận chuyển bưu gửi KT1 báo cáo ngay lãnh đạo đơn vị liên quan trước khi phối hợp với cơ quan chức năng và tuân thủ theo quy định của pháp luật.
+CHƯƠNG VI. CHẤP NHẬN BƯU GỬI KT1
+Điều 25. Hình thức và phương thức chấp nhận
+1.	Hình thức: bưu gửi KT1 được tổ chức chấp nhận tại các bưu cục cung cấp dịch vụ bưu chính KT1 của Cục BĐTW và Tổng công ty BĐVN.
+2.	Phương thức:
+2.1.	Người gửi thuộc các đối tượng quy định tại Phụ lục 01 ban hành kèm theo Quy định này gửi văn bản đề nghị sử dụng dịch vụ bưu chính KT1 cho Cục BĐTW;
+2.2.	 Người gửi thuộc các đối tượng quy định tại Phụ lục 02 ban hành kèm theo và khoản 2 Điều 3 Quy định này ký kết hợp đồng cung ứng và sử dụng dịch vụ bưu chính KT1 hoặc xuất trình giấy giới thiệu của cơ quan, tổ chức  kèm theo giấy tờ tùy thân có dán ảnh  với các đơn vị cung cấp dịch vụ của Tổng công ty BĐVN.
+Điều 26. Điều kiện chấp nhận bưu gửi KT1
+1.	Không chứa vật phẩm, hàng hóa không được gửi theo quy định của pháp luật.
+2.	Được viết bằng chữ cái Latin và chữ số Ả rập.
+3.	Có đầy đủ thông tin liên quan đến người gửi, người nhận trên bưu gửi, trừ trường hợp các bên có thỏa thuận khác.
+4.	Bảo đảm quy định về khối lượng và kích thước bưu gửi.
+5.	Bao bì được làm và đóng gói theo quy định tại Điều 19 Quy định này; đóng dấu ký hiệu theo độ mật, độ khẩn (nếu có); riêng vật chứa BMNN phải thực hiện đóng gói theo nguyên tắc giữ kín, niêm phong, bảo đảm không gây hư hỏng bưu gửi khác.
+6.	Phải tuân theo quy định về an ninh hàng không khi vận chuyển bằng đường hàng không và yêu cầu cung cấp dịch vụ.
+7.	Phải thanh toán đủ giá cước dịch vụ bưu chính KT1, trừ trường hợp có thỏa thuận khác giữa đơn vị cung cấp dịch vụ và người gửi hoặc các trường hợp không phải trả cước quy định tại Điều 15 Quy định này.
+8.	Chấp nhận tại các bưu cục cung cấp dịch vụ bưu chính KT1.
+Điều 27. Cách ghi địa chỉ trên bưu gửi KT1
+1.	Quy định chung:
+1.1.	Họ tên, địa chỉ, số điện thoại (nếu có) của người gửi, người nhận được ghi trên bề mặt có diện tích lớn nhất của bưu gửi, ở phía mặt liền không có mép dán.
+1.2.	Họ tên, địa chỉ, số điện thoại (nếu có) của người gửi ghi ở góc trên bên trái của bưu gửi.
+1.3.	Họ tên, địa chỉ, số điện thoại (nếu có) của người nhận ghi ở phần giữa của bưu gửi.
+1.4.	Địa chỉ được viết bằng chữ cái La tinh và chữ số Ả Rập. 
+2.	Cách thể hiện thông tin người gửi/ người nhận:
+2.1.	Họ tên người gửi/ người nhận hoặc tên cơ quan gửi/ cơ quan nhận kèm theo chức danh, phòng, ban, số điện thoại,... (nếu có).
+2.2.	Số nhà/số phòng, ngách, ngõ, tầng, tên tòa nhà, tên đường phố.
+2.3.	Tên phường/ xã, huyện/ quận.
+2.4.	Tên tỉnh, thành phố.
+2.5.	Mã bưu chính quốc gia/Mã địa chỉ số của nơi gửi và nơi nhận (nếu có).
+Điều 28. Thủ tục nhận gửi
+1.	Khi sử dụng dịch vụ bưu chính KT1, người gửi cần đáp ứng theo quy định tại khoản 2 Điều 25 Quy định này và thực hiện:
+1.1	Làm bì, đóng gói bưu gửi đúng theo quy định tại Điều 19 Quy định này bảo đảm khối lượng, kích thước theo quy định tại Điều 6 Quy định này.
+1.2	Kiểm tra, ghi đầy đủ thông tin trên bưu gửi: họ tên, địa chỉ người gửi, người nhận; số, ký hiệu văn bản và số điện thoại (nếu có); dấu ký hiệu theo độ mật, độ khẩn (nếu có) và phân loại riêng đối với tài liệu, vật chứa BMNN. 
+1.3	Ghi, ký xác nhận số lượng bưu gửi, trong đó ghi rõ số lượng bưu gửi KT1 chứa BMNN (nếu có) trên Phiếu tiếp nhận bưu gửi của cơ quan, tổ chức KT29. 
+1.4	Điền đầy đủ thông tin vào các ấn phẩm nghiệp vụ, bản kê liên quan (nếu có) và cung cấp thông tin về bưu gửi khi có yêu cầu.
+1.5	Yêu cầu nhân viên bưu điện kiểm tra và ký xác nhận số lượng trên sổ giao công văn của cơ quan gửi; lưu ý sử dụng “Sổ chuyển giao BMNN” theo đúng quy định của pháp luật khi gửi tài liệu, vật chứa BMNN. 
+1.6	Kiểm tra, ký xác nhận và giữ 01 liên Vận đơn KT02.
+1.7	Thanh toán đủ cước sử dụng dịch vụ, trừ những trường không phải trả tiền theo quy định tại Điều 15 Quy định này .
+2.	Nhân viên bưu điện cần thực hiện:
+3.3	Các đơn vị của Tổng công ty BĐVN kiểm tra giấy giới thiệu của cơ quan, tổ chức kèm theo giấy tờ tùy thân có dán ảnh của người gửi đối với trường hợp không có hợp đồng cung ứng và sử dụng dịch vụ bưu chính KT1; đồng thời lưu giữ giấy giới thiệu của cơ quan, tổ chức (bản gốc) kèm theo giấy tờ tùy thân (bản photo).
+3.4	Kiểm tra điều kiện chấp nhận bưu gửi: tình trạng, kích thước, khối lượng, bao bì gói bọc, niêm phong (nếu có); họ tên, địa chỉ của người gửi, người nhận; số điện thoại (nếu có), yêu cầu sử dụng dịch vụ; đề nghị người gửi cung cấp thông tin về bưu gửi (nếu cần).
+Nhân viên bưu điện và người gửi phải đối chiếu số lượng, kiểm tra tình trạng bao bì, gói bọc; đặc biệt lưu ý đối với tài liệu, vật chứa BMNN. Trường hợp phát hiện thiếu số lượng, sai sót trong làm bì, đóng gói (không đóng kín, dán kín; giấy làm bì có thể nhìn thấu nội dung bên trong; không có dấu ký hiệu theo độ mật, ...) hoặc có dấu hiệu không còn nguyên vẹn thì nhân viên bưu điện trả lại, yêu cầu người gửi xử lý trước khi ký nhận.
+3.5	 Đề nghị người gửi ký xác nhận số lượng bưu gửi, ghi ngày giờ, họ và tên; trong đó ghi rõ số lượng bưu gửi KT1 chứa BMNN (nếu có) trên Phiếu tiếp nhận bưu gửi của cơ quan, tổ chức KT29 (trừ trường hợp người gửi đã ký xác nhận trên Vận đơn KT02).
+3.6	Tiếp nhận yêu cầu sử dụng dịch vụ: đóng dấu KT1,  dấu ngày, cân, ghi khối lượng (gram) và dán mã vạch.
+3.7	Nhập đầy đủ thông tin của bưu gửi vào phần mềm quản lý; kiểm tra, in 02 liên Vận đơn KT02 và các ấn phẩm (nếu có); 
+3.8	Kiểm tra, đối chiếu thông tin giữa bưu gửi và Vận đơn KT02 trước khi đề nghị người gửi ký xác nhận trên Vận đơn KT02.
+3.9	Ký, đóng dấu ngày trên Vận đơn KT02 và các ấn phẩm (nếu có), 01 liên giao cho người gửi, 01 liên lưu tại bưu cục. 
+3.10	Ký, ghi đầy đủ họ tên, ngày, giờ nhận kèm theo số lượng bưu gửi (bằng chữ và số) và số lượng bưu gửi KT1 chứa BMNN (nếu có) trên sổ giao công văn của cơ quan gửi. 
+3.11	Thống kê sản lượng và thu cước sử dụng dịch vụ (nếu có), trừ những trường hợp không phải trả cước theo quy định tại Điều 15 Quy định này hoặc có hợp đồng với đơn vị cung cấp dịch vụ.
+CHƯƠNG VII. PHÁT BƯU GỬI KT1
+Điều 29. Nguyên tắc
+1.	Bưu gửi KT1 được vận chuyển và phát bằng phương tiện vận chuyển chuyên dùng.
+2.	Bưu gửi KT1 được bảo quản trong cặp có khoá, phát tại địa chỉ nhận ghi trên bưu gửi hoặc theo yêu cầu của đối tượng sử dụng dịch vụ và có chữ ký, họ tên đầy đủ của người nhận.
+3.	Bưu gửi được tổ chức phát đến địa chỉ nhận tối đa ba (03) lần (trừ bưu gửi Hẹn giờ). Nếu lần thứ nhất không phát được thì bưu gửi được phát lần thứ hai, thứ ba vào chuyến phát tiếp theo. Nếu lần thứ ba không phát được thì bưu gửi được xử lý chuyển hoàn kèm theo lý do các lần không phát được, trừ trường hợp có yêu cầu khác của đối tượng sử dụng dịch vụ. 
+Điều 30. Bưu gửi KT1 phát hợp lệ 
+Bưu gửi được coi là phát hợp lệ trong các trường hợp sau:
+1.	Đã phát tại địa chỉ cho người nhận; cho bộ phận hành chính, văn thư hoặc bộ phận được chỉ định tiếp nhận bưu gửi KT1.
+2.	Đã phát tại địa chỉ cho người nhận thay hoặc theo yêu cầu của đối tượng sử dụng dịch vụ. 
+3.	Có chữ ký, ghi đầy đủ ngày giờ, họ và tên của người nhận hoặc người nhận thay. Trường hợp phát cho người nhận thay phải ghi rõ chức danh, quan hệ với người nhận có tên trên bưu gửi; nếu không xác định được nhân thân của người nhận thay, đề nghị cung cấp giấy tờ tùy thân có dán ảnh, ghi số của giấy tờ tùy thân kèm theo chữ ký của người nhận thay. 
+Điều 31. Bưu gửi KT1 không phát được
+Bưu gửi được coi là không phát được trong các trường hợp sau:
+1.	Không có địa chỉ nhận, địa chỉ nhận không đầy đủ hoặc không đúng theo quy định tại Điều 27 Quy định này.
+2.	Người nhận đã thay đổi địa chỉ nhưng không để lại địa chỉ mới.
+3.	Không tìm được người nhận tại địa chỉ ghi trên bưu gửi.
+4.	Người nhận từ chối nhận.
+5.	Bưu điện đã thực hiện phát ba (03) lần tại địa chỉ và phát không thành công, nhưng đến hết thời gian lưu giữ mà vẫn không phát được.
+Điều 32. Phát bưu gửi KT1 ngoài giờ làm việc, thứ Bảy, Chủ nhật, ngày nghỉ lễ, Tết
+Bưu gửi KT1 có độ khẩn được phát đến đầu mối do cơ quan, tổ chức sử dụng dịch vụ cung cấp gồm:
+1.	Bưu gửi KT1 Hỏa tốc Hẹn giờ, Hỏa tốc Hẹn giờ kèm độ mật.
+2.	Bưu gửi KT1 Hỏa tốc, Hoả tốc kèm độ mật.
+3.	Bưu gửi KT1 Hẹn giờ, Hẹn giờ kèm độ mật.
+Điều 33. Thời gian lưu giữ bưu gửi KT1 tại bưu cục phát
+1.	Thời gian lưu giữ bưu gửi KT1 là khoảng thời gian bưu gửi được giữ tại bưu cục phát theo yêu cầu của người gửi hoặc người nhận để chờ phát cho người nhận.
+2.	Sau 03 lần phát không thành công, bưu gửi được chuyển hoàn về bưu cục chấp nhận. Bưu gửi KT1 Hẹn giờ được chuyển hoàn nếu đến giờ hẹn vẫn không phát được Trường hợp có yêu cầu khác của đối tượng sử dụng dịch vụ, bưu gửi được lưu giữ tại bưu cục phát nhưng tối đa không quá bảy (07) ngày làm việc tính từ ngày bưu gửi được phát lần thứ nhất đến địa chỉ nhận.
+3.	Hết thời hạn lưu giữ bưu gửi mà không phát được cho người nhận, thực hiện chuyển hoàn về bưu cục chấp nhận.
+CHƯƠNG VIII. KHIẾU NẠI VÀ BỒI THƯỜNG
+Điều 34. Đầu mối giải quyết khiếu nại, bồi thường
+1.	Cục BĐTW
+1.1.	Là đầu mối tiếp nhận và giải quyết khiếu nại đối với bưu gửi trong phạm vi chấp nhận, khai thác, vận chuyển và phát của các đơn vị trực thuộc Cục.
+1.2.	Phối hợp với Tổng công ty BĐVN giải quyết khiếu nại với khách hàng. 
+2.	Tổng công ty BĐVN
+2.1.	Là đầu mối tiếp nhận và giải quyết khiếu nại trong phạm vi chấp nhận, khai thác, vận chuyển và phát của các đơn vị trực thuộc.
+2.2.	Phối hợp với Cục BĐTW giải quyết khiếu nại với khách hàng. 
+3.	Xử lý vi phạm và bồi thường thiệt hại
+3.1.	Việc bồi thường thiệt hại đối với bưu gửi KT1 thực hiện theo quy định của pháp luật về bưu chính.
+3.2.	Mọi vi phạm đối với bưu gửi KT1 chứa BMNN phải được điều tra, làm rõ; tùy theo tính chất, mức độ, hậu quả của hành vi vi phạm gây ra sẽ bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc truy cứu trách nhiệm hình sự.
+Điều 35. Đối tượng được khiếu nại 
+Đối tượng được khiếu nại bao gồm: 
+1.	Cơ quan, tổ chức, doanh nghiệp nhà nước và cá nhân có tên tại phần ghi thông tin về người gửi hoặc người nhận trên bưu gửi, vận đơn.
+2.	Cơ quan, tổ chức, doanh nghiệp nhà nước và cá nhân ký hợp đồng hoặc thỏa thuận cung cấp và sử dụng dịch vụ bưu chính KT1 với Tổng công ty BĐVN.
+Điều 36. Hình thức khiếu nại
+	Khiếu nại trực tiếp tại các bưu cục cung cấp dịch vụ bưu chính KT1 hoặc gián tiếp qua điện thoại; khiếu nại bằng văn bản hoặc thư điện tử (email), phần mềm hoặc qua các cổng thông tin điện tử (cổng dịch vụ công quốc gia, cổng thông tin Bộ Thông tin và Truyền thông,...). 
+Điều 37. Thời hiệu khiếu nại 
+1.	Sáu (06) tháng, kể từ ngày kết thúc thời gian toàn trình của bưu gửi đối với khiếu nại về việc mất bưu gửi, chuyển phát bưu gửi chậm so với thời gian toàn trình đã công bố;
+2.	Một (01) tháng, kể từ ngày bưu gửi được phát cho người nhận đối với khiếu nại về việc bưu gửi bị suy suyển, hư hỏng, về giá cước và các nội dung khác có liên quan trực tiếp đến bưu gửi.
+Điều 38. Thời hạn giải quyết khiếu nại
+1.	Đơn vị đầu mối tiếp nhận, giải quyết và thông báo kết quả cho người/đơn vị khiếu nại trong thời gian không quá 10 ngày làm việc kể từ ngày nhận được khiếu nại.
+2.	Các bưu cục có liên quan đến bưu gửi khiếu nại phải điều tra, xác minh, giải quyết khiếu nại và bồi thường (nếu có) trong thời gian nhanh nhất nhưng tối đa không quá 03 ngày làm việc kể từ ngày nhận được khiếu nại đối với khiếu nại thông thường (như thông tin phát, thông tin bưu gửi,..); không quá 07 ngày làm việc đối với khiếu nại mang tính phức tạp (như mất mát, suy suyển, hư hỏng,…) kể từ ngày nhận được khiếu nại.
+3.	Mọi thông tin liên quan đến bưu gửi bị khiếu nại phải được gửi ngay về đơn vị đầu mối tiếp nhận và giải quyết khiếu nại để thông báo kết quả cho người/đơn vị khiếu nại.
+4.	Trường hợp các đơn vị giải quyết khiếu nại chậm so với quy định phải hoàn toàn chịu trách nhiệm. Tùy theo mức độ vi phạm, Cục BĐTW và Tổng công ty BĐVN sẽ áp dụng các hình thức xử phạt, kỷ luật tương ứng.
+CHƯƠNG IX. ĐIỀU KHOẢN THI HÀNH
+Điều 39. Hiệu lực thi hành
+Quy định này có hiệu lực từ ngày 01 tháng 5 năm 2023.
+Quy định này được áp dụng thống nhất trên toàn Mạng bưu chính KT1. 
+Các quy định trước đây trái với Quy định này đều được bãi bỏ.
+Trong quá trình triển khai thực hiện sẽ chỉnh sửa để phù hợp với các quy định của pháp luật về bưu chính./.
+
+ 
+Phụ lục 01: danh sách các cơ quan, tổ chức ở Trung ương được sử dụng mạng bưu chính KT1
+I	CÁC CƠ QUAN ĐẢNG được sử dụng mạng bưu chính KT1
+1	Các Ban Đảng của Trung ương
+1.1		Văn phòng Trung ương Đảng 
+1.2		Ủy ban Kiểm tra Trung ương
+1.3		Ban Tổ chức Trung ương 
+1.4		Ban Tuyên giáo Trung ương
+1.5		Ban Dân vận Trung ương
+1.6		Ban Nội chính Trung ương
+1.7		Ban Đối ngoại Trung ương
+1.8		Ban Kinh tế Trung ương
+2	Các Đảng bộ trực thuộc Trung ương
+2.1		Đảng ủy Khối Các cơ quan Trung ương
+2.2		Đảng uỷ Khối doanh nghiệp Trung ương
+2.3		Quân ủy Trung ương
+2.4		Đảng ủy Công an Trung ương
+3	Hội đồng Lý luận Trung ương; Ban bảo vệ, Chăm sóc sức khỏe Cán bộ Trung ương
+4	Học viện Chính trị Quốc gia Hồ Chí Minh, Báo Nhân dân, Tạp chí Cộng sản
+II	CÁC CƠ QUAN NHÀ NƯỚC được sử dụng mạng bưu chính KT1
+1	Các cơ quan của Quốc hội, các cơ quan thuộc Ủy ban Thường vụ Quốc hội, Văn phòng Quốc hội
+2	Văn phòng Chủ tịch nước
+3	Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ được sử dụng mạng bưu chính KT1
+3.1	Bộ Công Thương
+3.2	Bộ Kế hoạch và Đầu tư
+3.3	Bộ Lao động - Thương binh và Xã hội
+3.4	Bộ Ngoại giao
+3.5	Bộ Tài chính
+3.6	Bộ Thông tin và Truyền thông
+3.7	Bộ Văn hóa, Thể thao và Du lịch
+3.8	Bộ Công an
+3.9	Bộ Nội vụ
+3.10	Bộ Tư pháp
+3.11	Bộ Giáo dục và Đào tạo
+3.12	Bộ Giao thông vận tải
+3.13	Bộ Khoa học và Công nghệ
+3.14	Bộ Nông nghiệp và Phát triển nông thôn
+3.15	Bộ Tài nguyên và Môi trường
+3.16	Bộ Xây dựng
+3.17	Bộ Y tế
+3.18	Bộ Quốc phòng
+3.19	Văn phòng Chính phủ
+3.20	Ủy ban Dân tộc
+3.21	Ngân hàng Nhà nước
+3.22	Thanh tra Chính phủ
+3.23	Thông tấn xã Việt Nam
+3.24	Đài Truyền hình Việt Nam
+3.25	Đài Tiếng nói Việt Nam
+3.26	Ban Quản lý lăng Chủ tịch Hồ Chí Minh
+3.27	Bảo hiểm xã hội Việt Nam
+3.28	Viện Hàn lâm Khoa học Xã hội Việt Nam
+3.29	Viện Hàn lâm Khoa học và Công nghệ Việt Nam
+3.30	Ủy ban Quản lý vốn nhà nước tại doanh nghiệp
+4	Tòa án nhân dân tối cao
+5	Viện kiểm sát nhân dân tối cao
+6	Kiểm soát nhà nước
+7	Ban Tôn giáo Chính phủ
+8	Ủy ban Biên giới quốc gia
+9	Ban Cơ yếu Chính phủ
+III	MẶT TRẬN TỔ QUỐC VÀ CÁC TỔ CHỨC CHÍNH TRỊ - XÃ HỘI THÀNH VIÊN được sử dụng mạng bưu chính KT1
+1	Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam
+2	Các tổ chức chính trị - xã hội 
+2.1	Tổng Liên đoàn Lao động Việt Nam
+2.2	Hội Nông dân Việt Nam
+2.3	Đoàn Thanh niên Cộng sản Hồ Chí Minh
+2.4	Hội Liên hiệp phụ nữ Việt Nam
+2.5	Hội Cựu chiến binh Việt Nam
+
+Phụ lục 02: danh sách các cơ quan, tổ chức ở địa phương được sử dụng mạng bưu chính KT1
+I	CẤP TỈNH
+1	Tỉnh ủy, thành ủy và các Ban của tỉnh ủy, thành ủy
+1.1	Tỉnh ủy, thành ủy
+1.2	Ủy ban Kiểm tra Tỉnh ủy, thành ủy
+1.3	Ban Tổ chức Tỉnh ủy, thành ủy
+1.4	Ban Tuyên giáo Tỉnh ủy, thành ủy
+1.5	Ban Dân vận Tỉnh ủy, thành ủy
+1.6	Ban Nội chính Tỉnh ủy, thành ủy
+2	Đảng ủy khối Cơ quan tỉnh, thành phố
+3	Đảng ủy khối Doanh nghiệp tỉnh, thành phố
+4	Văn phòng đoàn Đại biểu Quốc hội và Hội đồng nhân dân
+5	Ủy ban nhân dân và các cơ quan chuyên môn trực thuộc
+5.1	Sở Nội vụ
+5.2	Sở Tư pháp
+5.3	Sở Kế hoạch và Đầu tư
+5.4	Sở Tài chính
+5.5	Sở Công thương
+5.6	Sở Nông nghiệp và Phát triển nông thôn
+5.7	Sở Giao thông vận tải
+5.8	Sở Xây dựng
+5.9	Sở Tài nguyên và Môi trường
+5.10	Sở Thông tin và Truyền thông
+5.11	Sở Lao động – Thương binh và Xã hội
+5.12	Sở Văn hóa, Thể thao và Du lịch
+5.13	Sở Khoa học và Công nghệ
+5.14	Sở Giáo dục và Đào tạo
+5.15	Sở Y tế
+5.16	Thanh tra 
+5.17	Văn phòng Ủy ban nhân dân
+5.18	Sở Ngoại vụ
+5.19	Ban Dân tộc
+5.20	Sở Quy hoạch – Kiến trúc
+6	Tòa án nhân dân tỉnh
+7	Viện kiểm sát nhân dân tỉnh
+8	Bộ chỉ huy Quân sự tỉnh
+9	Ngân hàng nhà nước thuộc tỉnh
+10	Công an tỉnh
+11	Bảo hiểm xã hội
+12	Mặt trận Tổ quốc tỉnh và các tổ chức chính trị - xã hội thành viên 
+12.1	Mặt trận Tổ quốc cấp tỉnh
+12.2	Liên đoàn Lao động cấp tỉnh
+12.3	Hội Nông dân cấp tỉnh
+12.4	Đoàn Thanh niên cấp tỉnh
+12.5	Hội Liên hiệp phụ nữ cấp tỉnh
+12.6	Hội Cựu chiến binh cấp tỉnh
+II	danh sách các cơ quan, tổ chức ở cấp huyện được sử dụng mạng bưu chính KT1
+1	Huyện ủy
+2	Hội đồng nhân dân huyện
+3	Ủy ban nhân dân huyện
+4	Tòa án nhân dân huyện
+5	Viện kiểm sát nhân dân huyện
+6	Ban chỉ huy quân sự huyện
+7	Công an huyện
+8	Bảo hiểm xã hội
+9	Mặt trận Tổ quốc và các tổ chức chính trị - xã hội thành viên
+9.1	Mặt trận Tổ quốc cấp huyện
+9.2	Liên đoàn Lao động cấp huyện
+9.3	Hội Nông dân cấp huyện
+9.4	Đoàn Thanh niên cấp huyện
+9.5	Hội Liên hiệp phụ nữ cấp huyện
+9.6	Hội Cựu chiến binh cấp huyện
+III	danh sách các cơ quan, tổ chức ở cấp xã được sử dụng mạng bưu chính KT1
+1	Đảng ủy xã
+2	Hội đồng nhân dân cấp xã
+3	Ủy ban nhân dân cấp xã
+4	Công an xã
+5	Mặt trận Tổ quốc và các tổ chức chính trị - xã hội thành viên
+5.1	Mặt trận Tổ quốc cấp xã
+5.3	Hội Nông dân cấp xã
+5.4	Đoàn Thanh niên cấp xã
+5.5	Hội Liên hiệp phụ nữ cấp xã
+5.6	Hội Cựu chiến binh cấp xã
+IV	ĐƠN VỊ HÀNH CHÍNH KINH TẾ ĐẶC biệt
+
+
+Ngày 02/3/2025, Chính phủ ban hành Nghị định số 55/2025/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ. Theo đó, có một số nội dung đáng chú ý như sau:
+1. Bộ Khoa học và Công nghệ thực hiện các nhiệm vụ, quyền hạn theo quy định của Luật Tổ chức Chính phủ, quy định của Chính phủ về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ và các nhiệm vụ, quyền hạn cụ thể sau đây:
+Xây dựng, hướng dẫn và tổ chức thực hiện cơ chế, chính sách về công nghệ cao, khu công nghệ cao; quản lý và tổ chức thực hiện việc chứng nhận các hoạt động công nghệ cao, chứng nhận doanh nghiệp công nghệ cao; xây dựng cơ sở dữ liệu, hạ tầng thông tin về công nghệ cao;
+Hỗ trợ tổ chức, cá nhân đánh giá công nghệ, đổi mới công nghệ, tìm kiếm công nghệ, chuyển giao, giải mã và làm chủ công nghệ từ nước ngoài, khai thác sang chế; hướng dẫn, đánh giá trình độ, năng lực công nghệ và xây dựng định hướng phát triển công nghệ, lộ trình đổi mới công nghệ quốc gia theo quy định của pháp luật;…
+2. Cơ cấu tổ chức của Bộ Khoa học và Công nghệ bao gồm 25 đơn vị:
+1. Vụ Bưu chính.
+2. Vụ Đánh giá và Thẩm định công nghệ.
+3. Vụ Khoa học kỹ thuật và công nghệ.
+4. Vụ Khoa học Xã hội, Nhân văn và Tự nhiên.
+5. Vụ Kinh tế và Xã hội số.
+6. Vụ Kế hoạch - Tài chính.
+7. Vụ Hợp tác quốc tế.
+8. Vụ Pháp chế.
+9. Vụ Tổ chức cán bộ.
+10. Văn phòng bộ.
+11. Thanh tra bộ.
+12. Cục An toàn bức xạ và hạt nhân.
+13. Cục Bưu điện Trung ương.
+14. Cục Công nghiệp công nghệ thông tin.
+15. Cục Chuyển đổi số quốc gia.
+16. Cục Đổi mới sáng tạo.
+17. Cục Khởi nghiệp và Doanh nghiệp công nghệ.
+18. Cục Sở hữu trí tuệ.
+19. Cục Tần số vô tuyến điện.
+20. Cục Thông tin, Thống kê.
+21. Cục Viễn thông.
+22. Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia.
+23. Trung tâm Công nghệ thông tin.
+24. Học viện Chiến lược Khoa học và Công nghệ.
+25. Báo VnExpress.
+3. Các nội dung khác:
+- Một số đơn vị trực thuộc Bộ TTTT, Bộ KHCN (Báo Vietnamnet, Cục ATTT, học viện CNĐMST, Viện Chiến lược,...) được quy định tại các Nghị định của Chính phủ sẽ được tiếp tục duy trì để xử lý các vấn đề về ài chính, ngân sách nhà nước, tài sản công, các chương trình, dự án; nhân sự và các vấn đề còn tồn đọng khác (nếu có) trong thời gian không quá 03 tháng kể từ khi Nghị định này có hiệu lực thi hành.
+- Nghị định này thay thế Nghị định số 28/2023/NĐ-CP ngày 02 tháng 6 năm 2023 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ và Nghị định số 48/2022/NĐ-CP ngày 26 tháng 7 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông.	
+Nghị định có hiệu lực từ ngày 01/3/2025.
+2. Bộ Khoa học Công nghệ (KHCN) phân công công việc giữa Bộ trưởng và các Thứ trưởng 
+- Ngày 03/3/2025, Bộ Khoa học Công nghệ ban hành Quyết định số 01/QĐ-BKHCN về việc phân công công việc giữa Bộ trưởng và các Thứ trưởng. Theo đó, có một số nội dung đáng chú ý như sau:
+1. Bộ Khoa học Công nghê có 01 Bộ trưởng và 05 Thứ trưởng phụ trách 9 lĩnh vực ((1). Hạ tầng số, hạ tầng bưu chính; (2). Chuyển đổi số (CĐS) (bao gồm: Ứng dụng công nghệ thông tin (CNTT), chuyển đổi số (CĐS), kinh tế số, xã hội số, giao dịch điện tử); (3) Công nghiệp công nghệ số; (4). Nghiên cứu khoa học; (5). Phát triển công nghệ; (6). Ứng dụng công nghệ, đổi mới sáng tạo (ĐMST), khởi nghiệp và doanh nghiệp (DN) KH&CN; (7). Sở hữu trí tuệ (SHTT); (8). Tiêu chuẩn đo lường chất lượng; (9). Năng lượng nguyên tử, an toàn bức xạ và hạt nhân.) và 19 công tác quản lý, vận hành, đoàn thể trong bộ máy hành chính theo các quy định hiện hành.
+2. Phân công nhiệm vụ cụ thể như sau:
+a) Bộ trưởng Nguyễn Mạnh Hùng lãnh đạo, quản lý toàn diện mọi hoạt động thuộc chức năng, nhiệm vụ, quyền hạn của Bộ; trực tiếp chỉ đạo Vụ TCCB.
+b) Thứ trưởng Bùi Thế Duy giúp Bộ trưởng phụ trách các lĩnh vực: NCKH, PHCN, phụ trách công tác: Hợp tác quốc tế, Hội nhập quốc tế; theo dõi và chỉ đạo các Vụ: HTQT, KHCN, KHXHNV&TN; ...
+c) Thứ trưởng Phạm Đức Long giúp Bộ trưởng phụ trách các lĩnh vực: Hạ tầng số, hạ tầng bưu chính, chuyển đổi số; phụ trách công tác: Quy hoạch, Chiến lược; Đảng, Đoàn thể; PCTT; đại diện chủ sở hữu vốn nhà nước tại VNPost; theo dõi và chỉ đạo các Vụ: BC, KTS-XHS; các Cục: VT, TSVTĐ, Cục Bưu điện Trung ương; CĐSQG, VNNIC, ...
+d) Thứ trưởng Lê Xuân Định giúp Bộ trưởng phụ trách các lĩnh vực: TCĐLCL, Năng lượng nguyên tử, an toàn bức xạ và hạt nhân; phụ trách công tác: thông tin thống kê, Công ty TNHH MTV Phát triển và UDCN-NEAD; đại diện chủ sở hữu vốn nhà nước tại NEAD; theo dõi và chỉ đạo các Cục: ATBXHN, NEAD, Viện NLNT.
+e) Thứ trưởng Hoàng Minh giúp Bộ trưởng phụ trách các lĩnh vực: UDCN, ĐMST, khởi nghiệp và sở hữu trí tuệ; phụ trách công tác: đào tạo, bồi dưỡng, phát triển nguồn nhân lực; theo dõi và chỉ đạo các Cục: SHTT, ĐMST,...Học viện PTIT,...
+f) Thứ trưởng Bùi Hoàng Phương giúp Bộ trưởng phụ trách các lĩnh vực: Công nghiệp công nghệ số; phụ trách công tác: văn phòng, kế hoạch - Tài chính, Thanh Tra, Thi đua khen thưởng; an ninh, quốc phòng... ; đại diện chủ sở hữu vốn nhà nước tại VTC; là người phát ngôn của Bộ Khoa học và Công nghệ; theo dõi và chỉ đạo các đơn vị: văn phòng, Vụ: KHTC, TTra, Pháp chế,...
+Ngoải ra Bộ trưởng phân công các Thứ trưởng theo dõi các địa phương trên cả nước.
+
+3. Bộ TTTT ban hành Kế hoạch kiểm tra, thanh tra năm 2025 
+- Ngày 18/02/2025, Bộ TTTT ban hành Quyết định số 269/QĐ-BTTTT về việc ban hành Kế hoạch kiểm tra năm 2025. Theo đó, có một số nội dung đáng chú ý như sau:
+1. Giao Chánh Văn phòng, Chánh Thanh tra, Vụ trưởng các Vụ: BC, TCCB, KHCN; Cục trưởng các Cục: VT, BC, ATTT, CĐS, Bưu điện Trung ương,.. kiểm tra kèm theo Quyết định này và thông báo cho cơ quan, tổ chức, cá nhân là đối tượng kiểm tra và cơ quan, tổ chức, cá nhân có liên quan về kế hoạch kiểm tra.
+2. Giao các đơn vị triển khai kiểm tra 114 nội dung liên quan đến các đối tượng kiểm tra, trong đó Cục Bưu điện Trung ương thực hiện 02 nhiệm vụ như sau:
+- Kiểm tra việc thực hiện các quy định của pháp luật về hoạt động của mạng TSLCD tại Tập đoàn VNPT, Viettel trong Quý II-III/2025.
+- Kiểm tra việc cung cấp hoạt động dịch vụ bưu chính KT1 thuộc mạng lưới bưu chính phục vụ cơ quan Đảng, Nhà nước tại VNPost trong Quý II-III/2025.
+- Ngày 18/02/2025, Bộ TTTT ban hành Quyết định số 517/QĐ-BTTTT về việc ban hành Kế hoạch Thanh tra năm 2025. Theo đó, có một số nội dung đáng chú ý như sau:
+1. Giao Thanh tra Bộ điều phối, đôn đốc, giám sát việc thực hiện Kế hoạch, kịp thời báo cáo, đề xuất Bộ trưởng giải quyết những vướng mắc, khó khăn;
+2. Các đơn vị có chức năng thanh tra thuộc Bộ triển khai thực hiện 20 nội dung công việc, mỗi đợt kiểm tra kéo dài từ 10-45 ngày trong năm 2025.
+3. Cục BĐTW không có nội dung liên quan.
+
+4. Bộ TTTT công bố danh mục VBQPPL hết hiệu lực, ngưng hiệu lực toàn bộ hoặc một phần thuộc lĩnh vực QLNN của Bộ năm 2024
+Ngày 11/02/2025, Bộ TTTT ban hành Quyết định số 184/QĐ-BTTTT công bố danh mục VBQPPL hết hiệu lực, ngưng hiệu lực toàn bộ hoặc một phần thuộc lĩnh vực QLNN của Bộ năm 2024. Theo đó có một số nội dung đáng chú ý như sau:
+- Có 46 văn bản hết hiệu lực, ngưng hiệu lực toàn bộ do đã có VBQPPL mới thay thế hoặc bãi bỏ.
+- Có 25 văn bản hết hiệu lực, ngưng hiệu lực một phần do đã có VBQPPL mới thay thế hoặc bãi bỏ.
+5. Bộ TTTT ban hành một số quy định, chỉ đạo điều hành liên quan đến lĩnh vực quản lý nhà nước của Ngành
+- Ngày 18/02/2025, Bộ TTTT ban hành 02 Thông tư liên quan đến các lĩnh vực QLNN thuộc chức năng nhiệm vụ của Bộ trưởng gồm:
+Thông tư 01/2025/TT-BTTTT "Sửa đổi, bổ sung một số điều của Thông tư số 06/2022/TT-BTTTT ngày 30 tháng 6 năm 2022 của Bộ trưởng Bộ Thông tin và Truyền thông hướng dẫn thực hiện Dự án Truyền thông và giảm nghèo về thông tin thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025”. Thông tư có hiệu lực từ ngày 05/4/2025.
+Thông tư 02/2025/TT-BTTTT "Sửa đổi, bổ sung một số điều của Thông tư số 05/2022/TT- BTTTT ngày 30 tháng 6 năm 2022 của Bộ trưởng Bộ Thông tin và Truyền thông quy định, hướng dẫn thực hiện nội dung 09 thuộc thành phần số 02 và nội dung 02 thuộc thành phần số 08 của Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025”. Thông tư có hiệu lực từ ngày 05/4/2025.
+- Ngày 10/02/2025, Bộ TTTT ban hành Quyết định số 178/QĐ-BTTTT Về việc chỉ định tổ chức thử nghiệm, theo đó Bộ TTTT chỉ định Trung tâm Đo lường Chất lượng Viễn thông thuộc Cục Viễn thông thực hiện việc thử nghiệm với phạm vi được chỉ định tại Trụ sở Trung tâm (tòa nhà VNTA) và các đài vô tuyến điện, trạm viễn thông; chi nhánh Miền Nam (Q. Tân Bình, Tp.HCM) và các đài vô tuyến điện, trạm viễn thông; chi nhánh Miền Trung (Q. Hải Châu, Tp.ĐN) và các đài vô tuyến điện, trạm viễn thông. 
+- Ngày 15/02/2025, Bộ TTTT ban hành Quyết định số 225/QĐ-BTTTT ban hành Khung tiêu chí thí điểm và quy trình xác định nền tảng số xuất sắc thúc đẩy chuyển đổi số các doanh nghiệp, cửa hàng, hộ kinh doanh bán buôn, bán lẻ năm 2025. Theo đó, có các nội dung đáng chú ý như sau:
++ Xây dựng bộ tiêu chí kỹ thuật, phi kỹ thuật để xét duyệt, công nhận các nền tảng số xuất sắc thúc đẩy chuyển đổi số các doanh nghiệp, cửa hàng, hộ kinh doanh bán buôn, bán lẻ năm 2025 với 05 nhóm tiêu chí chính gồm: (1). Nhóm tiêu chí kỹ thuật của nền tảng số; (2). Nhóm tiêu chí về an toàn, an ninh mạng; (3). Các tiêu chí yêu cầu chức năng, tính năng; (4). Nhóm tiêu chí về doanh nghiệp nền tảng số và các nguồn lực; (5). Nhóm tiêu chí về bảo đảm lợi ích cho doanh nghiệp, cửa hàng, hộ kinh doanh bán buôn, bán lẻ và hỗ trợ hoạt động của cơ quan quản lý nhà nước.
++ Xây dựng quy trình và tổ chức thực hiện xét duyệt, công nhận, công bố và thu hồi công nhận các nền tảng số xuất sắc thúc đẩy chuyển đổi số các doanh nghiệp, cửa hàng, hộ kinh doanh bán buôn, bán lẻ năm 2025.
+- Ngày 26/02/2025, Bộ TTTT ban hành Quyết định số 352/QĐ-BTTTT về Kế hoạch thực hiện chương trình quốc gia về phát triển kinh tế số giai đoạn 2024-2025 theo Quyết định 1437/QĐ-TTg ngày 20/11/2024 . Theo đó, tập trung triển khai 4 lĩnh vực trọng tâm gồm: Phát triển kinh tế số ICT (3 nhiệm vụ); Phát triển dữ liệu số (02 nhiệm vụ); Phát triển kinh tế số (15 nhiệm vụ); Quản trị số (02 nhiệm vụ).
+- Ngày 26/02/2025, Bộ TTTT ban hành Quyết định số 353/QĐ-BTTTT về công bố thủ tục hành chính mới ban hành; được sửa đổi, bổ sung; được thay thế và bị bãi bỏ lĩnh vực Phát thanh, truyền hình và thông tin điện tử; Viễn thông và Internet thuộc phạm vi chức năng quản lý của Bộ Thông tin và Truyền thông.
+Các quy định liên quan đến hoạt động của Cục
+1. Bộ TTTT lấy ý kiến góp ý dự thảo Quyết định sửa đổi, bổ sung một số điều của Quyết định số 37/2021/QĐ-TTg
+Ngày 20/02/2025, Bộ TTTT ban hành Công văn số 556/BTTTT-CBĐTW và 557/BTTTT-CBĐTW về việc lấy ý kiến góp ý dự thảo Quyết định sửa đổi, bổ sung một số điều của Quyết định số 37/2021/QĐ-TTg ngày 18/12/2021 của Thủ tướng Chính phủ về Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước. Theo đó, có một số nội dung chính như sau:
+- Bộ TTTT đăng tải trên công thông tin điện tử Chính phủ/ Bộ TTTT lấy ý kiến theo quy định hiện hành từ ngày 24/02/2025 đến hết ngày 24/4/2025.
+- Bộ TTTT lấy ý kiến bằng văn bản với 8 cơ quan/đối tượng gồm: 4 Văn phòng Trung ương; các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; UBMTTQVN và các tổ chức chính trị - xã hội thành viên; Phòng Thương mại và Công nghiệp Việt Nam; UBND tỉnh, thành phố trực thuộc Trung ương; văn bản góp ý gửi về Bộ TTTT trước ngày 12/03/2025 để tổng hợp, chỉnh lý, tiếp thu và hoàn thiện.
+2. Bộ TTTT ban hành Kế hoạch kiểm tra việc thực hiện Kế hoạch số 286/KH-BTTTT
+Ngày 28/02/2025, Bộ TTTT ban hành ban hành Quyết định số 396/QĐ-BTTTT ban hành Kế hoạch kiểm tra việc thực hiện Kế hoạch số 286/KH-BTTTT. Theo đó có một số nội dung đáng chú ý như sau:
+- Kiểm tra việc xây dựng kế hoạch, triển khai, cụ thể hóa trong chương trình, kế hoạch công tác hàng năm thực hiện Kế hoạch số 286/KH-BTTTT tại các đơn vị thuộc Bộ;
+- Kiểm tra việc thực hiện các mục tiêu và nhiệm vụ được phân công tại Kế hoạch 286/KH-BTTTT;
+- Định kỳ hàng quý, Cục CĐS báo cáo tình hình triển khai thực hiện của Bộ dựa trên số liệu, hồ sơ, báo cáo hoặc kiểm tra trực tuyến.
+Cục Bưu điện Trung ương có 02 nhiệm vụ là: (1). Phát triển hạ tầng mạng truyền số liệu chuyên dùng tốc độ cao, băng thông rộng, an toàn, thông suốt, kết nối bốn cấp hành chính từ trung ương đến cấp xã; (2). Xây dựng quy định đảm bảo liên thông, đồng bộ, bí mật nhà nước trong hoạt động chuyển đổi số của cả hệ thống chính trị. 
+
+3. Quốc hội thông qua Luật ban hành VBQPPL mới
+Ngày 19/02/2025, Quốc hội đã thông qua Luật Ban hành văn bản quy phạm pháp luật, số 64/2025/QH15. Dưới đây là một số nội dung đáng chú ý:
+1. Thay đổi cách xác định thời điểm hết hiệu lực của văn bản quy phạm pháp luật (QPPL) quy định chi tiết:
+- Luật Ban hành văn bản quy phạm pháp luật năm 2015 quy định: “Văn bản quy phạm pháp luật hết hiệu lực thì văn bản quy phạm pháp luật quy định chi tiết thi hành văn bản đó cũng đồng thời hết hiệu lực”.
+- Tuy nhiên, theo Luật Ban hành văn bản quy phạm pháp luật năm 2025: “Văn bản quy phạm pháp luật hết hiệu lực toàn bộ hoặc một phần do có văn bản quy phạm pháp luật khác thay thế hoặc sửa đổi, bổ sung thì văn bản quy định chi tiết, quy định biện pháp cụ thể để tổ chức, hướng dẫn thi hành văn bản đó tiếp tục có hiệu lực trong trường hợp không trái với văn bản quy phạm pháp luật thay thế hoặc sửa đổi, bổ sung, trừ trường hợp được công bố hết hiệu lực toàn bộ hoặc một phần…”
+2. Thời điểm có hiệu lực của văn bản QPPL được quy định như sau:
+- Thời điểm có hiệu lực toàn bộ hoặc một phần văn bản QPPL được quy định tại văn bản đó nhưng không sớm hơn 45 ngày kể từ ngày thông qua hoặc ký ban hành đối với văn bản QPPL của cơ quan Nhà nước ở trung ương; không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành đối với văn bản QPPL của chính quyền địa phương. Trường hợp văn bản QPPL được xây dựng, ban hành theo trình tự, thủ tục rút gọn và trong trường hợp đặc biệt có thể có hiệu lực kể từ ngày thông qua hoặc ký ban hành; đồng thời phải được đăng tải ngay trên công báo điện tử, cơ sở dữ liệu quốc gia về pháp luật, cổng thông tin điện tử của cơ quan ban hành và đưa tin trên phương tiện thông tin đại chúng.
+- Văn bản quy định chi tiết phải được ban hành để có hiệu lực cùng thời điểm có hiệu lực của văn bản giao quy định chi tiết hoặc thời điểm có hiệu lực của nội dung được giao quy định chi tiết.
+3. Bổ sung quy định về tham vấn chính sách. Theo đó, tham vấn chính sách là việc trao đổi trực tiếp giữa cơ quan lập đề xuất chính sách với cơ quan, tổ chức, cá nhân được tham vấn theo quy định của Luật này nhằm lựa chọn giải pháp, hoàn thiện chính sách của dự án luật, nghị quyết của Quốc hội, pháp lệnh của Ủy ban Thường vụ Quốc hội. Cụ thể, cơ quan lập đề xuất chính sách có trách nhiệm tham vấn Hội đồng Dân tộc, Ủy ban của Quốc hội, Bộ, cơ quan ngang Bộ theo quy định của Luật này.
+Ngoài ra, Luật còn đề cập đến một số nội dung như:
+1. Luật bổ sung quy định về thẩm quyền của Thủ tướng Chính phủ, cụ thể như sau: Trường hợp cần thiết vì lợi ích quốc gia, phòng, chống thiên tai, dịch bệnh, bảo đảm tính mạng, tài sản của Nhân dân, Thủ tướng Chính phủ quyết định áp dụng các biện pháp cấp bách khác quy định của pháp luật hiện hành, báo cáo cơ quan có thẩm quyền của Đảng, Quốc hội trong thời gian gần nhất.
+2. Chính phủ quy định các chính sách theo chức năng, nhiệm vụ, thẩm quyền của Chính phủ, chịu trách nhiệm về quyết định của mình theo quy định và thực hiện nhiệm vụ, quyền hạn cụ thể sau đây: Tổ chức thi hành lệnh tổng động viên hoặc động viên cục bộ, lệnh ban bố tình trạng khẩn cấp và các biện pháp cần thiết khác để bảo vệ Tổ quốc, bảo vệ tính mạng và tài sản của Nhân dân;
+Trên cơ sở được sự đồng ý của cấp có thẩm quyền, Chính phủ báo cáo Ủy ban Thường vụ Quốc hội cho phép thực hiện giải pháp khác với quy định của luật, pháp lệnh, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội trong trường hợp cần huy động các nguồn lực để triển khai chương trình mục tiêu quốc gia, dự án quan trọng quốc gia, sau đó báo cáo Quốc hội tại kỳ họp gần nhất;…
+3. Bỏ 02 loại văn bản QPPL cấp xã gồm: (1). Nghị quyết của Hội đồng nhân dân cấp xã. (2). Quyết định của Ủy ban nhân dân cấp xã và Nghị quyết của Chính phủ trở thành văn bản quy phạm pháp luật.
+4. Quy định về  “Chương trình lập pháp” thay cho “Chương trình xây dựng Luật, pháp lệnh”.
+5. Quy định trách nhiệm trực tiếp của người đứng đầu cơ quan ban hành văn bản.
+Luật này có hiệu lực kể từ ngày 01/04/2025.
+
+4. Quốc hội phê duyệt Nghị quyết về thí điểm một số cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia 
+Ngày 19/02/2025, Quốc hội phê duyệt Nghị quyết số 193/2025/QH15 về thí điểm một số cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia. Theo đó có một số nội dung chính như sau:
+(1) Mục tiêu giai đoạn 2024-2026:
+- Hoàn thành tái cấu trúc hạ tầng CNTT sang hạ tầng số, 100% đại biểu Quốc hội, cán bộ, công chức được trang bị chữ ký số.
+- Kết nối với trục liên thông văn bản quốc gia; kết nối liên thông với các cơ quan có liên quan trong hệ thống chính trị; 100% quy trình, nghiệp vụ thực hiện trên môi trường số, 100% tài liệu không mật được số hóa và cập nhật cơ sở dữ liệu, quản lý trên môi trường số; phần mềm hỗ trợ công tác lập pháp, giám sát, quản trị, xác thực điện tử phù hợp với Kiến trúc Quốc hội số.
+(2) Mục tiêu giai đoạn 2027 đến năm 2030: Tiếp tục hoàn thiện, bổ sung UDCNTT, CSDL; hoàn thành việc bảo đảm an toàn, an ninh thông tin, dữ liệu với hệ thống bảo mật thông tin nhiều lớp đáp ứng yêu cầu giám sát liên tục; phát hiện, cảnh báo sớm và phản ứng nhanh với các cuộc tấn công mạng, đủ khả năng chống lại các mối đe dọa mạng với các giải pháp sử dụng công nghệ tiên tiến. Kết nối, báo cáo kịp thời thông tin giám sát an toàn, an ninh mạng về cơ quan chức năng và bảo đảm phát hiện sớm các nguy cơ đe dọa an toàn, an ninh mạng.
+
+Danh sách công đoàn phòng chinh sách Cục BĐTƯW:
+1	Trần Duy Ninh	sinh 10/12/1971 quê quán:Hà Nội
+2	Cù Hải An sinh 28/02/1980 quê quán: Hà Tĩnh
+3	Phạm Thị Tuyết Thanh sinh 12/6/1974 quê quán Đà Nẵng
+4	Nguyễn Đức sinh	23/3/1982 quê quán: Vĩnh Phúc
+5	Bùi Thế Kiên	sinh 28/8/1984 quê quán: Hà Nội
+6	Dương Xuân Phúc	sinh 13/06/1980 quê quán: Bắc Ninh
+7	Nguyễn Thùy Linh sinh 20/8/1990	quê quán: Bắc Ninh
+
+BỘ THÔNG TIN VÀ TRUYỀN THÔNG
+CỤC BƯU ĐIỆN TRUNG ƯƠNG
+
+   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+
+QUY ĐỊNH THỜI GIAN TOÀN TRÌNH CHI TIẾT CÁC DỊCH VỤ BƯU CHÍNH KT1
+(Ban hành kèm theo Quyết định số         /QĐ-CBĐTW ngày      tháng      năm 2023 của 
+Cục Bưu điện Trung ương)
+
+A.	ÁP DỤNG CHUNG CHO TOÀN MẠNG
+I.	THỜI GIAN TOÀN TRÌNH DỊCH VỤ BƯU CHÍNH KT1 TRONG PHẠM VI LIÊN TỈNH 
+1.	Thời gian toàn trình dịch vụ KT1 và dịch vụ KT1 theo độ mật
+1.1.	Thời gian toàn trình dịch vụ KT1 và dịch vụ KT1 theo độ mật đến trung tâm tỉnh/thành phố
+Đơn vị tính: ngày
+TT	Từ	Khu vực	Đến
+			HN	HCM	ĐN	Khu vực
+						1	2	3	4	5	6	7	8
+1	An Giang	5	J+1,5	J+1	J+1,5	J+2	J+1,5	J+1,5	J+2	J+1	J+2	J+2,5	J+2,5
+2	Bà Rịa Vũng Tàu	2	J+1,5	J+1	J+1,5	J+2	J+1,5	J+2	J+2	J+1,5	J+1,5	J+2	J+2,5
+3	Bạc Liêu	5	J+1,5	J+1	J+1,5	J+2	J+1,5	J+1,5	J+2	J+1	J+2	J+2,5	J+2,5
+4	Bắc Giang	1	J+1	J+1	J+1	J+1	J+1,5	J+1,5	J+2	J+1,5	J+2	J+2	J+1,5
+5	Bắc Ninh	1	J+1	J+1	J+1	J+1	J+1,5	J+1,5	J+2	J+1,5	J+2	J+2	J+1,5
+6	Bến Tre	2	J+1,5	J+1	J+1,5	J+2	J+1,5	J+2	J+2	J+1,5	J+2	J+2,5	J+2,5
+7	Bình Dương	2	J+1,5	J+1	J+1,5	J+2	J+1,5	J+1,5	J+2	J+1,5	J+1,5	J+2,5	J+2,5
+8	Bình Định	4	J+1,5	J+2	J+1,5	J+2	J+2	J+1,5	J+1	J+2	J+2	J+2	J+2,5
+9	Bình Phước	2	J+1,5	J+1	J+1,5	J+2	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+2,5	J+2,5
+10	Bình Thuận	2	J+1,5	J+1	J+1,5	J+2	J+1,5	J+1,5	J+2	J+1,5	J+1,5	J+2,5	J+2,5
+11	Cà Mau	5	J+1,5	J+1	J+1,5	J+2	J+1,5	J+1,5	J+2	J+1	J+1,5	J+2,5	J+2,5
+12	Cần Thơ	2	J+1,5	J+1	J+1,5	J+2	J+1,5	J+1,5	J+2	J+1	J+1,5	J+2,5	J+2,5
+13	Đà Nẵng	ĐN	J+1	J+1		J+1,5	J+1,5	J+1	J+1,5	J+1,5	J+1,5	J+2	J+2,5
+14	Đắc Lắc	6	J+1,5	J+1	J+1,5	J+2	J+2	J+1,5	J+1,5	J+2	J+1	J+2	J+2,5
+15	Đắk Nông	6	J+1,5	J+1	J+1,5	J+2	J+2	J+2	J+2	J+2	J+1	J+2	J+2,5
+16	Đồng Nai	2	J+1,5	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+2	J+1,5	J+1,5	J+2,5	J+2,5
+17	Đồng Tháp	2	J+1,5	J+1	J+1,5	J+2	J+1,5	J+1,5	J+2	J+1,5	J+1,5	J+2,5	J+2,5
+18	Gia Lai	4	J+2	J+1,5	J+1	J+2	J+2	J+1,5	J+1	J+2	J+1,5	J+2	J+2,5
+19	Hà Nam	1	J+1	J+1	J+1,5	J+1	J+2	J+2	J+2	J+2	J+2	J+2	J+2
+20	Hà Nội	HN		J+1	J+1	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5
+21	Hà Tĩnh	7	J+1,5	J+2	J+2	J+1,5	J+2,5	J+2,5	J+2,5	J+2,5	J+2,5	J+1	J+2,5
+22	Hải Dương	1	J+1	J+1	J+1	J+1	J+2	J+1,5	J+2	J+2	J+2	J+1,5	J+2
+23	Hải Phòng	1	J+1	J+1	J+1	J+1	J+2	J+1,5	J+2	J+2	J+2	J+1,5	J+2
+24	Hậu Giang	2	J+1,5	J+1	J+2	J+2	J+1,5	J+2	J+2	J+1	J+1,5	J+2,5	J+2,5
+25	Hoà Bình	1	J+1	J+1,5	J+1,5	J+1	J+2	J+2	J+2	J+2	J+2	J+2	J+2,5
+26	Hưng Yên	1	J+1	J+1,5	J+1,5	J+1	J+1,5	J+1,5	J+1,5	J+2	J+2	J+1,5	J+2
+27	TP HCM	HCM	J+1		J+1	J+1,5	J+1	J+1,5	J+1,5	J+1	J+1	J+1,5	J+2,5
+28	Khánh Hoà	2	J+1,5	J+1	J+1,5	J+1,5	J+1,5	J+2	J+2	J+2	J+1,5	J+2	J+2,5
+29	Kiên Giang	5	J+1,5	J+1,5	J+1,5	J+2	J+1,5	J+1,5	J+2	J+1	J+2	J+2,5	J+2,5
+30	Kon Tum	4	J+2	J+1,5	J+1,5	J+2	J+2	J+1,5	J+1,5	J+2	J+1	J+2	J+2,5
+31	Lạng Sơn	1	J+1	J+1,5	J+1,5	J+1	J+2	J+2	J+2	J+2	J+2	J+2	J+2
+32	Lâm Đồng	2	J+1,5	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+2	J+1,5	J+2	J+2,5	J+2,5
+33	Long An	2	J+1,5	J+1	J+1,5	J+2	J+1,5	J+1,5	J+2	J+0,5	J+1,5	J+2,5	J+2,5
+34	Nam Định	1	J+1	J+1	J+1,5	J+1,5	J+2	J+2	J+2	J+2	J+2	J+2	J+2
+35	Nghệ An	7	J+1	J+1,5	J+1,5	J+1,5	J+2	J+2	J+2	J+2	J+2	J+1	J+2,5
+36	Ninh Bình	1	J+1	J+1,5	J+1,5	J+1	J+2	J+2	J+2	J+2	J+2	J+1,5	J+2,5
+37	Ninh Thuận	2	J+1,5	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+2	J+1,5	J+1,5	J+2	J+2,5
+38	Phú Thọ	1	J+1	J+1	J+1	J+1	J+1,5	J+2	J+2	J+2	J+2	J+2	J+2
+39	Phú Yên	2	J+1,5	J+1,5	J+1,5	J+2	J+2	J+1,5	J+1,5	J+2	J+2	J+2	J+2,5
+40	Quảng Bình	7	J+1,5	J+1,5	J+1	J+2	J+2	J+1,5	J+2	J+2	J+1,5	J+1	J+2,5
+41	Quảng Nam	3	J+1,5	J+1,5	J+1	J+2	J+2	J+1	J+1,5	J+2	J+2	J+2	J+2,5
+42	Quảng Ngãi	3	J+1,5	J+1,5	J+1	J+2	J+2	J+1	J+1,5	J+2	J+2	J+2	J+2,5
+43	Quảng Ninh	1	J+1	J+1	J+1	J+1	J+2	J+1,5	J+2	J+2	J+2	J+1,5	J+2
+44	Quảng Trị	3	J+1,5	J+1,5	J+1	J+2	J+2	J+1	J+1,5	J+2	J+2	J+1,5	J+2,5
+45	Sóc Trăng	5	J+1,5	J+1	J+1,5	J+2	J+1,5	J+1,5	J+2	J+1	J+2	J+2,5	J+2,5
+46	Tây Ninh	2	J+1,5	J+1	J+1,5	J+2	J+1,5	J+2	J+2	J+1,5	J+1,5	J+2,5	J+2,5
+47	Thái Bình	1	J+1	J+1,5	J+1,5	J+1	J+2	J+2	J+2	J+2	J+2	J+2	J+2,5
+48	Thái Nguyên	1	J+1	J+1,5	J+1,5	J+1	J+2	J+2	J+2	J+2	J+2	J+2	J+2
+49	Thanh Hoá	1	J+1	J+1,5	J+1,5	J+1,5	J+2	J+2	J+2	J+2	J+2	J+1	J+2,5
+50	Thừa Thiên Huế	3	J+1,5	J+1,5	J+1	J+2	J+2	J+1	J+1,5	J+1,5	J+2	J+2	J+2,5
+51	Tiền Giang	2	J+1,5	J+1	J+1,5	J+2	J+1,5	J+1,5	J+2	J+1,5	J+1,5	J+2	J+2,5
+52	Trà Vinh	2	J+1,5	J+1	J+1,5	J+2	J+1,5	J+2	J+2	J+1	J+1,5	J+2,5	J+2,5
+53	Tuyên Quang	8	J+1	J+1,5	J+1,5	J+1	J+2	J+1,5	J+2	J+2	J+2	J+1,5	J+2
+54	Vĩnh Long	2	J+1,5	J+1	J+1,5	J+2	J+1	J+1,5	J+2	J+1	J+1,5	J+2,5	J+2,5
+55	Vĩnh Phúc	1	J+1	J+1	J+1	J+1	J+1,5	J+2	J+2	J+2	J+2	J+2	J+2
+56	Yên Bái	1	J+1	J+1,5	J+1,5	J+1	J+2	J+1,5	J+2	J+2	J+2	J+2	J+2
+57	Cao Bằng	8	J+1	J+1,5	J+1,5	J+1,5	J+2	J+2	J+2	J+2	J+2	J+2	J+2,5
+58	Bắc Kạn	8	J+1	J+1,5	J+1,5	J+1,5	J+2	J+2	J+2	J+2	J+2	J+2	J+2,5
+59	Điện Biên	8	J+1,5	J+2	J+2	J+2	J+2,5	J+2,5	J+2,5	J+2,5	J+2	J+2,5	J+2,5
+60	Hà Giang	8	J+1	J+1,5	J+1,5	J+1,5	J+2	J+2	J+2	J+2	J+2	J+2	J+2,5
+61	Lai Châu	8	J+1,5	J+2	J+2	J+2	J+2,5	J+2,5	J+2,5	J+2,5	J+2,5	J+2,5	J+2,5
+62	Sơn La	8	J+1,5	J+2	J+2	J+2	J+2,5	J+2	J+2,5	J+2,5	J+2	J+2,5	J+2,5
+63	Lào Cai	8	J+1,5	J+1,5	J+2	J+1	J+2	J+2	J+2,5	J+2	J+2	J+2	J+2
+1.2.	Thời gian toàn trình dịch vụ KT1 và dịch vụ KT1 theo độ mật đến địa bàn huyện/xã
+a.	Thời gian toàn trình dịch vụ KT1 và dịch vụ KT1 theo độ mật đến địa bàn huyện/xã các tỉnh thành trên cả nước (trừ địa bàn có điều kiện địa lý đặc biệt quy định tại Phụ lục I kèm theo Thông tư số 15/2022/TT-BTTTT ngày 31/10/2022 Quy định chi tiết và hướng dẫn thi hành một số điều của Quyết định số 37/2021/QĐ-TTg ngày 18 tháng 12 năm 2021 của Thủ tướng Chính phủ về Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước: không quá 3,5 ngày.
+b.	Thời gian toàn trình dịch vụ KT1 và dịch vụ KT1 theo độ mật đến địa bàn có điều kiện địa lý đặc biệt quy định tại Phụ lục I kèm theo Thông tư số 15/2022/TT-BTTTT: không quá 6 ngày.
+
+
+2.	Thời gian toàn trình dịch vụ KT1 Hỏa tốc
+2.1.	Thời gian toàn trình dịch vụ KT1 Hỏa tốc đến trung tâm tỉnh/thành phố
+Đơn vị tính: ngày
+TT	Từ	Khu vực	Đến
+			HN	HCM	ĐN	Khu vực
+						1	2	3	4	5	6	7	8
+1	An Giang	5	J+1	J+0,5	J+1	J+1,5	J+1	J+1	J+1,5	J+0,5	J+1,5	J+2	J+2
+2	Bà Rịa Vũng Tàu	2	J+1	J+0,5	J+1	J+1,5	J+1	J+1,5	J+1,5	J+1	J+1	J+1,5	J+2
+3	Bạc Liêu	5	J+1	J+0,5	J+1	J+1,5	J+1	J+1	J+1,5	J+0,5	J+1,5	J+2	J+2
+4	Bắc Giang	1	J+0,5	J+0,5	J+0,5	J+0,5	J+1	J+1	J+1,5	J+1	J+1,5	J+1,5	J+1
+5	Bắc Ninh	1	J+0,5	J+0,5	J+0,5	J+0,5	J+1	J+1	J+1,5	J+1	J+1,5	J+1,5	J+1
+6	Bến Tre	2	J+1	J+0,5	J+1	J+1,5	J+1	J+1,5	J+1,5	J+1	J+1,5	J+2	J+2
+7	Bình Dương	2	J+1	J+0,5	J+1	J+1,5	J+1	J+1	J+1,5	J+1	J+1	J+2	J+2
+8	Bình Định	4	J+1	J+1,5	J+1	J+1,5	J+1,5	J+1	J+0,5	J+1,5	J+1,5	J+1,5	J+2
+9	Bình Phước	2	J+1	J+0,5	J+1	J+1,5	J+1	J+1	J+1	J+1	J+1	J+2	J+2
+10	Bình Thuận	2	J+1	J+0,5	J+1	J+1,5	J+1	J+1	J+1,5	J+1	J+1	J+2	J+2
+11	Cà Mau	5	J+1	J+0,5	J+1	J+1,5	J+1	J+1	J+1,5	J+0,5	J+1	J+2	J+2
+12	Cần Thơ	2	J+1	J+0,5	J+1	J+1,5	J+1	J+1	J+1,5	J+0,5	J+1	J+2	J+2
+13	Đà Nẵng	ĐN	J+0,5	J+0,5		J+1	J+1	J+0,5	J+1	J+1	J+1	J+1,5	J+2
+14	Đắc Lắc	6	J+1	J+0,5	J+1	J+1,5	J+1,5	J+1	J+1	J+1,5	J+0,5	J+1,5	J+2
+15	Đắk Nông	6	J+1	J+0,5	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+0,5	J+1,5	J+2
+16	Đồng Nai	2	J+1	J+0,5	J+1	J+1	J+1	J+1	J+1,5	J+1	J+1	J+2	J+2
+17	Đồng Tháp	2	J+1	J+0,5	J+1	J+1,5	J+1	J+1	J+1,5	J+1	J+1	J+2	J+2
+18	Gia Lai	4	J+1,5	J+1	J+0,5	J+1,5	J+1,5	J+1	J+0,5	J+1,5	J+1	J+1,5	J+2
+19	Hà Nam	1	J+0,5	J+0,5	J+1	J+0,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5
+20	Hà Nội	HN		J+0,5	J+0,5	J+0,5	J+1	J+1	J+1	J+1	J+1	J+1	J+1
+21	Hà Tĩnh	7	J+1	J+1,5	J+1,5	J+1	J+2	J+2	J+2	J+2	J+2	J+0,5	J+2
+22	Hải Dương	1	J+0,5	J+0,5	J+0,5	J+0,5	J+1,5	J+1	J+1,5	J+1,5	J+1,5	J+1	J+1,5
+23	Hải Phòng	1	J+0,5	J+0,5	J+0,5	J+0,5	J+1,5	J+1	J+1,5	J+1,5	J+1,5	J+1	J+1,5
+24	Hậu Giang	2	J+1	J+0,5	J+1,5	J+1,5	J+1	J+1,5	J+1,5	J+0,5	J+1	J+2	J+2
+25	Hoà Bình	1	J+0,5	J+1	J+1	J+0,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+2
+26	Hưng Yên	1	J+0,5	J+1	J+1	J+0,5	J+1	J+1	J+1	J+1,5	J+1,5	J+1	J+1,5
+27	TP HCM	HCM	J+0,5		J+0,5	J+1	J+0,5	J+1	J+1	J+0,5	J+0,5	J+1	J+2
+28	Khánh Hoà	2	J+1	J+0,5	J+1	J+1	J+1	J+1,5	J+1,5	J+1,5	J+1	J+1,5	J+2
+29	Kiên Giang	5	J+1	J+1	J+1	J+1,5	J+1	J+1	J+1,5	J+0,5	J+1,5	J+2	J+2
+30	Kon Tum	4	J+1,5	J+1	J+1	J+1,5	J+1,5	J+1	J+1	J+1,5	J+0,5	J+1,5	J+2
+31	Lạng Sơn	1	J+0,5	J+1	J+1	J+0,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5
+32	Lâm Đồng	2	J+1	J+0,5	J+1	J+1	J+1	J+1	J+1,5	J+1	J+1,5	J+2	J+2
+33	Long An	2	J+1	J+0,5	J+1	J+1,5	J+1	J+1	J+1,5	J+0,5	J+1	J+2	J+2
+34	Nam Định	1	J+0,5	J+0,5	J+1	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5
+35	Nghệ An	7	J+0,5	J+1	J+1	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+0,5	J+2
+36	Ninh Bình	1	J+0,5	J+1	J+1	J+0,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1	J+2
+37	Ninh Thuận	2	J+1	J+0,5	J+1	J+1	J+1	J+1	J+1,5	J+1	J+1	J+1,5	J+2
+38	Phú Thọ	1	J+0,5	J+0,5	J+0,5	J+0,5	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5
+39	Phú Yên	2	J+1	J+1	J+1	J+1,5	J+1,5	J+1	J+1	J+1,5	J+1,5	J+1,5	J+2
+40	Quảng Bình	7	J+1	J+1	J+0,5	J+1,5	J+1,5	J+1	J+1,5	J+1,5	J+1	J+0,5	J+2
+41	Quảng Nam	3	J+1	J+1	J+0,5	J+1,5	J+1,5	J+0,5	J+1	J+1,5	J+1,5	J+1,5	J+2
+42	Quảng Ngãi	3	J+1	J+1	J+0,5	J+1,5	J+1,5	J+0,5	J+1	J+1,5	J+1,5	J+1,5	J+2
+43	Quảng Ninh	1	J+0,5	J+0,5	J+0,5	J+0,5	J+1,5	J+1	J+1,5	J+1,5	J+1,5	J+1	J+1,5
+44	Quảng Trị	3	J+1	J+1	J+0,5	J+1,5	J+1,5	J+0,5	J+1	J+1,5	J+1,5	J+1	J+2
+45	Sóc Trăng	5	J+1	J+0,5	J+1	J+1,5	J+1	J+1	J+1,5	J+0,5	J+1,5	J+2	J+2
+46	Tây Ninh	2	J+1	J+0,5	J+1	J+1,5	J+1	J+1,5	J+1,5	J+1	J+1	J+2	J+2
+47	Thái Bình	1	J+0,5	J+1	J+1	J+0,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+2
+48	Thái Nguyên	1	J+0,5	J+1	J+1	J+0,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5
+49	Thanh Hoá	1	J+0,5	J+1	J+1	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+0,5	J+2
+50	Thừa Thiên Huế	3	J+1	J+1	J+0,5	J+1,5	J+1,5	J+0,5	J+1	J+1	J+1,5	J+1,5	J+2
+51	Tiền Giang	2	J+1	J+0,5	J+1	J+1,5	J+1	J+1	J+1,5	J+1	J+1	J+1,5	J+2
+52	Trà Vinh	2	J+1	J+0,5	J+1	J+1,5	J+1	J+1,5	J+1,5	J+0,5	J+1	J+2	J+2
+53	Tuyên Quang	8	J+0,5	J+1	J+1	J+0,5	J+1,5	J+1	J+1,5	J+1,5	J+1,5	J+1	J+1,5
+54	Vĩnh Long	2	J+1	J+0,5	J+1	J+1,5	J+0,5	J+1	J+1,5	J+0,5	J+1	J+2	J+2
+55	Vĩnh Phúc	1	J+0,5	J+0,5	J+0,5	J+0,5	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5
+56	Yên Bái	1	J+0,5	J+1	J+1	J+0,5	J+1,5	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5
+57	Cao Bằng	8	J+0,5	J+1	J+1	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+2
+58	Bắc Kạn	8	J+0,5	J+1	J+1	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+2
+59	Điện Biên	8	J+1	J+1,5	J+1,5	J+1,5	J+2	J+2	J+2	J+2	J+1,5	J+2	J+2
+60	Hà Giang	8	J+0,5	J+1	J+1	J+1	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+1,5	J+2
+61	Lai Châu	8	J+1	J+1,5	J+1,5	J+1,5	J+2	J+2	J+2	J+2	J+2	J+2	J+2
+62	Sơn La	8	J+1	J+1,5	J+1,5	J+1,5	J+2	J+1,5	J+2	J+2	J+1,5	J+2	J+2
+63	Lào Cai	8	J+1	J+1	J+1,5	J+0,5	J+1,5	J+1,5	J+2	J+1,5	J+1,5	J+1,5	J+1,5
+2.2.	Thời gian toàn trình dịch vụ KT1 Hỏa tốc đến địa bàn huyện/xã
+a.	Thời gian toàn trình dịch vụ KT1 Hỏa tốc đến địa bàn huyện/xã các tỉnh thành trên cả nước (trừ các địa bàn có điều kiện địa lý đặc biệt quy định tại Phụ lục I kèm theo Thông tư số 15/2022/TT-BTTTT: không quá 2,5 ngày.
+b.	Thời gian toàn trình dịch vụ KT1 Hỏa tốc đến địa bàn có điều kiện địa lý đặc biệt quy định tại Phụ lục I kèm theo Thông tư số 15/2022/TT-BTTTT: không quá 5 ngày.
+II.	THỜI GIAN TOÀN TRÌNH DỊCH VỤ BƯU CHÍNH KT1 TRONG PHẠM VI NỘI TỈNH 
+Đơn vị tính: ngày
+Từ	Đến
+	Khu vực trung tâm tỉnh, TP	Các khu vực còn lại
+	Dịch vụ KT1 và dịch vụ KT1 theo độ mật	Dịch vụ KT1 Hỏa tốc	Dịch vụ KT1 và dịch vụ KT1 theo độ mật	Dịch vụ KT1 Hỏa tốc
+- Hà Nội;
+- Đà Nẵng;
+- TP. Hồ Chí Minh	J+0,5	J	J+1	J+0,5
+- Các tỉnh, TP còn lại	J+1	J+0,5	J+1,5	J+1
+Ghi chú:
+a.	Khu vực trung tâm thành phố Hà Nội gồm các quận: Hoàn Kiếm, Ba Đình, Hai Bà Trưng, Đống Đa, Tây Hồ, Cầu Giấy, Thanh Xuân, Hoàng Mai.
+b.	Khu vực trung tâm thành phố Đà Nẵng gồm các quận: Hải Châu, Thanh Khê, Sơn Trà, Ngũ Hành Sơn, Liên Chiểu, Cẩm Lệ. 
+c.	Khu vực trung tâm thành phố Hồ Chí Minh gồm các quận: 1, 3, 4, 5, 6, 8, 10, 11, Bình Thạnh, Phú Nhuận, Tân Bình, Tân Phú, Gò Vấp.
+B.	ÁP DỤNG ĐỐI VỚI CÁC DỊCH VỤ BƯU CHÍNH KT1 DO CỤC BƯU ĐIỆN TRUNG ƯƠNG THỰC HIỆN TOÀN TRÌNH 
+I.	Thời gian toàn trình dịch vụ bưu chính KT1 trong phạm vi liên tỉnh (đến trung tâm tỉnh/thành phố)
+  Đơn vị tính: ngày
+TT	Từ	Đến
+		HN	HCM	ĐN	Khu vực
+					1	2	3	4	5	6	7	8
+1	Hà Nội		J+0,5	J+0,5	J+0,5 - J+1	J+0,5	J+1	J+1	J+1	J+1	J+1
+2	Đà Nẵng	J+0,5	J+0,5		J+0,5 - J+1	J+0,5	J+1	J+1	J+1	J+1	J+1
+3	TP HCM	J+0,5		J+0,5	J+0,5 - J+1	J+1	J+1	J+1	J+1	J+1
+II. 	Thời gian toàn trình dịch vụ bưu chính KT1 trong phạm vi nội tỉnh 
+1.	Đến Uỷ viên Bộ Chính trị, Uỷ viên Ban Bí thư và 4 Văn phòng Trung ương
+Đơn vị tính: giờ
+Từ	Đến
+	Khu vực trung tâm tỉnh, TP	Các khu vực còn lại
+	Dịch vụ KT1 và dịch vụ KT1 theo độ mật	Dịch vụ KT1 Hỏa tốc	Dịch vụ KT1 và dịch vụ KT1 theo độ mật	Dịch vụ KT1 Hỏa tốc
+Khu vực trung tâm TP 	5 giờ làm việc	3 giờ	6 giờ làm việc	6 giờ
+Các khu vực còn lại	6 giờ làm việc	6 giờ	8 giờ làm việc	8 giờ
+2.	Đến các cơ quan, tổ chức
+Đơn vị tính: giờ
+Từ	Đến
+	Khu vực trung tâm tỉnh, TP	Các khu vực còn lại
+	Dịch vụ KT1 và dịch vụ KT1 theo độ mật	Dịch vụ KT1 Hỏa tốc	Dịch vụ KT1 và dịch vụ KT1 theo độ mật	Dịch vụ KT1 Hỏa tốc
+Khu vực trung tâm TP 	6 giờ làm việc	6 giờ	8 giờ làm việc	8 giờ
+Các khu vực còn lại	8 giờ làm việc	8 giờ	12 giờ làm việc	12 giờ
+Ghi chú: 
+a.	Giờ làm việc từ 8h -17h từ thứ 2-6 (không kể thứ 7, Chủ nhật, ngày nghỉ lễ, Tết).
+b.	Thời gian toàn trình dịch vụ bưu chính KT1 trong phạm vi nội tỉnh không vượt quá thời gian toàn trình dịch vụ bưu chính KT1 trong phạm vị nội tỉnh quy định tại mục II Phần A Quy định này.
+C. 	CÁC QUY ĐỊNH KHÁC
+1.	Thời gian toàn trình dịch vụ bưu chính KT1 là khoảng thời gian tính từ khi bưu gửi được chấp nhận cho đến khi được phát lần thứ nhất đến địa chỉ nhận ghi trên bưu gửi, trừ trường hợp do sự kiện bất khả kháng theo quy định của pháp luật. Trong đó J là ngày chấp nhận, được thể hiện bằng dấu ngày trên bưu gửi.
+2.	Thời gian toàn trình của dịch vụ KT1 Hỏa tốc bao gồm cả thứ Bảy, Chủ nhật và ngày nghỉ lễ, Tết; thời gian toàn trình của dịch vụ KT1 và dịch vụ KT1 theo độ mật không tính thứ Bảy, Chủ nhật và ngày lễ, Tết.
+3.	Thời gian toàn trình dịch vụ KT1 theo độ mật và Hỏa tốc tính theo thời gian toàn trình dịch vụ KT1 Hỏa tốc.
+4.	Khu vực tính thời gian toàn trình dịch vụ bưu chính KT1 trong phạm vi liên tỉnh
+-	KV1: Bắc Giang, Bắc Ninh, Hà Nam, Hải Dương, Hải Phòng, Hòa Bình, Hưng Yên, Nam Định, Ninh Bình, Phú Thọ, Quảng Ninh, Thái Bình, Thái Nguyên, Thanh Hóa, Vĩnh Phúc, Lạng Sơn, Yên Bái.
+-	KV2: Bà Rịa Vũng Tàu, Bến Tre, Bình Dương, Bình Phước, Bình Thuận, Đồng Nai, Đồng Tháp, Khánh Hòa, Lâm Đồng, Long An, Ninh Thuận, Phú Yên, Vĩnh Long, Tây Ninh, Tiền Giang, Trà Vinh, Cần Thơ, Hậu Giang. 
+-	KV3: Thừa Thiên Huế, Quảng Trị, Quảng Ngãi, Quảng Nam.
+-	KV4: Gia Lai, Kon Tum, Bình Định.
+-	KV5: An Giang, Bạc Liêu, Cà Mau, Sóc Trăng, Kiên Giang.
+-	KV6: Đắc Lắc, Đắc Nông.
+-	KV7: Nghệ An, Hà Tĩnh, Quảng Bình.
+-	KV8: Tuyên Quang, Bắc Cạn, Cao Bằng, Điện Biên, Hà Giang, Lai Châu, Lào Cai, Sơn La.
+D. 	THỜI GIAN ÁP DỤNG: từ ngày  01  tháng  9  năm 2023.
+
