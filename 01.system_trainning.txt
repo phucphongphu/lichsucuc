@@ -304,36 +304,6 @@ Sau ngày toàn quốc kháng chiến bùng nổ, cùng với các cơ quan Trun
       Tháng 6-1948, tại hội trường Bản Là, Định Hóa, Thái Nguyên, “Tiểu ban Thông tin vô tuyến điện” bí danh là CP16 được thành lập với mô hình:
  
 
-Sơ đồ mạng liên lạc VTĐ của Tiểu ban Thông tin Vô tuyến điện CP16 (1948)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Lãnh đạo Tiểu ban thông tin VTĐ gồm các đồng chí:
 - Nguyễn Tiến Phát, Trưởng tiểu ban
 - Phan Việt Bắc, Phó tiểu ban phụ trách Điện đài 
@@ -367,27 +337,6 @@ Lúc này, Tiểu ban chỉ liên lạc với các Đài vô tuyến liên khu 1
 	Cùng ngày, Tiểu ban thông tin về Bộ Canh nông của ngụy (khi đó là trại lính Âu Phi) ngay phía sau Phủ toàn quyền.
 	Lúc này, 2 đồng chí Phan Việt Bắc, Đoàn Hồng Sơn đi cải cách ruộng đất đợt 2; đồng chí Nguyễn Tiến Phát và Nguyễn Khắc Hữu lãnh đạo Tiểu ban nhận viện trợ, lấy một ngôi nhà mái bằng, tôn nền cao đặt các máy phát 50W, 150W, 200W, 500W, 1kW và 2 kW để khai thác. Công suất phát lớn, đập vào máy thu nên phải xin nhà 88 Nguyễn Du đặt Đài thu CP16 B, kéo dây cáp tín hiệu về khu máy phát CP16A ở Ngọc Hà. 
  	Hai đồng chí Việt Bắc, Hồng Sơn phụ trách Đài thu CP16B. Đa số là máy thu loại 12 đèn Trung Quốc; liên lạc với 13 Đài trong nước và 3 Đài ở nước ngoài: Thái Lan, Bắc Kinh, Mạc-tư-khoa 
-Sơ đồ các Đài VTĐ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	Tiểu ban còn lập đài cơ động phục vụ Trung ương chỉ đạo chống địch ép đồng bào di cư vào Nam và duy trì đội chiếu phim, phục vụ Trung ương và các đồng chí Trường Chinh, Hoàng Quốc Việt nói chuyện với nhân dân, giải thích về Hiệp định Giơ-ne-vơ, về Tổng tuyển cử, thống nhất đất nước.
       Tiểu ban được bổ sung các đồng chí: Vũ Chính Xương (cán bộ thông tin khu ủy khu V), Nguyễn Văn Hay, Nguyễn Thị Hồng Đăng, Tăng Văn Châu, Nguyễn Văn Ngọc, Dương Xuân Tư, Lê Phan, Bùi A… và một số cán bộ, nhân viên của Ban thông tin Trung ương Cục miền Nam tập kết ra Bắc.
       Ngày 15-4-1955, Tiểu ban tổ chức tổng kết công tác thông tin VTĐ phục vụ Trung ương 9 năm kháng chiến, định hướng phát triển lực lượng và hoạt động thời kỳ mới. Hội nghị họp tại CP16 Hà Nội, mời đại biểu các liên khu Việt Bắc, Tây Bắc, liên khu 3, liên khu 4, các đại biểu Nam Bộ, liên khu 5 tập kết ra Bắc và đại biểu Ban Thông tin VTĐ Trung ương ở Việt Bắc về tiếp quản Thủ đô. Đồng chí Vũ Tuân, Chánh Văn phòng Trung ương Đảng, đồng chí Ngân, đại diện Văn phòng Phủ Thủ tướng tới dự và phát biểu ý kiến chỉ đạo. Hội nghị đã kiểm điểm những thiếu sót trong công tác, chấp hành chủ trương chính sách của Đảng và Chính phủ, nhất là vấn đề đoàn kết nội bộ và thất thoát tài sản, thiết bị do buông lỏng quản lý. 
@@ -411,43 +360,13 @@ Sơ đồ các Đài VTĐ
       Trong khi đó, CP16 tiếp tục đào tạo báo vụ và cơ công cho Lào, mỗi đợt 6 người. Xưởng sửa chữa nghiên cứu lắp ráp, một số máy thu phát nhỏ phục vụ khi tiếp cận các đồng chí lãnh đạo Đảng và Nhà nước đi công tác địa phương.
       Ngày 10-12-1962, Bộ Chính trị họp, ra nghị quyết về phương hướng và nhiệm vụ công tác trước mắt của cách mạng miền Nam.
       Thực hiện Nghị quyết của Bộ Chính trị, chuẩn bị chống chiến tranh phá hoại của Mỹ ra miền Bắc, Văn phòng Trung ương Đảng cử cán bộ Phòng Quản trị cùng phòng Điện đài CP16 khẩn trương và bí mật tìm nơi sơ tán cho đơn vị. Đài CP16, xây 3 hầm kiên cố ở sân Đài thu C1, C3, hầm tổng đài điện thoại ở số 8 Chu Văn An và xây dựng một hệ thống cáp tín hiệu 10-20 đôi từ hầm số 8 Chu Văn An đến Đài điện báo Trung ương của Tổng cục Bưu điện ở 16a Hùng Vương, kéo cáp tín hiệu từ Đài thu C1, C3 xuống Đài phát B Cầu Giấy; xây hai hầm đặt máy phát điện 4KVA và 5KVA và hệ thống máy chia anten cho máy thu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Hầm 1 đặt 2 máy thu 14 đèn, 1 máy phát 50W, 1 máy phát 150W phòng khi Đài phát B Cầu Giấy có sự cố, dùng các máy này giữ liên lạc với miền Nam và các tỉnh ủy miền Bắc. 
 Đề phòng Mỹ phá đê sông Hồng gây ngập Hà Nội, CP16 đặt Đài phòng chống lụt bão trên mái bằng nhà của Ban Tổ chức Trung ương tại số 4 dốc Ngọc Hà, đặt hai máy phát 150W và 50W, máy thu 12 và 14 đèn. Bộ phận này do các đồng chí Trần Văn Thiệu, Bùi Minh Nguyện, Lê Minh Tiên, Lưu Minh Đức phụ trách.
-
-
-
-
-
-
-
-
-
-
-
 Tiếp theo, Đài CP16 sơ tán một số bộ phận máy thu phát lên H20 - khu doanh trại công an vũ trang gần Tỉnh ủy, Ủy ban hành chính tỉnh Sơn Tây. Liên lạc giữa CP16 - Hà Nội và H20 chủ yếu bằng vô tuyến sóng ngắn và điện thoại. CP16 đề nghị Tổng cục Bưu điện lắp máy điện báo Teletype để chuyển - nhận điện báo giữa CP16-Hà Nội và H20-Sơn Tây. Lần đầu CP16 dùng thiết bị này, báo vụ chưa quen và kỹ thuật truyền dẫn kém nên không khai thác được. 
 Sau thời gian ở H20, thấy không an toàn nếu địch bắn phá mạnh như ở Quảng Ninh, Nghệ An, Hà Tĩnh, Quảng Bình, v.v… Văn phòng Trung ương quyết định chuyển Đài CP16 về hang núi đá Chùa Thầy, xã Sài Sơn, Quốc Oai, Hà Tây. Với hầm máy ở sâu trong núi, có thể đảm bảo an toàn để giữ vững thông tin trong tình huống chiến tranh ác liệt nhất. 
 Đầu năm 1963, Văn phòng Trung ương Đảng chỉ đạo Phòng điện đài CP16 lập phương án thành lập đơn vị thông tin đặc biệt phục vụ Đảng và Chính phủ bảo đảm bí mật, an toàn, nhanh chóng, chính xác trong mọi tình huống của chiến tranh. 
 Trung ương Đảng cử đoàn cán bộ do đồng chí Lê Minh Châu, Phó Văn phòng Trung ương Đảng và đồng chí Vũ Văn Quý, Tổng cục phó Tổng cục Bưu điện dẫn đầu (CP16 có đồng chí Vũ Chính Xương tham gia) đi tham quan, học tập mô hình thông tin phục vụ Đảng ở Liên Xô, Trung Quốc và một số nước xã hội chủ nghĩa; nghiên cứu xây dựng một tổ chức thông tin vô tuyến, hữu tuyến và bưu chính phục vụ Trung ương Đảng và Chính phủ. Sau chuyến công tác, đoàn đã làm báo cáo tổng hợp kèm phương án thành lập “Cục Bưu điện đặc biệt” trình Ban Bí thư Trung ương Đảng xem xét quyết định. 
 
- 
-
-
- 
 Chương III
 THÀNH LẬP CỤC BƯU ĐIỆN TRUNG ƯƠNG VÀ NHỮNG ĐÓNG GÓP TRONG CÔNG CUỘC CHỐNG CHIẾN TRANH PHÁ HOẠI MIỀN BẮC VÀ GIẢI PHÓNG MIỀN NAM, THỐNG NHẤT ĐẤT NƯỚC (1965 -1975)
 
@@ -481,11 +400,6 @@ Như vậy Bưu chính Cục Bưu điện Trung ương có 4 tổ dưới sự �
 - Tổ giao thông hoả tốc nội bộ gồm có các đồng chí Nguyễn Văn Quỳ, Lê Quý Quất, Lâm, Cự, Thản, Bích, Tạo, Toàn, Bang...  
 - Tổ vận chuyển đường thư biên giới gồm các đồng chí Nhân, Tín, Dục, Tuấn, Chinh.
 - Tổ đường thư đặc biệt khu 4 từ Hà Nội vào Vĩnh Linh được chia ra các trạm  khai thông từ ngày 24/8/1965. Lúc đầu chỉ có các đồng chí phụ trách là Chu Văn Nguyên, Nguyễn Văn Tá, Phạm Xuân Hồng, cùng với các đồng chí trưởng trạm.
-
-
-
- 
-Sơ đồ tổ chức mạng giao thông ở ATF
 
 Bước đầu hoàn thiện tổ chức là nhiệm vụ chính, sau khi được bổ sung cán bộ lên tới 60 người thì bắt đầu khai thác vận chuyển công văn, tài liệu mật một cách chính thức theo hành trình bưu cục 90 đóng gói đi vào vĩ tuyến 17 và ra biên giới thông qua các phòng Bưu Điện đặc biệt thuộc các ty Bưu Điện do có sự điều hành của văn phòng tỉnh ủy.
 Riêng tổ giao thông nội bộ trực tiếp đóng tại cơ quan Văn phòng Trung ương, hàng ngày trực tiếp nhận và phát công văn tài liệu cho các đồng chí lãnh đạo thuộc Văn phòng Trung ương và Chính phủ trực tiếp chỉ đạo với quy chế 24 giờ/ngày. Ngoài ra tổ còn có nhiệm vụ tiếp cận khi các đồng chí lãnh đạo của Trung ương và Chính phủ đi công tác đột xuất, cơ sở không kể xa gần và thời gian đều phải phục vụ kịp thời nhất là trong thời kỳ máy bay địch bắn phá ác liệt. Dù các đồng chí lãnh đạo ở Hà Nội hay khu sơ tán, anh chị em giao thông viên đều bám sát để hoàn thành nhiệm vụ được giao. Nhất là các trạm trên tuyến K4 hoạt động trong những điều kiện thiếu thốn, khó khăn và nguy hiểm song anh em đã phát huy tính tự chủ, tự giác, chủ động tranh thủ sự ủng hộ các cấp bộ Đảng địa phương, các Bưu Điện tỉnh và nhất là của nhân dân để khắc phục những khó khăn và hoàn thành nhiệm vụ với quy chế hành trình đường thư là 76 giờ từ Hà Nội đến Vĩnh Linh bằng tất cả các phương tiện môtô, xe đạp, chạy bộ cả ngày và đêm được trang bị súng AK để tạo thế vượt qua những trọng điểm bom đạn của máy bay địch như  anh Nguyễn Quý Hạ trạm A6, vượt qua cầu Cấm khi máy bay địch đang bắn phá; Phạm Đình Tuấn, chiếc xe đạp chở tài liệu bị bom bi xuyên thủng nhiều chỗ ở khung; Nguyễn Văn Tuân, Hà Đăng Đống bị mưa lũ làm nghẽn đường phải nằm lại giữa rừng sâu mấy ngày đêm tìm cách vượt cung đường hoàn thành nhiệm vụ; Mai Sinh Chúc qua sông Ròn bị máy bay phát hiện bắn hỏng thuyền mà vẫn bám sát thuyền vượt sông bảo toàn tài liệu; Vũ Văn Huynh bị máy bay bắn trọng thương trên đường công tác, đưa vào bệnh viện cưa chân hai lần mà vẫn binh tĩnh, lạc quan. Cũng đã có những đồng chí như Ngô Văn Phấn, Nguyễn Văn An và Nguyễn Thanh Bình đã nằm lại yên nghỉ trên đường khi thi hành nhiệm vụ. Đồng chí Nguyễn Trọng Thuật đưa thương binh ra Hà Nội điều trị, bị máy bay địch bắn phá đã hy sinh ngày 24/3/1967. 
@@ -754,26 +668,6 @@ QUÁ TRÌNH THỐNG NHẤT, PHÁT TRIỂN THÔNG TIN BƯU ĐIỆN     HỆ MẬT
 3.	Các công tác khác
       Về đầu tư: Nếu không tính hàng 3708 (viện trợ của Liên Xô), tính đến tháng 12/1985, Văn phòng Trung ương Đảng đã đầu tư cho Cục 1.171.718đ (tiền đổi năm 1985). Tổng cục Bưu điện đầu tư 1.450.251 Đồng, số vốn này Cục phải thu hồi theo kế hoạch để hạch toán toàn ngành. 
 	Về sản xuất kinh doanh: 
-Bảng thống kê sản lượng nghiệp vụ Bưu điện của Cục trong 5 năm từ 1981-1985:
- 
-
-
-SL có cước
-SL miễn cước
-BƯU
-(đồng)	BÁO
-(đồng)	THOẠI
-(đồng)
-1981	11.484	876.398	10.626
-	33.592	1.020.022	9.946
-1982	112.048	851.000	13.283
-	37.309	1.361.758	9.016
-1983	103.073	918.240	15.971
-	30.919	1.008.834	10.209
-1984	134.473	115.506	20.147
-	68.707	1.119.000	18.321
-1985	116.225	735.568	12.449
-	56.675	722.061	20.618
     
    Thống kê trên cho thấy, sản lượng có cước và sản lượng miễn cước 5 năm, ở cả 3 nghiệp vụ bưu, báo, thoại chênh lệch lớn đã hạn chế việc hoàn thành nghĩa vụ thu hồi vốn của đơn vị đối với Ngành.
      Đối tượng sử dụng Bưu điện hệ mật tăng nhanh sau khi có qui định: một đối tượng được sử dụng cả điện thoại 3 số (mạng của Cục) và 5 số (mạng Bưu điện phổ thông). Việc thu cước ở các tỉnh của đơn vị gặp khó khăn. Bởi vì, nơi thiếu kinh phí, nơi chưa có quy định chế độ thanh toán cước phí, nhất là các đài VTĐ tuyến 1. Hơn nữa, Văn phòng Trung ương Đảng, Văn phòng Hội đồng Bộ trưởng cũng chưa có quy định thanh toán cước phí, nên việc thu hồi vốn của Cục càng khó khăn. 
@@ -852,10 +746,6 @@ BƯU
 	Để phấn đấu hoàn thành nhiệm vụ, bộ máy của Cục cần được ổn định và sắp xếp hợp lý, cải tiến tổ chức cho phù hợp với cơ sở vật chất và kỹ thuật hiện đại, xây dựng các tiêu chí, tiêu chuẩn hóa cán bộ cho phù hợp với yêu cầu nhiệm vụ. Việc làm này càng về sau càng đi vào nề nếp. 
 	Như vậy, có thể thấy, để đáp ứng nhu cầu của cách mạng trong giai đoạn đầy khó khăn và thử thách, Cục Bưu điện Trung ương đã trưởng thành nhanh chóng, cả về quy mô hoạt động, lẫn chất lượng trong thông tin liên lạc. Quá trình thống nhất, phát triển thông tin Bưu điện hệ Mật vụ phục vụ Đảng và Nhà nước không những được hoàn thành trên phạm vi cả nước, mà còn phát huy có hiệu quả hoạt động đối ngoại của Nhà nước Việt Nam. Sự thắng lợi của cách mạng nước nhà giai đoạn từ sau 4/1975-1986, có sự đóng góp quan trọng của Cục Bưu điện Trung ương, trong đó nổi bật nhất là phục vụ kịp thời thông tin liên lạc trong chiến dịch biên giới Tây Nam, trong chiến tranh chống bành trướng xâm lược phía Bắc, các Đại hội Đảng lần thứ IV và thứ V, và trong một số sự kiện quan trọng khác của đất nước; viết tiếp truyền thống trung thành, dũng cảm, tận tụy, sáng tạo, nghĩa tình ở những giai đoạn tiếp theo trong tiến trình phát triển của Ngành Bưu điện nói chung và Cục Bưu điện Trung ương nói riêng.
 
-
-
-
- 
 Chương V
 CỤC BƯU ĐIỆN TRUNG ƯƠNG TRONG QUÁ TRÌNH HIỆN ĐẠI HÓA MẠNG LƯỚI BƯU CHÍNH VIỄN THÔNG, CÙNG TOÀN  ĐẢNG, TOÀN DÂN THỰC HIỆN SỰ NGHIỆP ĐỔI MỚI  (1986 – 1996)
 
@@ -897,24 +787,8 @@ Ngoài việc đầu tư, thay đổi thiết bị kỹ thuật, Cục Bưu đi�
 Trên tinh thần đó, Cục Bưu điện Trung ương đã lập phương án và tổ chức Hội thảo rồi hình thành đề án tổ chức mới của mạng thông tin hệ mật để trình lãnh đạo. Sau khi thành lập đoàn và triển khai công tác kiểm tra các phòng Bưu Điện đặc biệt các tỉnh Hải Hưng, Lạng Sơn, Cao Bằng, Hải Phòng, Bình Trị Thiên, Nghệ Tĩnh, Lâm Đồng, Sông Bé, Đồng Tháp, Cửu Long, An Giang, Đà Nẵng, Quảng Ngãi, Bình Định, Phú Yên, Khánh Hoà, đặc biệt chú ý đến các phòng Bưu điện đặc biệt mới do có sự tách nhập hành chính các tỉnh phát sinh.
 Trong công tác kiểm tra các đoàn đã kết hợp việc uốn nắn những sai sót về khai thác, vận chuyển công văn tài liệu của hệ mật trong toàn quốc. Tiếp đó Cục Bưu điện Trung ương cũng đã tiến hành tổ chức  “Hội nghị khách hàng” các cơ quan sử dụng thông tin hệ mật để tuyên truyền nghiệp vụ và tranh thủ sự tham gia đóng góp của các cơ quan vào nhiệm vụ sản xuất kinh doanh của Cục Bưu điện Trung ương trong cơ chế hạch toán kinh tế của ngành Bưu điện. Sau Hội nghị, Cục Bưu điện Trung ương đã mở rộng thêm mạng lưới phục vụ cho một số cơ quan được Văn phòng TƯ Đảng, Chính phủ cho phép. Do đó, chỉ trong thời gian ngắn cuối thập niên 80, Cục Bưu điện Trung ương đã liên tiếp ký 152 hợp đồng kinh tế với tổng giá trị thực hiện là 683.286.985đ và trên thực tế theo số liệu thống kê thì những hợp đồng đó đã thực hiện được 99% chứng tỏ Cục Bưu điện Trung ương là đơn vị bao cấp 100%, mới chuyển đổi sang hạch toán bước đầu đã có những thay đổi cơ bản thể hiện khả năng hoàn thành đồng thời 2 nhiệm vụ, trong đó nhiệm vụ phục vụ Chính trị là mục tiêu chính và đảm bảo hoạt động SXKD để giảm bớt một phần kinh phí được cấp bù bảo đảm thu nhập tương đương 130 kg gạo bình quân mỗi tháng cho cán bộ công nhân viên trong Cục.
 Như vậy qua 4 năm chuyển đổi cơ chế bao cấp sang cơ chế hạch toán kinh doanh và phục vụ của mạng lưới thông tin Bưu điện hệ mật phục vụ Lãnh đạo và chỉ đạo của Đảng và Nhà nước. Trong  thời kỳ mới chuyển đổi cơ chế tuy có những khó khăn nhất định, nhưng nhờ có sự lãnh đạo sát sao của Văn phòng Trung ương Đảng, Ban Cán sự và sự lãnh đạo trực tiếp của Tổng Cục Bưu Điện, Cục Bưu điện Trung ương đã kịp thời phục vụ các yêu cầu thường xuyên và đột xuất về công tác thông tin liên lạc của TƯ Đảng, Chính phủ nhất là những ngày kỷ niệm trọng đại của đất nước, những kỳ Đại hội, các Hội nghị quốc tế và chống thiên tai bão lụt, thông tin lỉên lạc vẫn giữ vững thông suốt trong mọi tình huống, ngày càng tăng thêm sự tin tưởng, tín nhiệm của các cơ quan sử dụng thông tin hệ mật. Công tác đầu tư và phát triển để nâng cao năng lực mạng lưới thông tin liên lạc hệ mật cũng được củng cố, có mặt được nâng cao với những trang thiết bị hiện đại như máy điện thoại ấn phím có bộ nhớ, thông tin di động, điện thoại kéo dài, Teletipe điện tử, Telefax; Lắp tổng Đài điện tử JS6000 (của Pháp) vào cuối năm 1990 thay cho tổng đài từng nấc XY (của Mỹ) đã giúp cho kết quả sản xuất và kinh doanh của Cục năm sau cao hơn năm trước góp phần hoàn thành vượt mức chỉ tiêu kế hoạch đã đề ra. 
-
-
-
-
-
-
-
-
 Số liệu  tổng hợp báo cáo thống kê 4 năm:
 
-Năm
-kế hoạch	Kế hoạch 
-được giao	Kế hoạch
-thực hiện	Vượt
-1986	5 triệu	5,7 triệu	14%
-1987	19,5 triệu	20,8 triệu	6,66%
-1988	174 triệu	195 triệu	12%
-1989	546 triệu	574 triệu	5%
 Công tác cán bộ và lao động cũng có những đổi thay cơ bản theo cơ chế quản lý mới. Năm 1965 chỉ có một vài kỹ sư còn hầu hết là công nhân và trung cấp thì đến nay đã có một phó tiến sỹ, hơn 30 kỹ sư và hầu hết là trung cấp và công nhân kỹ thuật bậc cao, toàn Cục đã và đang thi đua học tập Ngoại ngữ, vi tính để đáp ứng yêu cầu số hoá, hiện đại hoá mạng lưới.
 Nhằm bổ sung và hoàn thiện hành trang của Cục Bưu điện Trung ương, một đơn vị đảm trách công tác thông tin Bưu điện đặc biệt chuyên trách phục vụ Đảng, Nhà nước, Quốc hội và các bộ ngành của Chính phủ đủ sức bước vào thập niên 90, giai đoạn đổi mới, phát triển và hiện đại hoá mà trong đó, công tác thông tin liên lạc nói chung và thông tin hệ mật nói riêng phải tiến trước một bước để hoàn thành song song hai nhiệm vụ: phục vụ nhiệm vụ chính trị, vừa tham gia sản xuất kinh doanh, là một phần của hạ tầng của nền kinh tế quốc dân theo nền kinh tế thị trường định hướng xã hội chủ nghĩa có sự điều tiết của Nhà nước.
 Quán triệt một cách sâu sắc vể định hướng chỉ đạo có tính chiến lược cụ thể đó, Cục Bưu điện Trung ương đã dựa vào khả năng thực tế để cải tạo và phát triển, từng bước hiện đại hoá thiết bị và nâng cao trình độ khai thác trong cả ba nghiệp vụ Bưu, Báo, Thoại để phục vụ và sản xuất kinh doanh ngày một tốt hơn.
@@ -931,14 +805,6 @@ Tuy nhiên, khi có yêu cầu đột xuất đòi hỏi với tính nhanh chón
 Công tác quản lý Nghiệp vụ được quan tâm chu đáo. Hàng tháng duy trì việc nhận xét, đánh giá tình hình và chất lượng khai thác của cả ba nghiệp vụ Bưu, Báo, Thoại trên toàn mạng thông tin Bưu điện hệ I, kịp thời phát hiện và giải quyết những sai sót tồn tại trong khâu khai thác với các Bưu Điện tỉnh và thành phố. Phối hợp chặt chẽ với các Ban nghiệp vụ Bưu và Điện thuộc Tổng công ty Bưu chính Viễn thông rồi thông qua các Ban đó để trực tiếp chỉ đạo các Bưu điện tỉnh và thành phố quan tâm đến anh chị em phòng Bưu điện Đặc biệt, quan tâm đến công tác khai thác thông tin Bưu điện của hệ I, thường xuyên cử cán bộ xuống các Đài, phòng đặc biệt để kiểm tra và bồi dưỡng nghiệp vụ cho thông tin hệ I. Với các tỉnh vừa tách địa giới hành chính vừa tổ chức Bưu điện Đặc biệt, Cục Bưu điện Trung ương đã cử các đoàn công tác xuống tận nơi để cùng địa phương thiết lập thông tin Bưu Điện hệ I và hướng dẫn thủ tục thể lệ khai thác, cung cấp ấn phẩm, túi gói, nhật ấn.
 Năm 1991, Cục Bưu điện Trung ương đã tổ chức phát động cuộc thi: “Người Bưu Điện hệ I phục vụ tốt, năng động, sáng tạo” trên toàn mạng lưới. Qua báo cáo tổng kết cuộc thi có 31 Bưu Điện tỉnh thành phố tham gia với 210 bài dự thi trong đó có ba bài thi đoạt giải nhì, 5 bài đoạt giải ba và 13 bài đoạt giải khuyến khích. Cuộc thi không có giải nhất nhưng tập thể phòng Bưu điện Đặc biệt Thanh Hoá đoạt giải đồng đội, tập thể phòng Bưu Điện đặc biệt Gia Lai Kon Tum được giải khuyến khích.
 Tháng 3/1992, Cục Bưu điện Trung ương đã tổ chức thành công Hội nghị thông tin Bưu điện hệ Mật toàn quốc tại Hà Nội, đánh giá và kiểm điểm công tác phục vụ Đảng và Nhà nước; đồng thời trao đổi thống nhất những biện pháp khắc phục, những tồn tại trong thông tin Bưu điện hệ Mật để phục vụ ngày một tốt hơn về chất lượng trong cả ba nghiệp vụ Bưu, Báo, Thoại phải đảm bảo thực hiện đúng các chỉ tiêu: “Kịp thời, Nhanh chóng, chính xác, an toàn và tiện lợi”, không để xảy ra những sai sót làm ảnh hưởng đến thông tin phục vụ sự lãnh đạo chỉ đạo của Đảng, Nhà nước. Các cơ quan Cục đang phục vụ đã được đưa vào làm đối tác khách hàng của Cục Bưu điện Trung ương. Từ những việc triển khai trên đây tinh thần trách nhiệm và ý thức phục vụ của toàn thể CBCNV Hệ I nói chung và của Cục Bưu điện Trung ương nói riêng được nâng cao rõ rệt cả về mọi mặt: con người, thiết bị, mạng lưới phục vụ, trình độ đội ngũ... Hiện tại Cục đã có 01 phó Tiến sỹ và 33 kỹ sư cùng với các cán bộ trung cấp và công nhân kỹ thuật bậc cao  những người đã trực tiếp làm công tác sửa chữa, vận hành, khai thác viên cho đến người làm công tác quản lý ở tổng Đài 5 (58261 và 58241) tất cả đều hết lòng hết sức tận tuỵ với công việc phục vụ và tổ chức kinh doanh,  kết quả được tổng hợp qua biểu số liệu thống kê từ (1990 – 1992)
-NĂM
-THỰC HIỆN	KẾ HOẠCH
-ĐƯỢC GIAO (VNĐ)	KỂ HOẠCH
-THỰC HIỆN (VNĐ)	TỶ LỆ
-%
-1990	994.000.000	1.093.400.000	110%
-1991	1.800.000.000	2.195.000. 000	121%
-1992	2.700.000.000	2.748.000.000	102%
 
 Biểu số liệu thống kê từ (1990 – 1992)
 Nhờ vậy mà trong ba năm đầu đổi mới, phát triển và hiện đại hoá cũng là ba năm Cục Bưu điện Trung ương, một cơ quan được bao cấp bước vào thực hiện hạch toán theo chỉ tiêu của ngành giao đã phấn đấu thực hiện đạt kết quả tốt năm sau cao hơn năm trước.
@@ -986,7 +852,7 @@ Tháng 8/1992: Huân chương lao động hạng Hai “Có thành tích xuất 
 
  
 Chương VI
-CỤC BƯU ĐIỆN TRUNG ƯƠNG TRONG QUÁ TRÌNH PHÁT TRIỂN            GIAI ĐOẠN 1997 – 4/2008
+CỤC BƯU ĐIỆN TRUNG ƯƠNG TRONG QUÁ TRÌNH PHÁT TRIỂN GIAI ĐOẠN 1997 – 4/2008
 
 	Đại hội Đảng toàn quốc lần thứ VIII, họp từ ngày 28-6 đến 1-7-1996 tại thủ đô Hà Nội kết thúc thắng lợi. Đại hội đã tổng kết 10 năm thực hiện công cuộc đổi mới, kiểm điểm việc thực hiện Nghị quyết Đại hội Đảng lần thứ VII và quyết định mục tiêu, phương hướng, giải pháp thực hiện công nghiệp hóa, hiện đại hóa đất nước đến năm 2000 và 2020. Trên cơ sở phân tích những đặc điểm nổi bật của tình hình thế giới, nêu rõ những thời cơ và thách thức, xác định: tiếp tục nắm vững hai nhiệm vụ chiến lược xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc, đẩy mạnh công nghiệp hóa, hiện đại hóa. Đánh giá giai đoạn 1996-2000. Đại hội Đảng lần thứ VIII cho rằng, đây là giai đoạn rất quan trọng của thời kỳ phát triển mới. 
 	Thời kỳ này, Tổng công ty Bưu chính Viễn thông Việt Nam (VNPT) có những bước phát triển vượt bậc cả về quy mô tổ chức và chất lượng, loại hình dịch vụ. Ngày 19-11-1997, Việt Nam chính thức hòa mạng Internet quốc tế và từ ngày 01-12-1997, VNPT chính thức cung cấp dịch vụ Internet cho các thuê bao.
@@ -1318,40 +1184,4 @@ Các danh hiệu cao quý được Đảng và Nhà nước tặng thưởng qua
 -	Năm 2012 được Đảng, Nhà nước tặng thưởng huân chương Lao động hạng ba về việc tham gia kết nối đường dây nóng giữa lãnh đạo hai nước Việt Nam Trung Quốc (Quyết định số: 1224/QĐ - CTN ngày 16/8/2012).
 -	Năm 2014 được Đảng, Nhà nước tặng thưởng huân chương Độc Lập hạng Nhì, (Quyết định số: 2888/QĐ - CTN ngày 11/11/2014).
 	Từ khi thành lập Cục Bưu điện Trung ương 17/6/1965 cho đến năm 2015, tổng hợp các danh hiệu, Cục đã được Đảng và Nhà nước ghi nhận: Danh hiệu Anh hùng lực lượng vũ trang Nhân dân, Anh hùng lao động thời kỳ đổi mới, Huân chương Độc lập hạng Nhì, hạng Ba, Huân chương lao động các hạng: Nhất, Nhì, Ba, Huân chương kháng chiến hạng Hai; Cục Bưu điện Trung ương cũng nhận được rất nhiều phần thưởng cao quý khác như: Bằng khen của tiểu ban tổ chức phục vụ Đại hội Đảng toàn quốc, Cờ, Bằng khen của Thủ tướng Chính phủ, Bằng khen của Văn phòng Trung ương Đảng, Văn phòng Quốc Hội, Cờ thi đua  của Đảng bộ khối doanh nghiệp Trung ương, Tổng Liên đoàn Lao động Việt Nam, Bộ Thông tin & Truyền thông, Tập đoàn Bưu chính Viễn thông Việt Nam và công đoàn Bưu điện Việt Nam; cùng nhiều bằng khen, giấy khen, huy chương và kỷ niệm chương các loại, cho tập thể và cá nhân đã có nhiều công lao đóng góp cho sự phát triển đi lên của Cục Bưu điện Trung ương trong suốt 50 năm phục vụ công tác thông tin liên lạc cho Đảng và Nhà nước./.    
-
-HÌNH ẢNH LÃNH ĐẠO CỤC BƯU ĐIỆN TRUNG ƯƠNG QUA CÁC THỜI KỲ
-PHỤ LỤC 3
-HÌNH ẢNH CON NGƯỜI, SỰ KIỆN QUA CÁC GIAI ĐOẠN LỊCH SỬ               CỦA CỤC BƯU ĐIỆN TRUNG ƯƠNG
- 
-LỊCH SỬ CỤC BƯU ĐIỆN TRUNG ƯƠNG
-
-
-
-
-
-
-Chịu trách nhiệm xuất bản:
-……………………………………….
-
-Biên tập: ……………………
-Chế bản: ……………………
-Sửa bản in:………………….
-Trình bầy:…………………..
-
-
-
-
-
-
-
-
-
-
-
-
-
-	NHÀ XUẤT BẢN…………….
-
-Địa chỉ: …………………………………..
-Điện thoại:………………………………..
 
