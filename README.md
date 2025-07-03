@@ -1,5 +1,5 @@
 
 
-Trợ lý ảo Lan Chi được tạo bởi Dương Xuân Phúc phòng CS Cục BĐTW
+Trợ lý ảo Xuân Phúc được tạo bởi Công an phường Cầu Giấy
 
 
